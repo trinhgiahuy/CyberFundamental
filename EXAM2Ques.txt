@@ -1,0 +1,450 @@
+CIA:
+https://geek-university.com/ccna-security/confidentiality-integrity-and-availability-cia-triad/#:~:text=Confidentiality%20%E2%80%93%20ensures%20that%20sensitive%20information%20are%20accessed,usernames%2C%20passwords%2C%20access%20control%20lists%20%28ACLs%29%2C%20and%20encryption.
+Confidentiality –
+ensures that sensitive information are accessed only by an authorized person and kept away from those not authorized to possess them
+
+Integrity – ensures that information are in a format that is true and correct to its original purposes.
+
+Availability – ensures that information and resources are available to those who need them
+
+diminish						giảm bớt
+compliance					tuân thủ
+intangible			vô hình
+subcomponent		thành phần phụ
+escrowed			Kí quỹ
+enumerate 			liệt kê
+complement			bổ sung
+Aggregation of rights		tổng hợp các quyền
+Critical tasks
+premises.			cơ sở
+assessments			đánh giá
+
+
+_______________________________________________________ Subject and Object
+The subject is a something that can manipulate an object; an object is something that can be manipulated by a subject.
+
+A subject is usually a human user or process running in memory.
+
+An object is any resource that exists anywhere a subject can access it (in memory, on disk, across a communications channel, in "the cloud", etc.).
+
+Subjects are active and objects are passive.
+
+
+
+
+
+
+
+
+
+
+
+Denial of service becomes more possible
+if the service is distributed to many sites that must occasionally synchronize their data.
+if the service can be accessed through several addresses, some of which can be administratively blocked in case of too many requests.
+IF THE SECURITY POLICY DICTATES THAT TOO MANY FAILED ATTEMPTS TO LOG IN LEAD TO A TEMPORARY LOCK-OUT.
+if the authentication of clients requires a proof-of-effort from them.
+
+Three of these five: Ping of Death, Ping sweep, Smurf, Spyware and SYN flood, are examples of attacks directly against
+confidentiality.
+integrity.
+authentication.
+AVAILABILITY.
+
+What is an example of a cyber attack?
+An insider in a technology firm doing industrial espionage for a foreign company.
+A group of script kiddies trying their skills randomly and managing to launch a distributed DoS attack against a government agency.
+USING SOCIAL ENGINEERING TO INJECT CODE TO A CITY'S CENTRAL WATER SUPPLY SYSTEM AND CAUSING IT TO CRASH.
+Terrorists causing severe damage to the infrastructure by explosives.
+
+A web cookie is a piece of information stored at the
+web server and concerning the browser program.
+web server and concerning the browsing person.
+browser and concerning the browsing person.
+BROWSER AND CONCERNING THE VISITS TO THE SERVER.
+
+Types of cloud services
+
+------------------------------------What is Paas 
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything 
+from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. 
+https://azure.microsoft.com/en-us/overview/what-is-paas/
+
+SaaS = Software as a service
+IaaS = Infrastructure as a service
+PaaS = Platform as a service 
+
+There are three models of cloud services, SaaS, IaaS and PaaS, that is, 'S', 'I' and 'P' as a service, where
+S=SOFTWARE, I=INFRASTRUCTURE, P=PLATFORM
+S=security, I=integrity, P=process
+S=safety, I=internet, P=premises
+S=software, I=infrastructure, P=procedure
+---------------------------------advanced persistent threat (APT)
+https://searchsecurity.techtarget.com/definition/advanced-persistent-threat-APT#:~:text=Some%20examples%20of%20advanced%20persistent%20threats%20include%3A%201,cybersecurity%20researchers%20in%202010.%20...%20More%20items...%20
+
+An advanced persistent threat (APT) is a prolonged and targeted cyberattack in which an intruder gains access to a network and REMAINS UNDETECTED FOR AN EXTENDED PERIOD OF TIME.
+APT attacks are initiated to steal data rather than cause damage to the target organization's network.
+
+APT groups often use advanced attack methods, including advanced exploits of zero-day vulnerabilities, as well as highly-targeted spear phishing and other social engineering techniques.
+
+maintain access to the targeted network without being discovered, threat actors use advanced methods, including continuously rewriting malicious code to avoid detection and other sophisticated evasion techniques
+------------------------
+Salami attack: A salami attack is a small attack that can be repeated many times very efficiently. Thus the combined output of the attack is great.
+In the example above, it refers to stealing the round-off from interest in bank accounts.
+Even though it is less than 1 cent per account, when multiplied by millions of accounts over many months, the adversary can retrieve quite a large amount.
+
+------------------------			What is baiting 
+Baiting is like the real-world ‘Trojan Horse’. Therefore it uses physical media and relies on the curiosity or greed of the victim. It’s in many ways similar to phishing attacks.
+However, what distinguishes them from other types of social engineering is the promise of an item or good that hackers use to entice victims.
+
+-------------------------			Social Engineering: What is Phishing?
+https://blog.mailfence.com/what-is-phishing/
+Baiting person may offer users free music or movie downloads if they surrender their login credentials to a certain site.
+https://blog.mailfence.com/what-is-baiting-in-social-engineering/
+
+------------------------------	What is shoulder surfing
+https://www.techopedia.com/definition/4103/shoulder-surfing
+act of obtaining personal or private information through direct observation. Shoulder surfing involves looking over a person's shoulder to gather pertinent information while the victim is oblivious.
+
+
+----------------------------		Side channel attack
+https://searchsecurity.techtarget.com/definition/side-channel-attack#:~:text=side-channel%20attack.%20A%20side-channel%20attack%20%28SCA%29%20is%20a,a%20side%20channel%20is%20any%20communication%20channel%20
+A side-channel attack (SCA) is a security exploit that involves collecting information about what a computing device does when it is performing cryptographic operations and using that information to reverse engineer the device's cryptography system.
+---------------------------			What is an internet troll
+https://www.howtogeek.com/465416/what-is-an-internet-troll-and-how-to-handle-trolls/
+An internet troll is someone who makes intentionally inflammatory, rude, or upsetting statements online to elicit strong emotional responses in people or to steer the conversation off-topic.
+They can come in many forms. Most trolls do this for their own amusement, but other forms of trolling are done to push a specific agenda.
+
+Instead of targeting a software vulnerability caused by a coding error or configuration drift, the attacker exploits the way the device's operating system (OS) accesses the hardware upon which the OS runs
+
+
+--------------------------------	Meet in the middle attack
+https://internetofthingsagenda.techtarget.com/definition/meet-in-the-middle-attack
+Meet-in-the-middle is a known attack that can exponentially reduce the number of brute force permutations required to decrypt text that has been encrypted by more than one key. 
+Such an attack makes it much easier for an intruder to gain access to data.
+The meet-in-the-middle attack targets block cipher cryptographic functions. The intruder applies brute force techniques to both the plaintext and ciphertext of a block cipher.
+
+Although a meet-in-the-middle exploit can make the attacker's job easier, it can't be conducted without a piece of plaintext and corresponding ciphertex
+--------------------------		Birthday attack in Cryptography
+https://www.geeksforgeeks.org/birthday-attack-in-cryptography/
+Birthday attack is a type of cryptographic attack that belongs to a class of brute force attacks. It exploits the mathematics behind the birthday problem in probability theory.
+
+Birthday paradox problem –
+
+----------------------------		Ping of death attack (POD)
+https://www.imperva.com/learn/ddos/ping-of-death/
+Ping of Death (a.k.a. PoD) is a type of Denial of Service (DoS) attack in which an attacker attempts to crash, destabilize, or freeze the targeted computer or service by sending malformed or oversized packets using a simple ping command.
+While PoD attacks exploit legacy weaknesses which may have been patched in target systems. However, in an unpatched systems, the attack is still relevant and dangerous.
+Recently, a new type of PoD attack has become popular. 
+
+------------------------------		What is injection attack 
+https://www.acunetix.com/blog/articles/injection-attacks/
+Injection attacks refer to a broad class of attack vectors.
+In an injection attack, an attacker supplies untrusted input to a program. This input gets processed by an interpreter as part of a command or query. 
+In turn, this alters the execution of that program.
+Injections are amongst the oldest and most dangerous attacks aimed at web applications. 
+They can lead to data theft, data loss, loss of data integrity, denial of service, as well as full system compromise. 
+The primary reason for injection vulnerabilities is usually insufficient user input validation.
+
+SQL injection (SQLi) and Cross-site Scripting (XSS) are the most common injection attacks but they are not the only ones.
+
+---------------------------		Cross-site script 
+https://www.netsparker.com/blog/web-security/cross-site-scripting-xss/
+Cross-site Scripting, also known as XSS, is a way of bypassing the SOP concept in a vulnerable web application. 
+Whenever HTML code is generated dynamically, and the user input is not sanitized and is reflected on the page an attacker could insert his own HTML code. 
+The web browser will still show the user's code since it pertains to the website where it is injected.
+
+In such case an attacker can easily insert JavaScript code which would run under the site's context. 
+By doing so the attacker is able to access other pages on the same domain and can read data like CSRF-Tokens or the set cookie
+
+
+---------------------------	Intrusion Detection Attack
+https://www.techopedia.com/definition/3988/intrusion-detection-system-ids#:~:text=An%20intrusion%20detection%20system%20%28IDS%29%20is%20a%20type,through%20malicious%20activities%20or%20through%20security%20policy%20violations.
+An intrusion detection system (IDS) is a type of security software designed to automatically alert administrators 
+when someone or something is trying to compromise information system through malicious activities or through security policy violations.
+
+
+
+
+
+
+
+
+-----------------------------------		TOCTOU: a race condition
+https://hackernoon.com/time-of-check-to-time-of-use-toctou-a-race-condition-99c2311bd9fc
+is a class of software bug caused by changes in a system between the checking of a condition (such as a security credential) and the use of the results of that check
+
+
+----------------------------------			Security abstraction
+https://www.securityweek.com/understanding-benefits-security-abstraction
+enables the generalization of complex cyber security models. 
+The goal is to break down the cybersecurity ecosystem into abstract components in a way that clearly defines the security role of each one
+
+-----------------------------------			Automatic API attack tool 
+https://www.ncsc.gov.uk/blog-post/offline-backups-in-an-online-world
+
+-----------------------------------				Zigbee
+https://www.ncsc.gov.uk/blog-post/offline-backups-in-an-online-world
+Zigbee is a standards-based wireless technology developed to enable low-cost, low-power wireless machine-to-machine (M2M) and internet of things (IoT) networks.
+Zigbee is for low-data rate, low-power applications and is an open standard.
+
+
+
+-------------------------------			Principle of Open Design
+https://www.informit.com/articles/article.aspx?p=30487&seqNum=2
+The principle of open design states that the security of a mechanism should not depend on the secrecy of its design or implementation.
+
+-----------------------------			Federated Identity (FID)
+https://doubleoctopus.com/security-wiki/federation-and-sso/federated-identity/
+
+A Federated Identity is an attestation produced by an authenticating party that verifies the identity of an access-requesting party to a third party.
+
+Also : Difference btw FID and SSO:
+Federated Identity on the other hand is a solution used across enterprises, or independently managed domains within an enterprise. 
+It requires that two or more federated identity systems establish trust amongst themselves, 
+to allow one identity federation party to attest to another about the identity of an access-requesting party
+
+-----------------------------			Residual Disk				(in Risk Management)
+http://www.investorwords.com/19329/residual_risk.html
+A risk that remains after all efforts have been made to mitigate or eliminate risks associated with a business process or investment.
+
+-----------------------------			Mandatory Access Control (MAC)
+https://searchsecurity.techtarget.com/definition/mandatory-access-control-MAC#:~:text=Mandatory%20access%20control%20%28MAC%29%20is%20a%20security%20strategy,are%20unable%20to%20be%20altered%20by%20end%20users.
+
+Mandatory access control (MAC) is a security strategy that restricts the ability individual resource owners have to grant or deny access to resource objects in a file system.
+MAC criteria are defined by the system administrator, strictly enforced by the operating system (OS) or security kernel, and are unable to be altered by end users.
+
+--------------------------			Role base access controll (RBAC)
+https://searchsecurity.techtarget.com/definition/role-based-access-control-RBAC#:~:text=Role-based%20access%20control%20%28RBAC%29%20is%20a%20method%20of,from%20accessing%20information%20that%20doesn%27t%20pertain%20to%20them.
+a method of restricting network access based on the roles of individual users within an enterprise. 
+RBAC lets employees have access rights only to the information they need to do their jobs and prevents them from accessing information that doesn't pertain to them.
+
+----------------------			Common Criteria (CC)
+https://resources.infosecinstitute.com/category/certifications-training/cissp/domains/security-engineering/security-evaluation-models/
+
+
+
+---------------			Back up rule 		(include offline backup or cold backup , 3-2-1 backup rule)
+https://www.ncsc.gov.uk/blog-post/offline-backups-in-an-online-world
+
+---------------			Adware (ad support sofware)
+https://us.norton.com/internetsecurity-emerging-threats-what-is-grayware-adware-and-madware.html
+
+
+
+
+
+
+
+-------------------------How Are 4G and 5G Different?
+https://www.lifewire.com/5g-vs-4g-4156322
+
+-------------------------What Is Bandwidth?
+https://www.lifewire.com/what-is-bandwidth-2625809
+
+-------------------------Bits Per Second Explained
+https://www.lifewire.com/bits-per-second-kbps-mbps-gbps-818122	
+
+--------------------------What Is 802.11g Wi-Fi?
+https://www.lifewire.com/history-of-wireless-standard-802-11g-816556
+
+--------------------------802.11n Wi-Fi in Computer Networking
+https://www.lifewire.com/802-11n-wireless-network-818281
+
+
+
+--------------------------Risk Analysis vs. Risk Assessment: What's the Difference?
+https://www.fairinstitute.org/blog/risk-analysis-vs.-risk-assessment-whats-the-difference
+
+----------------------		Outsourcing in business
+https://www.thebalancesmb.com/what-is-outsourcing-2533662
+
+
+-----------------------Common Criteria (cc)
+https://lightshipsec.com/common-criteria/#:~:text=What%20is%20Common%20Criteria%3F%20The%20Common%20Criteria%20%28CC%29,met%20and%20a%20methodology%20for%20evaluating%20those%20requirements.
+
+
+------------------------Qualitative Risk Analysis
+https://www.techrepublic.com/article/how-to-perform-a-qualitative-risk-analysis/#:~:text=5%20Step%20process%20to%20perform%20a%20qualitative%20risk,priority%20or%20low%20concern.%20...%20More%20items...%20
+
+--------------------------Escrow
+https://www.investopedia.com/terms/e/escrow.asp
+----------------------What is a threat tree in threat modeling?
+https://security.stackexchange.com/questions/98492/what-is-a-threat-tree-in-threat-modeling
+
+
+
+
+_______________________________________________________ Key Management
+https://www.techopedia.com/definition/10285/key-management
+
+Key management is the process of administering or managing cryptographic keys for a cryptosystem. It involves the generation, creation, protection, storage, exchange, 
+replacement and use of said keys and with another type of security system built into large cryptosystems, enables selective restriction for certain keys.
+
+
+
+_______________________________________________________ What is the Difference Between Access Control List and Access Control Matrix
+https://pediaa.com/what-is-the-difference-between-access-control-list-and-access-control-matrix/
+
+**access control list defines a SET OF PERMISSIONS ATTACHED TO A SYSTEM OBJECT
+**while access control matrix defines a subject’s access rights on an object which is a set of access control lists.
+
+_______________________________________________________ ACL
+https://www.ittsystems.com/access-control-list-acl/ 
+
+
+
+_______________________________________________________ Data Classification
+https://www.imperva.com/learn/data-security/data-classification/
+
+
+_______________________________________________________ Sanitzation
+https://en.wikipedia.org/wiki/Sanitization_(classified_information)
+
+
+_______________________________________________________ Avalanche Effect in Cryptography
+https://www.imperva.com/learn/data-security/data-classification/https://www.imperva.com/learn/data-security/data-classification/
+
+
+
+_______________________________________________________ Cryptanalysis
+https://searchsecurity.techtarget.com/definition/cryptanalysis
+
+Cryptanalysis is the study of ciphertext, ciphers and cryptosystems with the aim of understanding how they work and finding and improving techniques for defeating or weakening them
+
+_______________________________________________________ Confussion and Difussion
+
+https://en.wikipedia.org/wiki/Confusion_and_diffusion
+
+Confusion means that each binary digit (bit) of the ciphertext should depend on several parts of the key, obscuring the connections between the two.
+The property of confusion hides the relationship between the CIPHERTEXT AND THE KEY.
+This property makes it difficult to find the key from the ciphertext and if a single bit in a key is changed, the calculation of the values of most or all of the bits in the ciphertext will be affected.
+Confusion increases the ambiguity of ciphertext and it is used by both block and stream ciphers.
+
+
+Diffusion means that if we change a single bit of the plaintext, then (statistically) half of the bits in the ciphertext should change, and similarly, if we change one bit of the ciphertext, then approximately one half of the plaintext bits should change.[2] Since a bit can have only two states, when they are all re-evaluated and changed from one seemingly random position to another, half of the bits will have changed state.
+The idea of diffusion is to hide the relationship between the CIPHERTEXT AND THE PLAIN TEXT.
+This will make it hard for an attacker who tries to find out the plain text and it increases the redundancy of plain text by spreading it across the rows and columns; it is achieved through transposition of algorithm and it is used by block ciphers only.
+
+
+_______________________________________________________Elliptic Curve Cryptography (ECC)
+https://www.techopedia.com/definition/30564/elliptic-curve-cryptography-ecc#:~:text=Definition%20-%20What%20does%20Elliptic%20Curve%20Cryptography%20%28ECC%29,public%2C%20whereas%20the%20decryption%20key%20is%20kept%20private.
+
+Elliptic curve cryptography (ECC) is a MODERN TYPE OF PUBLIC-KEY CRYPTOGRAPHY wherein the ENCRYPTION KEY IS MADE PUBLIC, whereas THE DECRYPTION KEY IS KEPT PRIVATE.
+
+_______________________________________________________ Known-plaintext attack 
+https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-5906-5_588
+
+_______________________________________________________ Chosen-plaintext attack
+https://en.wikipedia.org/wiki/Chosen-plaintext_attack
+
+A chosen-plaintext attack (CPA) is an attack model for cryptanalysis which presumes that the attacker can obtain the ciphertexts for arbitrary plaintexts.[1] 
+The goal of the attack is to gain information that reduces the security of the encryption scheme.
+Modern ciphers aim to provide semantic security, also known as ciphertext indistinguishability under chosen-plaintext attack, 
+and are therefore by design generally immune to chosen-plaintext attacks if correctly implemented.
+
+_______________________________________________________ Key escrow
+https://en.wikipedia.org/wiki/Key_escrow
+
+Key escrow (also known as a “fair” cryptosystem) is an arrangement in which the keys needed to decrypt encrypted data are held in escrow so that, 
+under certain circumstances, an authorized third party may gain access to those keys
+_______________________________________________________ Key space (cryptography) 
+https://en.wikipedia.org/wiki/Key_space_(cryptography)
+	_______________________________________________________64-bit computing
+	https://en.wikipedia.org/wiki/64-bit_computing
+	
+	
+_______________________________________________________ Session key
+https://searchsecurity.techtarget.com/definition/session-key
+
+A session key is an encryption and decryption key that is randomly generated to ensure the security of a communications session between a user and another computer or between two computers. 
+Session keys are sometimes called symmetric keys, because the same key is used for both encryption and decryption.
+
+_______________________________________________________ Packet Sniffers
+https://www.lifewire.com/what-is-a-packet-sniffer-2487312
+
+
+
+_______________________________________________________ IP Sec mode
+ http://www.firewall.cx/networking-topics/protocols/870-ipsec-modes.html
+ 
+ 
+ _______________________________________________________ TLS (Transport Layer Security)
+ https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
+ 
+ HTTPS IS AN IMPLEMENTATION OF TLS ENCRYPTION ON TOP OF THE HTTP PROTOCOL,
+ 
+ There are three main components to what the TLS protocol accomplishes: Encryption, Authentication, and Integrity.
+Encryption: hides the data being transferred from third parties.
+Authentication: ensures that the parties exchanging information are who they claim to be.
+Integrity: verifies that the data has not been forged or tampered with.
+
+_______________________________________________________ DNS, DNSSEC
+https://www.cloudflare.com/learning/dns/dns-security/
+
+
+_______________________________________________________ Replay attack
+https://www.kaspersky.com/resource-center/definitions/replay-attack
+
+
+_______________________________________________________ Dynamic link library (DLL)
+https://searchwindowsserver.techtarget.com/definition/dynamic-link-library-DLL#:~:text=dynamic%20link%20library%20%28DLL%29%20A%20dynamic%20link%20library,specific%20device%2C%20such%20as%20a%20printer%20or%20scanner.
+
+_______________________________________________________ Address Space Layout Randomization (ASLR)
+https://www.howtogeek.com/278056/what-is-aslr-and-how-does-it-keep-your-computer-secure/
+
+_______________________________________________________ Data Execution Prevention (DEP)
+Data Execution Prevention (DEP) is a security feature that can help prevent damage to your computer from viruses and other security threats. 
+Harmful programs can try to attack Windows by attempting to run (also known as execute) code from system memory locations reserved for Windows and other authorized programs. 
+These types of attacks can harm your programs and files.
+
+_______________________________________________________ Obfuscation
+https://www.techopedia.com/definition/16375/obfuscation
+
+a programming technique in which code is intentionally obscured to prevent reverse engineering and deliver unclear code to anyone other than the programmer. 
+
+applied to programs to ensure intellectual property (IP) protection through reverse engineering prevention.
+
+_______________________________________________________ Reference monitor
+https://en.wikipedia.org/wiki/Reference_monitor
+In operating systems architecture a reference monitor concept defines a set of design requirements on a reference validation mechanism, 
+which enforces an access control policy over subjects' (e.g., processes and users) ability to perform operations (e.g., read and write) 
+on objects (e.g., files and sockets) on a system.
+
+_______________________________________________________ Trusted Computing Base (TCB)
+https://blog.finjan.com/trusted-computing-base/
+
+The reference monitor works at the boundary between trusted and untrusted domains of a system. 
+Its function is to validate access to objects (files, data, processes, etc.) by authorized subjects (persons, applications, processes, etc.).
+
+_______________________________________________________ TCP Wrapper act as a filter
+TCP Wrapper is a public domain computer program that provides firewall services for UNIX servers
+
+TCP Wrapper monitors incoming packets. If an external computer or host attempts to connect, 
+TCP Wrapper checks to see if that external entity is authorized to connect. If it is authorized, then access is permitted; if not, access is denied
+
+
+_______________________________________________________ Bastion Host
+A bastion host is a specialized computer that is deliberately exposed on a public network.
+
+It is placed outside the firewall in single firewall systems or, if a system has two firewalls, 
+it is often placed between the two firewalls or on the public side of a demilitarized zone (DMZ).
+
+The most common examples of bastion hosts are mail, domain name system, Web and File Transfer Protocol (FTP) servers. 
+Firewalls and routers can also become bastion hosts.
+
+_______________________________________________________ Sandbox Security Model
+https://www.geeksforgeeks.org/sandbox-security-model/
+
+sandbox is a security mechanism for separating running programs, usually in order to minimize system failures or software vulnerabilities from spreading.
+
+isolated computing environment in which a program or file can be executed without affecting the application in which it runs
+
+
+_______________________________________________________ Bit Rot
+https://www.techopedia.com/definition/33108/bit-rot
+
+Bit rot is a perennial problem in IT also known as data degradation, data decay, or data rot.
+Bit rot happens when storage media or processing hardware ages through the process of gradual wear
+
+https://www.howtogeek.com/660727/bit-rot-how-hard-drives-and-ssds-die-over-time/

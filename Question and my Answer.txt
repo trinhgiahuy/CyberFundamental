@@ -1,0 +1,1379 @@
+SOME GOOD LINK
+
+
+COMMON TYPE OF MALWARE
+https://www.secureaplus.com/common-types-malware/
+
+#30SecTech (Norton)
+https://www.youtube.com/results?search_query=%2330SecTech
+
+Security4web (malware)
+https://security4web.org/page.php?id=10
+
+Some concepts in secutiry (backdoor and other)
+https://www.malwarebytes.com/backdoor/#:~:text=In%20the%20world%20of%20cybersecurity%2C%20a%20backdoor%20refers,on%20a%20computer%20system%2C%20network%2C%20or%20software%20application.
+
+How do web server work 
+https://www.geeksforgeeks.org/web-servers-work/
+
+Difference between DOS and DDOS attack
+https://www.geeksforgeeks.org/difference-between-dos-and-ddos-attack/?ref=rp
+
+Brute force attack
+https://www.geeksforgeeks.org/brute-force-attack/?ref=rp
+
+What is a Dictionary Attack?		is a form of Brute force attack
+https://www.geeksforgeeks.org/what-is-a-dictionary-attack/?ref=rp
+
+
+Active and Passive attacks in Information Security
+https://www.geeksforgeeks.org/active-and-passive-attacks-in-information-security/
+
+https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/?ref=rp
+
+CONFIDENTIALLY			 //Confidentiality is the protection of information in the system so that an unauthorized person cannot access it.Ensure the data only viewable by authorized user 
+https://www.geeksforgeeks.org/information-security-confidentiality/?ref=rp
+
+INTEGRITY				////verify that data has not been modified but if modified : any changes are intended and correctly applied.
+https://www.geeksforgeeks.org/information-security-integrity/?ref=rp
+
+AVAILABILITY			//is the assertion that a computer system is available or accessible by an authorized user whenever it is needed. 
+https://www.geeksforgeeks.org/availability-in-information-security/
+
+https://ldapwiki.com/wiki/Availability
+
+5 Common Encryption Algorithms and the Unbreakables of the Future
+https://blog.storagecraft.com/5-common-encryption-algorithms/
+
+Common Encryption Types, Protocols and Algorithms Explained
+https://www.comparitech.com/blog/information-security/encryption-types-explained/
+
+Digital Signature Alorithm(DSA)
+https://www.techopedia.com/definition/27504/digital-signature-algorithm-dsa
+
+A Glossary of Cryptographic Algorithms
+https://www.globalsign.com/en/blog/glossary-of-cryptographic-algorithms
+
+Cipher
+https://www.headendinfo.com/what-is-a-cipher/
+
+DES (Data Encryption Standard)
+https://searchsecurity.techtarget.com/definition/Data-Encryption-Standard
+The Data Encryption Standard (DES) is an outdated symmetric-key method of data encryption.
+
+
+
+One-time pad
+https://searchsecurity.techtarget.com/definition/one-time-pad
+
+6g tech 
+https://searchnetworking.techtarget.com/definition/6G?_ga=2.41691425.2065116457.1598775891-1200087937.1595175958
+
+Difference between digital signature and digital certificate
+http://www.differencebetween.net/technology/difference-between-digital-certificate-and-digital-signature/
+
+Difference btw asymetric ans symetric encryption
+https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences
+
+What is RSA Cryptography? Complete Guide to this Encryption Algorithm
+https://blockonomi.com/rsa-cryptography/
+
+How RSA work with example
+http://doctrina.org/How-RSA-Works-With-Examples.html
+
+
+What is IPv4?
+https://www.geeksforgeeks.org/what-is-ipv4/?ref=leftbar-rightbar
+
+
+
+
+
+-----------------------------------							Checksum
+What Is a Checksum (and Why Should You Care)?
+https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/
+
+
+How to Verify a Linux ISO’s Checksum and Confirm It Hasn’t Been Tampered With
+https://www.howtogeek.com/246332/how-to-verify-a-downloaded-linux-iso-file-wasnt-tampered-with/
+
+
+
+
+
+
+----------------------------------------
+
+Cryptography hash function
+https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm
+
+Cyclic Redundancy Check (CRC)
+
+https://www.techopedia.com/definition/1793/cyclic-redundancy-check-crc
+
+What is KEX?
+https://support.kickex.com/hc/en-us/articles/360031257072-What-is-KEX-
+
+----------------------------------------					What is IPSecs
+https://www.csoonline.com/article/2117067/data-protection-ipsec.html	
+
+https://www.geeksforgeeks.org/ip-security-ipsec/
+
+			What is IPsec and how does it work? 				//almost everything relate to IPSec 
+			https://www.comparitech.com/blog/information-security/ipsec-encryption/#:~:text=IPsec%20can%20use%20both%20ESP%20and%20AH%20in,remains%2C%20but%20a%20new%20header%20is%20added%20underneath.
+			
+			
+			The OSI Model Explained
+			https://www.comparitech.com/net-admin/osi-model-explained/
+			
+			Difference between IPSec and SSL
+			https://www.geeksforgeeks.org/difference-between-ipsec-and-ssl/?ref=rp
+-----------------------Data Packet
+Data is transmitted in packets, which consist of a payload and a header in IPv4. 
+The payload is the data itself that is being transmitted, while the header includes the type of protocol, addresses and other information needed
+to make sure that the data can arrive at its desired location.
+
+
+
+
+
+What is TLS (Transport Layer Security)
+https://searchsecurity.techtarget.com/definition/Transport-Layer-Security-TLS
+Transport Layer Security (TLS) is a protocol that provides authentication, privacy, and data integrity between two communicating computer applications. 
+It's the most widely-deployed security protocol used today and is used for web browsers and other applications that require data to be securely exchanged over a network,
+such as web browsing sessions, file transfers, VPN connections, remote desktop sessions, and voice over IP (VoIP)
+
+
+Difference between IPSec and SSL
+https://www.geeksforgeeks.org/difference-between-ipsec-and-ssl/?ref=rp
+It is a networking protocol that is used at the transport layer to provide a secure connection between the client and the server over the internet
+SSL is used to secure web transactions while IPSec used to secure VPN 
+for eg : SSL is used for securing communication between web browser and web server  
+
+Network protocol
+https://searchnetworking.techtarget.com/definition/protocol?_ga=2.146601335.291418144.1598988092-1200087937.1595175958
+
+12 common network protocols and their functions explained
+https://searchnetworking.techtarget.com/feature/12-common-network-protocols-and-their-functions-explained
+
+SeacrhNetwork mainpage
+https://searchnetworking.techtarget.com/
+
+Digital Cash
+https://whatis.techtarget.com/definition/digital-cash-eCash
+
+
+What is SSH
+https://searchsecurity.techtarget.com/definition/Secure-Shell
+SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, 
+a secure way to access a computer over an unsecured network.
+
+Basically, The protocol and program of choice for setting up a window for command line use of a remote computer
+	
+
+
+	
+----------------------------------------------					DMZ (Networking)
+https://searchsecurity.techtarget.com/definition/DMZ
+
+In computer networks, a DMZ (demilitarized zone), also sometimes known as a perimeter network or a screened subnetwork,
+is a physical or logical subnet that separates an internal local area network (LAN) from other untrusted networks
+-- usually the public internet. External-facing servers, resources and services are located in the DMZ. 
+Therefore, they are accessible from the internet, but the rest of the internal LAN remains unreachable. 
+This provides an additional layer of security to the LAN as it restricts a hacker's ability to directly access internal servers and data through the internet.
+	
+
+Most common server that provide to the users on the public internet should be place in DMZ network such as : web server, proxy server,server for email, domain name system (DNS), File transfet protocol (FTP) , voice over IP(VoIP)
+
+
+
+
+------------------------------------Do DMZ networks still provide security benefits for enterprises?
+https://searchsecurity.techtarget.com/answer/Do-DMZ-networks-still-provide-security-benefits-for-enterprises
+	
+	
+-----------------------------------------					Packet fitering 			//an effective defense against attacks from computers outside a local area network (LAN).
+https://www.techopedia.com/definition/4038/packet-filtering
+Packet filtering is a firewall technique used to control network access by monitoring outgoing and incoming packets 
+and allowing them to pass or halt based on the source and destination Internet Protocol (IP) addresses, protocols and ports.
+	
+Packet filtering checks source and destination IP addresses. If both IP addresses match, the packet is considered secure and verified.
+packet filtering also checks source and destination protocols, such as User Datagram Protocol (UDP) and Transmission Control Protocol (TCP). 
+Packet filters also verify source and destination port addresses.
+
+*The tasks of a packet filter may include
+user authentication.
+anti-virus.
+spam filtering.
+??WRITING LOGS.						///what is writting logs
+
+
+
+------------------------------------------				Router 
+https://www.techopedia.com/definition/2277/router
+A router is a device that analyzes the contents of data packets transmitted within a network or to another network. 
+Routers determine whether the source and destination are on the same network or whether data must be transferred from one network type to another,
+which requires encapsulating the data packet with routing protocol header information for the new network type.
+
+
+
+------------------------------------				Public key infrastructure (PKI)
+https://www.ssh.com/pki/
+
+Public Key Infrastructure (PKI) is a technology for authenticating users and devices in the digital world.
+The basic idea is to have one or more trusted parties digitally sign documents certifying that a particular cryptographic key belongs to a particular user or device. 
+The key can then be used as an identity for the user in digital networks.
+
+The users and devices that have keys are often just called entities. The purpose of a PKI is to securely associate a key with an entity.
+The trusted party signing the document associating the key with the device is called a certificate authority (CA). 
+The certificate authority also has a cryptographic key that it uses for signing these documents. 
+These documents are called certificates.
+
+-------------------------------------------------------------------LAN
+https://www.lifewire.com/what-is-lan-4684071
+
+
+
+		-----------------------------WLAN
+		https://www.lifewire.com/wlan-816565
+		
+		
+		----------------------------VLAN
+		https://www.lifewire.com/virtual-local-area-network-817357
+		
+		
+		---------------------------------WPA (Wifi-Protected Access)
+		https://www.lifewire.com/definition-of-wifi-protected-access-816576
+		
+
+----------------------------------------				Single Sign On (SSO)
+https://searchsecurity.techtarget.com/definition/single-sign-on
+
+
+
+
+
+The Difference Between WEP, WPA, and WPA2 Wi-Fi Passwords
+https://www.howtogeek.com/167783/htg-explains-the-difference-between-wep-wpa-and-wpa2-wireless-encryption-and-why-it-matters/
+WiFi and VLANs
+https://calvin.me/wifi-and-vlans	
+
+
+--------------------------------------				Sandbox
+https://searchsecurity.techtarget.com/definition/sandbox
+A sandbox is an isolated testing environment that enables users to run programs or execute files without affecting the application, system or platform on which they run.
+Software developers use sandboxes to test new programming code. Cybersecurity professionals use sandboxes to test potentially malicious software.
+Without sandboxing, an application or other system process could have unlimited access to all the user data and system resources on a network.
+
+
+----------------------------------------			Single sign-on (SSO)
+https://searchsecurity.techtarget.com/definition/single-sign-on
+
+What is write zero method (overwrite concept)
+https://www.lifewire.com/what-is-the-write-zero-method-2626052
+
+-------------------------------------------		Password Salting
+https://www.techopedia.com/definition/28546/password-salting
+
+
+
+
+
+	Concept world:
+malicious						độc hại	
+manipultate						thao túng
+compromise						thỏa hiệp
+Soliciting 						Gạ gẫm
+Inferring						Suy luận
+masquerading emails				giả mạo email
+confiscate						tịch thu
+legitimate						hợp pháp
+manipultate		
+fraud 							gian lận
+adjacent 						liền kề
+unintended flaw					lỗ hổng ngoài ý muốn
+protocol						giao thức
+non-repudiation					không bác bỏ = undenieable
+flaw							khuyết điểm
+bind 							trói buộc
+
+
+
+
+
+
+
+
+
+
+--------------------------------First concepts [ < General < Information and... ]
+
+*What is required of an attack to be regarded as a cyber attack?
+
+The target is not a private person using a single computer.
+The attack happens on behalf of a nation state.
++THE TARGET SUFFERS A SUBSTANTIAL LOSS.
+The attacker is not acting alone but in a large coherent group.
+
+
+
+*Denial of service is a term
+
+for a specific attack where the attacker modifies the responses from a www server to display http 404.
+used of any situations where the user or a process is not granted the service he, she or it would be authorized to get.
++THAT REFERS TO A SERVICE NOT BEING ABLE TO OPERATE BECAUSE OF MALICIOUS REQUESTS.
+used mainly of such situations where a cracked service has been taken down for repair by administrators.
+
+*What makes a denial of service attack (DoS) a distributed DoS?
+There are many hackers working in consort to gain access to the attacked service.
+The attacked server spreads the unavailability to a large community of other servers and services.
+The whole farm of load-balancing and resilience-providing computers are attacked to make the service unavailable.
++THE ATTACKING TRAFFIC COMES TO THE SERVER FROM SEVERAL COMPUTERS SIMULTANEOUSLY.
+
+
+*The term attack vector
++IS JUST A MORE FANCY WAY OF REFERRING TO A PARTICULAR ATTACK THAT HAS HAPPENED.
+refers to the attacker's point of view to the chain of protections that implement the defence-in-depth approach.
+refers to the method of an attack - one that happened or is possible.
+refers to the combination of all vulnerabilities that exist in a particular information system.
+
+
+
+*Confidentiality is one of the three basic goals ("C-I-A") of information security,
+
+but it is hardly ever as important as integrity.
+and it is always always more important than availability.
+but it is usually not sufficient without integrity and availability.
+and lack of confidentiality would lead to similar problems as lack of either integrity or availability.
+
+
+
+---------------------------Some victims and attackers [ < Personal aspect... < Information and... ]
+//In short, Script Kiddie is a newbie type of hacker without any solid programming knowledge 
+who uses the existing codes and scripts to gain illegal access into a computer system or network and even a website.
+*The term script kiddie is used for certain types of attackers. What is typical of them from a defender's perspective?		
+
+Essentially similar scripts to other attackers.
+Unpredictably modified scripts, which can therefore be particularly dangerous.
+They cannot be held because they are minors.
++YOUTH AND INCOMPETENCE, WHICH IS WHY THEIR ATTACKS ARE NOT VERY DANGEROUS.
+
+
+*Attackers that are called script kiddies are characterized by
+
++USING SCRIPTS WRITTEN BY OTHERS.
+acting as apprentices and assistants to more experienced actors.
+underage and immature morality.
+installing malicious software on the machines of several other users from which the attack continues automatically.
+
+
+*Identity theft
+//Identity theft is the deliberate use of someone else's identity, usually as a method to gain a financial advantage or obtain credit and other benefits in the other person's name 
+and perhaps to the other person's disadvantage or loss.
++HAPPENS WHEN SOMEONE MALICIOUSLY USES IDENTIFYING DATA OF ANOTHER PERSON.
+means that an attacker changes someones credentials at a service so that the victim is blocked out.
+is never a theft of identity alone; it also involves causing some loss or other disadvantage to the owner.
+can happen accidentally, i.e. someone can end up stealing someone else's identity without intending to do so.
+
+
+*There are many digitals entities that spread mainly by the forwarding action of people. Some of them are not direct risks to computing.
+How many of that kind of user-spread entities are in this list: spam, hoax, RANSOMWARE, MEME VIRUS, NIGERIAN LETTER, TROLL?
+
++4
+3
+2
+1
+
+*All of the following attacks have some social aspect, but which description gives the best coverage for the concept of social engineering?
+
+SOLICITING SENSITIVE PERSONAL OR ORGANIZATIONAL INFORMATION BY PERSUASIVE OR MASQUERADING EMAILS.
+Inferring sensitive personal or organizational information from discarded papers and media together with public sources.
+Getting physically close and even familiar to people in order to see what they input as credentials to information systems.
+Exercising the art of influencing people to act against their security policy.
+
+
+*Successful impersonation means that
+an identity has been confiscated.
+a new identity has been assigned to a user.
+a new role has been assigned to a user.
+SOMEBODY/SOMETHING HAS BEEN CHEATED TO ACT AS IF HE/IT IS IN CONTACT WITH SOMEONE ELSE THAN THE ATTACKER.
+
+What is socail engineering:
+https://usa.kaspersky.com/resource-center/definitions/what-is-social-engineering
+
+
+
+------------------------------				PHISHING ATTACKS
+Phishing attackers pretend to be a trusted institution or individual in an attempt to persuade you to expose personal data and other valuables.
+Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords and credit card details, 
+by disguising oneself as a trustworthy entity in an electronic communication.[1][2] Typically carried out by email spoofing,
+[3] instant messaging,[4] and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site.[5]
+
+	
+Attacks using phishing are targeted in one of two ways:
+
++SPAM PHISHING, or mass phishing, is a widespread attack aimed at many users. These attacks are non-personalized and try to catch any unsuspecting person.
++SPEAR PHISHING and by extension, whaling , use personalized info to target particular users. 
+Whaling attacks specifically aim at high-value targets like celebrities, upper management, and high government officials.
+
+-------------------------------				Honest but curious
+The honest-but-curious (HBC) adversary is a legitimate participant in a communication protocol who will not deviate from the defined protocol 
+but will attempt to learn all possible information from legitimately received messages
+
+--------------------------------			INTRUDER
+In relation to computers, an intruder is an individual or software program that enters a computer system without authorization.
+An example of an intruder would be a hacker. Another example would be a software virus.
+
+--------------------------------			Eavesdropper	(nghe lén)
+https://www.ecpi.edu/blog/what-is-eavesdropping-in-computer-security#:~:text=The%20term%20%27eavesdropping%27%20is%20used%20to%20refer%20to,great%20significance%20in%20the%20world%20of%20cyber%20security.
+The term 'eavesdropping' is used to refer to the interception of communication between two parties by a malicious third party. Since the beginning of the digital age, 
+the term has also come to hold great significance in the world of cyber security.
+
+Method of eavesdropping:
+Hackers are constantly coming up with new ways to eavesdrop on digital conversations. Voice-over-IP calls which are made using IP-based communication are recorded with the help of protocol analyzers. 
+The data can be converted into audio files to be analyzed by the hacker.
+
+
+Another popular eavesdropping method is DATA SNIFFING. This technique works well on LOCAL NETWORKs which make use of a HUB. Since all the communications within the network are sent to all the ports of the network,
+all a sniffer has to do is choose to accept every bit of incoming data, even though they were not the intended recipients. 
+Wireless networking data can be similarly manipulated if it broadcasts unsecured information to all the network ports.
+
+
+---------------------------				Backdoor
+In the world of cybersecurity, a backdoor refers to any method by which authorized and unauthorized users are able to get around normal security measures and gain high level user access (aka root access)
+on a computer system, network, or software application.
+
+
+[Wiki]A backdoor is a typically covert method of bypassing normal authentication or encryption in a computer, product, embedded device (e.g. a home router), or its embodiment (e.g. part of a cryptosystem, algorithm, chipset, 
+or even a "homunculus computer" —a tiny computer-within-a-computer such as that found in Intel's AMT technology).
+
+
+
+------------------------------		Dictionary attack
+https://searchsecurity.techtarget.com/definition/dictionary-attack
+
+A dictionary attack is a method of breaking into a password-protected computer or server by systematically entering every word in a dictionary as a password.
+A dictionary attack can also be used in an attempt to find the key necessary to decrypt an encrypted message or document.
+rarely successful against systems that employ multiple-word phrases, and unsuccessful against systems that employ random combinations of uppercase and lowercase letters mixed up with numerals. 
+In those systems, the brute-force method of attack (in which every possible combination of characters and spaces is tried up to a certain maximum length) can sometimes be effective,
+although this approach can take a long time to produce results.
+
+
+
+--------------------------------		Passive attack & Active attack
+https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/?ref=rp
+Passive attacks: A Passive attack attempts to learn or make use of information from the system but does not affect system resources. Passive Attacks are in the nature of eavesdropping on or monitoring of transmission. 
+The goal of the opponent is to obtain information is being transmitted. Types of Passive attacks are as following:
+
+
+
+Active Attacks:
+Active attacks are the type of attacks in which, The attacker efforts to change or modify the content of messages. Active Attack is danger for Integrity as well as availability. 
+Due to active attack system is always damaged and System resources can be changed. The most important thing is that, In active attack, Victim gets informed about the attack.
+
+Passive Attacks:
+Passive Attacks are the type of attacks in which, The attacker observes the content of messages or copy the content of messages. Passive Attack is danger for Confidentiality. 
+Due to passive attack, there is no any harm to the system. The most important thing is that In passive attack, Victim does not get informed about the attack
+
+------------------------------------		Malware
+https://www.cisco.com/c/en/us/products/security/advanced-malware-protection/what-is-malware.html
+
+https://security4web.org/page.php?id=10
+Malware is intrusive software that is designed to damage and destroy computers and computer systems. Malware is a contraction for “malicious software.” 
+Examples of common malware includes viruses, worms, Trojan viruses, spyware, adware, and ransomware
+
+Malware is a computer software that usually installs itself on your computer unknowingly.
+It is the compound from malicious and software (malware), a generic term used to describe all kinds of malicious software.
+It refers to worms, viruses, trojans, spyware, adware, hoaxes, etc., and it was designed to damage or disrupt a computer system.
+
+------------------------------------		Ransomware						//a kind of malware
+https://www.cisco.com/c/en/us/solutions/security/ransomware-defense/what-is-ransomware.html
+
+Ransomware is a type of malicious software, also known as malware. It encrypts a victim’s data until the attacker is paid a predetermined ransom. Typically, the attacker demands payment in a form of cryptocurrency such as bitcoin. 
+Only then will the attacker send a decryption key to release the victim’s data.
+A number of ransomware variants have appeared in recent years, which we’ll describe in greater detail below. We will also explain how you can protect your system against future attacks.
+
+
+-------------------------------------			Maintainance Hook
+Maintenance hook: A trapdoor in software that allows easy maintenance and development of additional features and that may allow entry into the program at unusual points or without the usual checks
+Since maintenance hooks frequently allow entry into the code without the usual checks, they are a serious security risk if they are not removed prior to live implementation."[2]
+
+
+------------------------------------			Rootkit 
+https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/rootkits-malware
+
+Malware authors use rootkits to hide malware on your device, allowing malware to persist as long as possible.
+A successful rootkit can potentially remain in place for years if it is undetected. During this time it will steal information and resources.
+Rootkits intercept and change standard operating system processes. After a rootkit infects a device, you can’t trust any information that device reports about itself.
+The term "rootkit" has negative connotations through its association with malware.[1]
+
+
+
+-----------------------------				Buffer Overflow
+https://www.imperva.com/learn/application-security/buffer-overflow/
+Buffers are memory storage regions that temporarily hold data while it is being transferred from one location to another. 
+A buffer overflow (or buffer overrun) occurs when the volume of data exceeds the storage capacity of the memory buffer. 
+As a result, the program attempting to write the data to the buffer overwrites adjacent(liền kề) memory locations.
+
+
+----------------------------				Exposure
+Exposure definition
+
+An exposure is a state in a computing system (or set of systems) which is not a universal vulnerability, but either:
+Allows an attacker to conduct information gathering activities or to hide activities
+Allows an attacker to hide activities Includes a capability that behaves as expected,
+but can be easily compromised Is a primary point of entry that an attacker may attempt to use to gain access to the system or data Is considered a problem according to some reasonable security policy .
+
+
+-----------------------					Macro Virus
+https://searchsecurity.techtarget.com/definition/macro-virus
+
+A macro virus is a computer virus written in the same macro language used for software programs, including Microsoft Excel or word processors such as Microsoft Word. 
+When a macro virus infects a software application, it causes a sequence of actions to begin automatically when the application is opened.
+Since a macro virus centers on an APPLICATION AND NOT AN OPERATING SYSTEM, it typically can infect any computer running any operating system, even those running MacOS and Linux.
+
+
+https://security4web.org/glossary.php?w=Macro%20virus
+Macro virus definition
+
+A program or code segment written in the internal macro language of an application. Some macros replicate, while others infect documents.
+
+-------------------------				Trojan horseIn 
+https://softwarelab.org/what-is-a-trojan-horse/#:~:text=In%20cybersecurity%20terms%2C%20a%20Trojan%20horse%20is%20a,is%20usually%20disguised%20as%20a%20legitimate%20computer%20program.
+cybersecurity terms, a Trojan horse is a piece of malware that can damage, steal, or otherwise harm your data or your computer network. Often referred to simply as a Trojan, this malicious software is usually disguised as a legitimate computer program. Once downloaded and installed on your system,
+it allows hackers to spy on your online activity, access and copy files from your hard drive, modify and delete your data, hamper the performance of your computer, and even steal your personal information.
+
+
+
+--------------------------				Zero day
+https://us.norton.com/internetsecurity-emerging-threats-how-do-zero-day-vulnerabilities-work-30sectech.html
+A zero-day vulnerability is a software security flaw that is known to the software vendor but doesn’t have a patch in place to fix the flaw. It has the potential to be exploited by cybercriminals.
+
+The term “zero-day” refers to A NEWLY DISCOVERED SOFTWARE VULNERABILITY. Because the developer has just learned of the flaw, it also means an official patch or update to fix the issue hasn’t been released.
+So, “zero-day” refers to the fact that the developers have “zero days” to fix the problem that has just been exposed — and perhaps already exploited by hackers.
+Once the vulnerability becomes publicly known, the vendor has to work quickly to fix the issue to protect its users.
+But the software vendor may fail to release a patch before hackers manage to exploit the security hole. That’s known as a zero-day attack.
+
+https://searchsecurity.techtarget.com/definition/zero-day-vulnerability
+
+
+------------------------- 					Worms and Virus
+https://searchsecurity.techtarget.com/definition/macro-virus
+Worms and viruses behave differently, as they can quickly proliferate and undermine an entire computer system. They also may perform unsavory activities from a user’s computer without the user’s knowledge. 
+In the wake of a virus or worm, a computer system can experience significant damage.
+
+
+
+------------------------					DRM protection
+https://www.dvdfab.cn/resource/drm/drm-protection
+DRM, the abbreviation of Digital Rights Management, is a copyright protection scheme that controls the use of proprietary hardware and copyrighted materials. 
+DRM protection restricts the actions of using, modifying and distributing of copyrighted works like software, video files, ebooks, songs, games, documents, etc.
+
+
+------------------------------				Man in the middle attack (MITM)
+https://www.avg.com/en/signal/man-in-the-middle-attack#:~:text=A%20Man-in-the-middle%20attack%20is%20a%20generic%20name%20for,box%20where%20you%20enter%20your%20payment%20details%20
+
+MITM attacks allow hackers to intercept, send and receive data to and from your device undetected until the transaction is complete.
+2 steps for attacking
+Step 1: Interception	: The first order of business for Man-In-The-Middlers is to intercept your internet traffic before it reaches its destination. There are a few methods to get this done:
+Step 2: Decryption		: Once hackers have intercepted your web traffic, they have to decrypt it. Here are some common decryption methods used in MITM attacks:
+
+https://www.rapid7.com/fundamentals/man-in-the-middle-attacks/#:~:text=What%20is%20a%20Man-in-the-Middle%20%28MITM%29%20Attack%3F%20Man-in-the-middle%20attacks,conversation%20they%20should%20normally%20not%20be%20able%20
+ Eve could then gather information from this, alter the response,  and pass the message along to Bob (who thinks he’s talking to Alice). As a result, Eve is able to transparently hijack their conversation.	
+
+----------------------------------				Botnets
+https://us.norton.com/internetsecurity-malware-what-is-a-botnet.html
+Botnets are the workhorses of the Internet. They’re connected computers performing a number of repetitive tasks to keep websites going. 
+It’s most often used in connection with Internet Relay Chat. These types of botnets are entirely legal and even beneficial to maintaining a smooth user experience on the Internet.
+
+
+Careful with malicious botnet.What happens is that botnets gain access to your machine through some piece of malicious coding. In some cases, your machine is directly hacked,
+while other times what is known as a “spider” (a program that crawls the Internet looking for holes in security to exploit) does the hacking automatically.
+More often than not, what botnets are looking to do is to add your computer to their web. That usually happens through a drive-by download or fooling you into installing a Trojan horse on your computer. 
+Once the software is downloaded, the botnet will now contact its master computer and let it know that everything is ready to go. 
+Now your computer, phone or tablet is entirely under the control of the person who created the botnet.
+
+
+Common tasks executed by botnets include:
+
+Using your machine’s power to assist in distributed denial-of-service (DDoS) attacks to shut down websites.
+Emailing spam out to millions of Internet users.
+Generating fake Internet traffic on a third-party website for financial gain.
+Replacing banner ads in your web browser specifically targeted at you.
+Pop-ups ads designed to get you to pay for the removal of the botnet through a phony anti-spyware package.
+
+https://usa.kaspersky.com/resource-center/threats/botnet-attacks
+Botnets are networks of hijacked computer devices used to carry out various scams and cyberattacks. The term “botnet” is formed from the word’s “robot” and “network.”
+Assembly of a botnet is usually the infiltration stage of a multi-layer scheme. The bots serve as a tool to automate mass attacks, such as data theft, server crashing, and malware distribution.
+
+
+
+
+------------------------------------------					Security Assurance
+https://www.sciencedirect.com/topics/computer-science/security-assurance#:~:text=Security%20assurance%20is%20the%20guarantee%20provided%20with%20regard,over%20time%20as%20users%20interact%20with%20an%20application.
+Security assurance is the guarantee provided with regard to access control, security privileges, and enforcement over time as users interact with an application.
+For a big-data application that shares and exchanges information from multiple sources in different formats, security assurance must reconcile local security capabilities to meet stakeholder needs. 
+
+
+
+
+
+------------------------------------------					What is non-repudiation?
+https://www.cryptomathic.com/products/authentication-signing/digital-signatures-faqs/what-is-non-repudiation#:~:text=Non-repudiation%20is%20a%20legal%20concept%20that%20is%20widely,as%20the%20authenticity%20and%20integrity%20of%20that%20message.
+Non-repudiation is a legal concept that is widely used in information security and refers to a service, which provides proof of the origin of data and the integrity of the data. 
+In other words, non-repudiation makes it very difficult to successfully deny who/where a message came from as well as the authenticity and integrity of that message.
+
+Digital signatures (combined with other measures) can offer non-repudiation when it comes to online transactions
+
+Non-repudiation is the assurance that someone cannot deny the validity of something.
+https://www.computer-security-glossary.org/non-repudiation.html
+Non-Repudiation is associated with verifying the identities of individuals or companies who are participating in an on-line transaction.
+The main purpose of authenticating identities online is to prevent one party or the other from denying the transaction.
+One of the techniques used to provide the authenticity of the transaction is the use of digital signatures. 
+It makes possible the assurance that a particular individual participated in a specific transaction.
+
+To repudiate means to deny or contest something. Therefore, non-repudiation must be the ability to ensure that someone cannot deny or contest that thing.
+This is usually seen in electronic communications where one party cannot be confirmed as the recipient or denies seeing or signing a contract or document. 
+Non-repudiation means putting measures in place that will prevent one party from denying they received or agreed to a transaction.
+
+
+
+
+
+
+
+-------------------------------------------------------------------------			Not only breaking ciphers [ < Crypto-related ... < Information and... ]
+Crypto-related threats
+
+*An attacker, who is not a legitimate party of a conversation, but still attempts to know its contents, is called
+honest but curious.
+phisher.
+Intruder.
++EAVESDROPPER.
+
+
+*What is a description of a dictionary attack?
+It is a form of social engineering where an AI system blends the victim's new responses with earlier data and common phrases and assists the attacker to select the most suitable expressions to continue.
++IT IS A "SOPHISTICATED" BRUTE-FORCE ATTACK AGAINST PASSWORDS, TAKING INTO ACCOUNT THAT THEY WERE INVENTED BY USERS OF NATURAL LANGUAGES.
+The rainbow table method for recovering passwords is modified by using a large but fixed word list to do the transformation between each hash operation.
+Observations of the victim's eye movements are transformed to profiling words when she is reading a public advertisement board or a shopping cart display.
+
+
+
+*Backdoor
+is the authentication module of a rootkit program.
+is in a Trojan horse the program module that executes the malicious behaviour.
+means the parameters used to create the private key in a PKI system - allowing decryption of messages encrypted with the public key.
++IS AN INTENTIONALLY MADE OR MALICIOUSLY INSTALLED METHOD OF BYPASSING NORMAL AUTHENTICATION OR ENCRYPTION IN AN INFORMATION SYSTEM
+
+*Ransomware is
+a term that refers to anything concrete lost by a victim and obtained by the attacker.
++A PROGRAM THAT MAKES YOUR DATA INACCESSIBLE TO YOU AND ASKS FOR MONEY TO RESTORE ACCESS.
+software that an attacker has been able to destroy by changing random bits during its download but still matching the checksum.
+software whose download to a customer from a vendor has been blocked by an attacker until either party pays a fee to the attacker.
+
+
+
+*How can an attack be passive?
+The attack happens from a compromised slave maching owned by an unknowing user.
+The attacker just puts up a web site asking for donations and starts receiving money.
++A PASSIVE ATTACK IS SUCH THAT DOES NOT INTERFERE WITH THE INTEGRITY OR AVAILABILITY OF THE VICTIM'S COMPUTING.			//passive attack only danger for Confidentiality. while active attack can be danger fot integrity and availlability 
+Actually it cannot be. An attack is by definition active.
+
+
+------													Not only viruses [ < Program-related... < Information and... ]
+https://www.secureaplus.com/common-types-malware/
+
+*Malware that does not replicate, pretends to be performing a legitimate action, but does something else in the background is called
+a logic bomb.
+a trapdoor.
+a virus or a worm.
++A TROJAN HORSE.					//Unlike Viruses and Worms, however, Trojans usually do not replicate nor infect other files after it has delivered its payload.
+
+
+
+*What is a common feature of all malicious programs?
++THEY ARE CAPABLE OF SIMILAR ACTIONS AS OTHER PROGRAMS IN THEIR RUNNING ENVIRONMENT.
+They are aimed at achieving some financial goal.
+They spread through vulnerabilities in software.
+They are aimed at one target, although they usually spread elsewhere.
+
+
+*A macro virus is malware that
+has a very large spread.
+runs its code from a large set of non-contiguous memory locations. => think this
+spreads by masquerading itself as backward compatibility test code for software updates.
++RUNS ON MANY DIFFERENT PLATFORMS (OS'S) BECAUSE IT IS INTERPRETED BY ITS HOST PROGRAM.
+
+
+----According to the CVE website, a vulnerability is a mistake in software code that provides an attacker with direct access to a system or network. 
+For example, the vulnerability may allow an attacker to pose as a superuser or system administrator who has full access privileges. 
+An exposure, on the other hand, is defined as a mistake in software code or configuration that provides an attacker with indirect access to a system or network. 
+For example, an exposure may allow an attacker to secretly gather customer information that could be sold.
+
+
+
+
+
+*There are many terms that mean some sort of showing or coming out of a covering. The term that is used to mean such kind of a vulnerability in an information system is
+revelation.
+unveiling.
+EXPOSURE.			// 4 từ đồng nghĩa sự tiết lộ phơi nhiễm
+disclosure.
+
+
+*What is the term used for an attack or error that causes data to be written in memory locations that are outside the allowed area?
+Stack bloat.
+Division by near-zero.
++BUFFER OVERFLOW
+Flooding.
+
+
+*The term zero-day applies for instance to
+DRM protection that is broken and published before the media, e.g. a game, is launched.
+the beginning of the "life" of an identity thief under the new identity.
++A VULNERABILITY IN SOFTWARE NOT YET EXPLOITED BUT FOUND AND KEPT SECRET BY A MALICIOUS PARTY.
+an attack where a user of a limited-time-free trial version of software can keep his computer on the same day for an unlimited length of time.
+
+
+
+
+
+
+
+
+
+
+--------------------------------					Networked robots and men [ < Threats in netw... < Information and... ]
+*Which of the following fits most poorly to the concept of a bot network?
++USERS OF MACHINES ON THE BOT NETWORK HAVE AGREED TO WORK WITH THE NETWORK ADMINISTRATOR.
+The machines on the bot network have a remote access program.						//this is also true 
+Bot network machines are rarely owned by the same organization.
+A bot network can be used to implement a denial of service attack.					//this is true.Botnet can be used to implement a DDOS attack
+
+
+
+
+*Man in the middle is an attack type where					//!important word:  transparently hijack their conversation. : gather information,alter the response and pass message
+a process captures system calls, modifies them, sends them to the OS kernel, and likewise filters the responses to the calling procedure.
++THE ATTACKER OR HIS PROCESS RELAYS MODIFIED MESSAGES BETWEEN TWO UNKNOWING COMMUNICATION PARTIES.
+a cryptographic algorithm is broken at about a square root of effort by working both from the start and end toward the middle.
+a process listens to a program's system calls and their responses, and sends the divulged sensitive data to the attacker.				//this one looks like eavesdrop (not modified)
+
+
+*A botnet is
+a network used solely for internal communications.
++A GROUP OF DISPERSED, COMPROMISED MACHINES CONTROLLED REMOTELY FOR ILLICIT PURPOSES.				//illicit : illegal
+a complete network built for the same purpose as single "honeypot" computers.
+a tool for automating security alerts in a corporate network.
+
+
+------------------------------------				Risk and three A´s (as., au. & av.) 
+
+*Information assurance is sometimes considered a wider term than information security. On the other hand, assurance is just part of information security, namely
+a synonym for authentication.
+a synonym for accountability.
++EVIDENCE THAT SECURITY MECHANISMS ARE EFFICIENT.
+the level up to which risk management has been able to transfer information security risks.
+
+
+
+*Authentication is the
+assertion of a unique identity.
+process of defining the resources and type of access a user needs.
+decision by management that a user should be given access to a system.
++	PROCESS OF VERIFYING AN IDENTITY.
+
+
+
+
+*The objective of Availability is to make information accessible by protecting it from some but not all of these: (i) denial of service, (ii) fire, (iii) flood,
+(iv) unauthorized transaction, (v) unreadable backup tape.
+How many of these are excluded?
+4
+1
++2				unauthorized transaction and unreadable backup tape
+3
+
+Defining threat + vulnerability + asset = risk 
+https://www.threatanalysis.com/2010/05/03/threat-vulnerability-risk-commonly-mixed-up-terms/#:~:text=Threat%20%E2%80%93%20Anything%20that%20can%20exploit%20a%20vulnerability%2C,threats%20to%20gain%20unauthorized%20access%20to%20an%20asset.
+
+*Which of the following couplings best defines risk?
++THREAT & VULNERABILITY
+Threat & breach of security
+Vulnerability & attack
+Vulnerability & lack of protection
+
+
+
+---------------------------------------						Policies and models do not protect [ < Core principles < Abstract securi... ]
+
+*Access control means
+a method to block connections to an information system from the network.
+principles concerning how to allocate access rights to users.
++MEASURES, USUALLY AUTOMATIC, TAKEN TO DECIDE WHETHER ACCESS TO A RESOURCE MUST BE GRANTED OR DENIED, BASED ON A POLICY.
+the entirety of identification authentication, access decision and then either blocking or enabling access.
+
+
+*The security goal Accountability lies outside the ordinary C-I-A triad, but it is reasonable to say that Accountability (trách nhiệm giải trình) is close to the combination of Authenticity with
++	I				//correct thinking 
+A
+C and A
+C
+
+
+Defence-in-depth
+https://searchsecurity.techtarget.com/definition/defense-in-depth#:~:text=Defense%20in%20depth%20is%20the%20coordinated%20use%20of,defense%20system%20than%20to%20penetrate%20a%20single%20barrier.
+Perimeter secure
+https://www.techopedia.com/definition/33764/perimeter-security
+*The strategy of forming layers of protection around an asset or facility is known as
+cascade zoning.
++DEFENCE-IN-DEPTH.
+secured perimeter.
+onion thresholding.
+
+*Non-repudiation as a security objective means that
+one of the parties to the contract has tried to disclaim the information, but it has been possible to prove that it was a mistake.
+accidental or intentional changes to the data after their acceptance can be corrected.
+the information (e.g., contract) to which it relates has been understood and accepted.				//think this but not sure
++THE PERSON TO WHOM THE INFORMATION RELATES HAS NO GROUNDS FOR CLAIMING THAT THERE IS NO CONNECTION.
+
+
+*Non-repudiation is								//khong bac bo 
++A SPECIAL SECURITY GOAL.
+an attack against privacy.
+the term used for cancelling some of a user's rights in an information system.
+the time shortly before a public key certificate expires and a new one should be ordered.
+
+
+--------------------------------				Credentials [ < Auxiliary < Abstract securi... ]				
+
+
+
+*Which counts as two factor authentication?
+A hard token and a smart card.
+A user name and a PIN.
+A password and a PIN.
++A PIN AND A HARD TOKEN.
+
+
+*What is the term used for such collections of data that a person can use to prove his or her identity?
+attributes
+certificates
+shared secrets
++CREDENTIALS
+
+*Decisions on who can access certain data, like documents or databases, are best made by
++DATA OWNER.
+senior management.
+application developers.
+administrators responsible for the user database.
+
+*Shared secret is an InfoSec term that usually refers to
++A RESULT OF PROTOCOLS LIKE IKE (INTERNET KEY EXCHANGE) OF IPSEC.
+personal sensitive data that cannot be only private but must be known to someone else, too, than the owner.
+the random bit sequences that two parties send to a trusted server for the purpose of authenticating each other.
+the commands and passwords that allow a backdoor entry to an information system by a group of hackers.
+
+---------------------------------				
+
+---------------------------------				2 Factor Authentication (2FA)			!= Single factor Authentication (SFA)
+https://searchsecurity.techtarget.com/definition/two-factor-authentication			
+Two-factor authentication methods rely on a user providing a password, as well as a second factor, usually either a security token or a biometric factor, such as a fingerprint or facial scan.
+
+-----------------------------------				security token (authentication token)
+https://searchsecurity.techtarget.com/definition/security-token
+
+-------------------------------					IKE(Internet Key Exchange)
+https://searchsecurity.techtarget.com/definition/Internet-Key-Exchange
+The Internet Key Exchange (IKE) is an IPsec (Internet Protocol Security) standard protocol used to ensure security for virtual private network (VPN) negotiation and remote host or network access
+IKE defines an automatic means of negotiation and authentication for IPsec security associations (SA).
+
+
+------------------------------					A miscellany of special but basic protections [ < Basic but more ... < Abstract securi... ]
+
+*One of the tasks of a certification authority is
+??to maintain a database of those private and public keys, the correspondence of which it has certified.
+to calculate the corresponding public key at the request of a certified customer who provides a new private key.
+to update the certificates that have been revalidated, to accommodate a new expiry date.
+??to publish a list of revoked certificates or provide a service that returns the certificate status.
+
+
+
+*Challenge-response is a protocol between two parties A and B such that
+A challenges B with an easy-to-check computational task that anyone can do but which takes time to solve.
+A challenges B with a task that supposedly only a human user can answer.
+A and B receive a random challenge from the other party and then use a shared secret to calculate a response which acts as a mutual authenticator and session key.
++A CHALLENGES B TO RESPOND WITH SOMETHING THAT NO ONE ELSE THAN A - AND POSSIBLY B ITSELF - WOULD BE ABLE TO PRODUCE.
+
+
+--------------------			Digital Signature
+https://searchsecurity.techtarget.com/definition/digital-signature
+A digital signature is a mathematical technique used to validate the authenticity and integrity of a message, software or digital document. 
+As the digital equivalent of a handwritten signature or stamped seal, a digital signature offers far more inherent security, 
+and it is intended to solve the problem of tampering and impersonation in digital communications.
+
+Digital signatures are based on public key cryptography, also known as asymmetric cryptography. 
+Using a public key algorithm, such as RSA, one can generate two keys that are mathematically linked: one private and one public. 
+
+*A digital signature is made with
+symmetric cryptography.
+a message authentication code.
+a public key certificate.
++A HASH FUNCTION AND AN ASYMMETRIC CRYPTOALGORITHM.			//to create a digital signature,creates a one-way hash of the electronic data to be signed. 
+//The private key is then used to encrypt the hash. The encrypted hash -- along with other information, such as the hashing algorithm -- is the digital signature.
+
+
+*At what phase of a product's life cycle is it likely to be most expensive to improve security?
++IMPLEMENTATION
+rapid prototyping
+testing
+design
+
+
+*What does a firewall prevent from functioning in the way they were intended to?
+ports
+ip-addresses
+protocols
++PACKETS
+//. A computer connected directly to the Internet has a publicly addressable IP – in other words, anyone on the Internet can reach it. Any network services you have running on your computer 
+– like the services that come with Windows for file and printer sharing, remote desktop, and other features – would be accessible to other computers on the Internet.
+
+
+
+*What security concept is violated by the following: One person in the the finance department is able to insert vendors to the vendor database and subsequently pay to the vendors?
+Well-formed transactions
+Least privilege
++SEPARATION OF DUTIES
+Database normalization
+
+------------------------------				Principle of least privilege (POLP)
+https://digitalguardian.com/blog/what-principle-least-privilege-polp-best-practice-information-security-and-compliance
+The principle of least privilege is the idea that at any user, program, or process should have only the bare minimum privileges necessary to perform its function. 
+For example, a user account created for pulling records from a database doesn’t need admin rights, 
+while a programmer whose main function is updating lines of legacy code doesn’t need access to financial records.
+------------------------------				S
+
+
+*Steganography is
+a special branch of cryptographic hash functions.
++AN ART OF EMBEDDING DATA INTO A LARGER QUANTITY OF OTHER DATA.
+an obsolete method of protecting secret messages.
+synonymous to digital watermarking.
+
+----------------------------------------			Digital WATERMARKING
+https://ieeexplore.ieee.org/document/7581413
+
+
+
+
+------------------------------				Certificate authority (CA)
+https://searchsecurity.techtarget.com/definition/certificate-authority
+A certificate authority (CA) is a trusted entity that issues digital certificates, which are data files used to cryptographically link an entity with a public key.
+Certificate authorities are a critical part of the internet's public key infrastructure (PKI) 
+because they issue the Secure Sockets Layer (SSL) certificates that web browsers use to authenticate content sent from web servers.
+
+https://www.omnisecu.com/security/public-key-infrastructure/what-is-a-certificate-authority-ca.php#:~:text=Certificate%20Authority%20%28CA%29%20is%20a%20trusted%20entity%20that,fact%2C%20who%20he%20or%20she%20claims%20to%20be.
+Certificate Authority (CA) is a trusted entity that issues Digital Certificates and public-private key pairs. 
+The role of the Certificate Authority (CA) is to guarantee that the individual granted the unique certificate is, in fact, who he or she claims to be.
+A Certificate Authority (CA) performs the following functions.
+
+-Certificate Authority (CA) Verifies the identity: The Certificate Authority (CA) must validate the identity of the entity who requested a digital certificate before issuing it.
+
+-Certificate Authority (CA) issues digital certificates: Once the validation process is over, the Certificate Authority (CA) issues the digital certificate to the entity who requsted it.
+Digital certificates can be used for encryption (Example: Encrypting web traffic), code signing, authentocation etc.
+
+-Certificate Authority (CA) maintains Certificate Revocation List (CRL): The Certificate Authority (CA) maintains Certificate Revocation List (CRL). 
+A certificate revocation list (CRL) is a list of digital certificates which are no longer valid and have been revoked and therefore should not be relied by anyone.
+
+
+----------------------------				Challenge-response authentication
+https://searchsecurity.techtarget.com/definition/challenge-response-system#:~:text=In%20information%20security%2C%20challenge-response%20authentication%20is%20a%20type,entity%20provides%20a%20valid%20response%20to%20be%20authenticated.
+In information security, challenge-response authentication is a type of authentication protocol where one entity presents a challenge or question, and another entity provides a valid response to be authenticated. Challenge-response authentication is a type of authentication method used to prove the identity of a user or other entity  requesting access to a computer, network or other network resource. 
+This method uses previously answered challenge questions to authenticate the user; simple user ID and password authentication is the most commonly implemented type of challenge-response system.
+
+----------------------------				Private key
+https://searchsecurity.techtarget.com/definition/private-key
+A private key, also known as a secret key, is a variable in cryptography that is used with an algorithm to encrypt and decrypt code. 
+Secret keys are only shared with the key’s generator, making it highly secure. Private keys play an important role in symmetric cryptography, asymmetric cryptography and cryptocurrencies.
+
+The complexity and length of the private key determine how feasible it is for an interloper to carry out a brute force attack and try out different keys until the right one is found.
+Introduction to RTOS : https://www.embedded-computing.com/guest-blogs/introduction-to-realtime-operating-systems-rtos
+
+
+------------------------------			Redundancy
+https://whatis.techtarget.com/definition/redundancy
+Redundancy is a system design in which a component is duplicated so if it fails there will be a backup. 
+
+Redundancy has a negative connotation when the duplication is unnecessary or is simply the result of poor planning
+----------------------------		backup storage device
+https://searchdatabackup.techtarget.com/definition/backup-storage-device?_ga=2.248147713.78411100.1598292003-1200087937.1595175958
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------					Repair and punishment [ < If things went ... < Lost security ]
+
+
+*Which of the following statements is true?
+Printing on paper is not a serious method to back up data.
++REMOVABLE FLASH MEMORIES ARE SUITABLE AS BACKUP MEDIA.
+Backups are useless if copies are made only once a week.
+The method of incremental copies in backup means the same as making consecutive full copies.
+
+*It is important to have an off-site backup copy of files to
++IMPROVE ACCESSIBILITY OF FILES FROM OTHER LOCATIONS.
+speed up the process of accessing files at any time.
+reduce the possibility of data theft.
+prevent the loss of data in the event of a fire.
+
+*All of the following may be needed to repair broken integrity, but what is the most concrete concept?
+detection
+policy
+proactivity
++REDUNDANCY
+
+*If you are a EU citizen and your personal data has been unduly disclosed by a service in EU,
+you must still sue the company running the service in order to get any compensation.
+the GDPR stipulates a formula for a compensation the responsible company must pay to you.
++THE RESPONSIBLE COMPANY MAY HAVE TO PAY A FINE OF MILLIONS OF EUROS.
+nobody will be held responsible if the data has been leaked through hacking and the attacker is not caught.
+
+
+
+
+------------------------------				More than GDPR [ < Data protection < Society ]
+
+
+*The central meaning of data protection is in protecting
+the secret information of individuals.
+the information that individuals disclose to different data collectors.
+the information companies provide to various data collectors.
+the confidential information of companies.
+
+
+https://advisera.com/eugdpracademy/knowledgebase/key-roles-defined-in-eu-gdpr/
+https://www.gasolicitors.com/commercial/gdpr-plymouth/#:~:text=GDPR%20covers%20the%20collection%2C%20storage%20and%20use%20of,categories%20of%20data%20%28previously%20known%20as%20sensitive%20data%29.
+*GDPR defines several roles with respect to a person's personal data, but not the role of data
+subject.								//Personal data is any information which can identify a person (‘data subject’) directly or indirectly
++OBJECT.
+controller.					|First above link
+processor.					|First above link
+
+
+
+*The European Union has enacted General Data Protection Regulation that mainly covers
+the exchange of data between the EU and countries outside the EU.
++THE DUTIES OF ORGANIZATIONS WHEN THEY HANDLE DATA FROM INDIVIDUALS.
+the rules for encrypting and authenticating data when it is communicated between organizations or between individuals and organizations.
+the rights and duties that EU citizens have with respect to their private data.
+
+*Payment card industry data security standard, PCI-DSS*
+is included in GDPR.
+is the equivalent of GDPR in the USA.
++IS, AS ITS NAME SAYS, A STANDARD CREATED BY AN INDUSTRY BRANCH.				//The PCI DSS was created jointly in 2004 by four major credit-card companies: Visa, MasterCard, Discover and American Express.
+is not related to GDPR by purpose or origin.
+
+----------------------------------			PCI-DSS*
+https://searchcompliance.techtarget.com/definition/PCI-DSS-Payment-Card-Industry-Data-Security-Standard
+
+
+
+-----------------------						Anonymity [ < Identification < Society ]
+
+Anonymity vs Privacy vs Security
+https://highspeedexperts.com/online-security-privacy/anonymity-vs-privacy-vs-security/
+
+
+*Anonymity as a security goal can have different degrees depending on
+the country where you reside.
+what data should not be disclosed and by whom.
++WHAT DATA SHOULD NOT BE DISCLOSED AND TO WHOM.
+the age of the person whose anonymity is in question.
+
+*Privacy is synonymous to
+secrecy.
+anonymity.
++NONE OF THESE.
+privilege.
+
+Privacy or anonymity? - Which is more important in the digital era?
+https://www.fifosys.com/blog/security/privacy-or-anonymity-which-is-more-important-in-the-digital-age/
+*Pseudonym is
+a general term that refers to various sorts of aliases in filesystems and databases.
+a part of an impersonation attack.
+a human-readable indirection to a username in an information system.
++AN ARTIFICIAL NAME THAT REPLACES THE REAL NAME OF A USER.
+
+
+
+
+---------------------								DRM(Digital rights management)
+https://searchcio.techtarget.com/definition/digital-rights-management#:~:text=Digital%20rights%20management%20%28DRM%29%20is%20a%20systematic%20approach,the%20ways%20consumers%20can%20copy%20content%20they%27ve%20purchased.
+Digital rights management (DRM) is a systematic approach to copyright protection for digital media. 
+The purpose of DRM is to prevent unauthorized redistribution of digital media and restrict the ways consumers can copy content they've purchased
+
+
+--------------------						Copyright
+https://searchsecurity.techtarget.com/definition/copyright?_ga=2.260918155.78411100.1598292003-1200087937.1595175958
+
+
+-----------------------						Intellectual Property (IP)
+https://whatis.techtarget.com/definition/intellectual-property-IP
+Intellectual property (IP) is a term for any intangible asset -- something proprietary that doesn't exist as a physical object but has value.
+Examples of intellectual property include designs, concepts, software, inventions, trade secrets, formulas and brand names, as well as works of art.
+Intellectual property can be protected by copyright, trademark, patent or other legal measure.
+
+----------------------					Intellectual Property Rights()
+https://www.tutorialspoint.com/information_security_cyber_law/intellectual_property_right.htm
+IPR can be categorized into : Database right,copyright,patents,trademark,Performer right,Design right.
+
+--------------------------------						IPR [ < Money protectio... < Society ]
+
+*Copyright is originally a property of
+an artefact.
++THE CREATORS OF AN ARTEFACT.
+the publisher of an artefact.
+the buyer of an artefact.
+
+*One purpose of DRM is
++TO PROVIDE ACCESS CONTROL TO DIGITAL MEDIA FOR PROTECTION OF COPYRIGHTS.
+to prevent production and distribution of software that can break copy protections of media files.
+to promote equal-opportunity rights to digital contents, in opposition to digital divide.
+to maintain a directory of copyrights and their delegations.
+
+10 way to protect intellectual property 
+https://www.forbes.com/sites/forbestechcouncil/2018/07/23/10-effective-ways-to-protect-your-intellectual-property/#4d4dcbd32e1a
+*What is not a way to protect intellectual property?
+privacy regulations			
+DRM, digital rights management
+patents				//dont file patent
+licensing			//Get Strong Non-Disclosure Agreements		
+//(Look at any other agreements you use in your business to make sure they cover your intellectual property. These could include employment agreements, licenses, and sales contracts)
+
+
+---------------------------------						Social media [ < Networked life < Individuals & g... ]
+
+
+				XEM LẠI SAU	
+
+
+------------------------------							Ethics [ < Soft issues < Individuals & g...
+				
+*Ethics is an important topic in information systems,
++AND SOME ASPECTS OF IT EXTENDING TO THE AREA OF INFORMATION SECURITY INCLUDE TREATMENT OF PRIVACY AND IPR.
+and in information security its most vital application is in forecasting attacks by understanding the hackers' ethics.
+but in information security its role is free with the exception of hacking aspects.
+but in information security it only occurs in ethical hacking.
+
+-----------------------------Anonymous Browsing and how to become anonymously online
+https://www.cactusvpn.com/beginners-guide-to-online-privacy/anonymous-browsing/#anonymity1
+//use VPN,Proxy server, Delete Cache and cookies, use ad blocker, tor (The Onion Router), Incognito/Privacy mode in browser
+
+
+*What is not a topic of ethical considerations?
+Using a foreign VPN to access information that is illegal in your country but legal if that is everywhere else.
+Searching for vulnerabilities in a web service by sending broken data packets to it.
++WASTING YOUR OWN AND OTHERS' TIME BY WRITING IN SOCIAL MEDIA LONG EXPLANATIONS OF QUESTIONABLE QUALITY.
+Working out ways to block advertisements on web sites that get their income from displaying those ads.
+
+
+*If you need to browse the internet anonymously,
+you have no choice but do that on a public machine - in a library for instance.
++THE TOR NETWORK IS AN OPTION YOU CAN SERIOUSLY CONSIDER.		
+you can simply set your browser to the privacy preserving mode.					//not choose due to word => "preserving"
+you must be cautious because most services for that purpose are against the law, at least in Finland.	
+
+
+
+
+--------------------------------				Security issues on personal devices [ < Personal specia... < Individuals & g... ]
+
+*Assume you have logged in to a web site with your registered username and password. Then you close your browser and switch off the computer. The next day you launch the browser and navigate to the same site. If you get directly logged in without entering any credentials, what can you infer?
+You did not close you browser the first day, after all.
+There is no way to log out from the site.
+Your browser sends your password automatically to the site.
+THE SITE USES A LOGIN COOKIE THAT PERSISTS EVEN IF THE BROWSER IS NOT RUNNING.
+
+
+--------------------------Entropy in security
+https://www.sciencedirect.com/topics/computer-science/entropy#:~:text=Entropy%2C%20in%20cyber%20security%2C%20is%20a%20measure%20of,ability%20or%20possibility%20to%20predict%20forthcoming%20generated%20values.
+Entropy is the foundation upon which all cryptographic functions operate. Entropy, in cyber security, is a measure of the randomness or diversity of a data-generating function.
+Data with full entropy is completely random and no meaningful patterns can be found. Low entropy data provides the ability or possibility to predict forthcoming generated values.
+ 
+ 
+*Assume you buy a USB memory stick that has internal 256-bit AES encryption. The stick has a small keyboard (0..9) where you can choose a passcode of length 8, 9 or 10 keys presses for accessing your data. You take the longest code into use, but then an attacker gets hold of our stick. He doesn't try to press the keys, but opens the stick and can enter codes electronically. How many attempts does he have to make in the worst case (his worst, not yours)?
+10^10
+10^8+10^9+10^10
+2^256
+3*10^10
+
+*If your personal computer has a firewall, it is typically
+an accessory on the power cord.
+one process among others.
+hardware on the network card.
+an add-on to the browser process.
+
+*There is a vast variety of things that can be connected to the USB port of a computer. Ignoring problems with electricity, which of the following connections has the least risks in information security?
+Your private memory stick when you read and write document files for long term storage.
+Your own mobile phone when you only charge its battery in a locked box at a local supermarket.
+Charging the new camping shower you just bought from a Chinese web shop. (This is a little pump with a hose.)
++THE OPTICAL MOUSE THAT YOUR IT STAFF CHECKED FOR YOU TO BRING HOME FROM YOUR OFFICE FOR REMOTE WORK.					
+
+
+------------------------------------				Non-disclosure, but public keys. [ < Techniques < Organizations ]
+
+------------------non-disclosure agreement (NDA)
+https://www.investopedia.com/terms/n/nda.asp
+A non-disclosure agreement is a legally binding contract that establishes a confidential relationship. 
+The party or parties signing the agreement agree that sensitive information they may obtain will not be made available to any others.
+Non-disclosure agreements are common for businesses entering into negotiations with other businesses. They allow the parties to share sensitive information without fear that it will end up in the hands of competitors.
+In this case, it may be called a mutual non-disclosure agreement.
+-------------------
+
+
+*A non-disclosure agreement may have many forms, but its usual purpose is
+to protect the customer's or employee's personal data against too wide usage by the organization.
++TO PREVENT AN EMPLOYEE OR VISITOR FROM REVEALING SENSITIVE INFORMATION OF AN ORGANIZATION.
+to provide a confidentiality classification of information that an organization shares with its members.
+to set rules for encryption for sensitive data of an organization.
+
+*The basic goal of a public key infrastructure is to
+bind a private key to a corresponding public key.
++BIND THE PUBLIC KEY TO THE ENTITY TO WHICH THE KEY BELONGS.
+allow for a reasonably short and easy-to-find chain of certificates.
+enable a wide user base by using a hierarchical structure.
+
+----------------------------public key certificate
+https://searchsecurity.techtarget.com/definition/public-key-certificate
+There are different types of public key certificates for different functions, such as authorization for a specific action or delegation of authority. 
+Public key certificates are part of a public key infrastructure that deals with digitally signed documents.
+The other components are public key encryption, trusted third parties (such as the certification authority), and mechanisms for certificate publication and issuing
+
+Document consists of a specially formatted block of data that contains the name of the certificate holder (which may be either a user or a system name) and the holder's public key, 
+as well as the digital signature of a certification authority for authentication.
+*Assume K is a public key and S is the corresponding private key, and they belong to person B. A certificate for K is generated when
++SOMEONE ELSE USES HIS PRIVATE KEY FOR A SIGNATURE THAT BINDS K AND THE IDENTITY OF B.				//certificate for public key deal with digitally signed document
+using S, a signature is calculated that binds K and S.
+a trusted party creates a digital signature that binds K with S.
+a signature is created which can be verified with S and which binds the identity of B to K.
+
+
+
+
+
+----------------------------					Password [ < Access < Secure practice... ]
+
+*If you need to come up with a question and answer in a web service for the case of forgetting your password, which of the following is most important from the authentication point of view?
+the memorability of the answer
+the entropy of the answer
+the entropy of the question
+the compatibility of the question and the answer
+
+*If your browser offers you the option to save for future use the password you just entered for some web service, which of the following conditions is most important for you to accept the offer?
+There is nothing valuable behind the password.
+You do not need the password from any other machine.
+The passwords in your browser are protected from others.
+The password is so entropic that you would not be able to remember it.
+
+*The instructions concerning the use of a password can be condensed into five prohibitions: Do not (i) show, (ii) tell, (iii) save, (iv) allow to age, (v) recycle. In the case of a personal password, you must not bargain on some points, whereas you can do it on others. Which of the following mentions first a prohibition that you must not and then one that you can relax?
+(ii) & (iii)
+(iii) & (iv)
+(i) & (ii)
+(iv) & (v)
+
+
+------------------------treat password like a toothbrush
+http://www.stacyzapar.com/2012/06/treat-your-password-like-your-toothbrush.html
+Don’t let anybody else use it and get a new one every six months”
+
+
+*Which of the following is generally the most dangerous with passwords? The user
+uses the same password in several places.
+selects a password with low entropy.
+never changes his password.
+writes the password on paper.
+It has been said of the password that it should be treated like your own toothbrush. How many of the following password-related features does this statement represent? (i) Entropy, (ii) usability, (iii) keeping it for personal use only, (iv) changing it often enough.
+none
+two
+all
+one				
+
+-----------------------------						Cookie [ < On computers < Secure practice... ]
+*With the exception of the cookie itself or other cookies, a web browsing cookie cannot break
+the availability of your files, but it may break their confidentiality or integrity.
+the integrity of your files, but it may break their confidentiality.
++EITHER THE INTEGRITY OR CONFIDENTIALITY OF YOUR FILES.
+the confidentiality of your files, but it may break their integrity.
+
+*The web browsing cookie is initially created by the
+browser, which gets it back from the server without changes.
+browser, but the server modifies it and sends back to the browser.
+web server, but the browser modifies it and sends back to the server.
++WEB SERVER, WHICH GETS IT BACK FROM THE BROWSER WITHOUT CHANGES.
+
+*The purpose of a web browsing cookie is to transmit to the web server information
++THAT IS THE SAME AS THE SERVER HAS EARLIER TRANSMITTED TO THE BROWSER.
+collected by the browser from other servers.
+about browser security settings.
+collected by the browser from the user.
+
+
+--------------------------					Captcha [ < Simplifying com... < Secure practice... ]
+https://www.pandasecurity.com/mediacenter/panda-security/what-is-captcha/
+
+*CAPTCHA or "Completely Automated Public Turing test to tell Computers and Humans Apart"
+is a security mechanism that, by definition, cannot be attacked by human force.
++IS AN EXAMPLE OF AUTHENTICATION THAT DOES NOT INVOLVE IDENTIFICATION.
+cannot be interpreted as authentication.
+is authentication based on either knowledge, ownership, or location.
+
+*Why would you bother to write your email address in the form of john.doePOISTA@MINUTtuni.fi? ("Poista minut" is Finnish for "Remove me".)
++TO AVOID SPAMMERS HARVESTING YOUR REAL ADDRESS SO EASILY.
+To announce your desire to get away from a mailing list.
+To hide your domain (location) from automatic scanning by authorities.
+To prevent excessive contacts from others than those who know Finnish.
+
+
+-------------------------------			Crypto procedures [ < Crypto concepts < Crypto ]
+
+*Cryptographic primitives are mainly
+such basic mechanisms, that can be found in all cryptographic algorithms and protocols.
+prime numbers from which keys are formed.
+procedures that a cryptology practitioner can view like indivisible blocks.
+base numbers that generate all other numbers in modular arithmetic.
+
+*Which of the following is mainly a task that can be performed using a cryptographic protocol?
+Secure storage of an encryption key.
+Converting an email message to ciphertext.
+Generating an encryption key based on good random numbers.
++AGREEING ON AN ENCRYPTION KEY.
+
+*Investigate the argument: Crypto algorithms are either symmetric encryption algorithms, or asymmetric encryption or signature algorithms. It is
++FALSE BECAUSE THE LIST LACKS ALGORITHMS THAT DO NOT USE A KEY.
+true, because the digital signature that has been introduced alongside the traditional encryption is done with an encryption-like algorithm, which is not symmetric.
+false, but the inclusion of steganography would make the claim true.
+true, because it does not make sense to mention separately decryption or signature verification.
+
+*Which of the following is not covered by the concept of a cryptographic algorithm?
+message authentication code
++CHALLENGE-RESPONSE METHOD
+hash function
+random number generator
+
+*An implementation of ____ that contains all the necessary software, protocols, algorithms and keys, is called ______ .
+a cryptosystem, cryptanalysis
++CRYPTOGRAPHY, A CRYPTOSYSTEM
+cryptanalysis, cryptology
+cryptology, cryptanalysis
+
+
+_
+

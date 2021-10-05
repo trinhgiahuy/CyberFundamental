@@ -1,0 +1,150 @@
+All of the following attacks have some social aspect, but which description gives the best coverage for the concept of social engineering?
+Exercising the art of influencing people to act against their security policy.
+
+One of the tasks of a certification authority is
+to publish a list of revoked certificates or provide a service that returns the certificate status.
+
+
+All of the following may be needed to repair broken integrity, but what is the most concrete concept?
+detection
+policy
+proactivity
+REDUNDANCY
+
+
+Shared secret is an InfoSec term that usually refers to
+A RESULT OF PROTOCOLS LIKE IKE (INTERNET KEY EXCHANGE) OF IPSEC.
+personal sensitive data that cannot be only private but must be known to someone else, too, than the owner.
+the random bit sequences that two parties send to a trusted server for the purpose of authenticating each other.
+the commands and passwords that allow a backdoor entry to an information system by a group of hackers.
+
+The central meaning of data protection is in protecting
+the secret information of individuals.
+THE INFORMATION THAT INDIVIDUALS DISCLOSE TO DIFFERENT DATA COLLECTORS.
+the confidential information of companies.
+the information companies provide to various data collectors.
+
+GDPR defines several roles with respect to a person's personal data, but not the role of data
+subject.
+OBJECT.
+controller.
+processor.
+
+Social media is a "lively place" and update is a buzzword there. What kind of update, however, is usually poorly handled?
+LINKS TO SITES THAT HAVE PUBLISHED NEW PAGES THAT CORRECT EARLIER MISTAKES IN THEIR NEWS.
+Changes in a user's profile or credentials.
+Algorithms and software of the platform.
+Memberships in groups.
+
+Ethics is an important topic in information systems,
+AND SOME ASPECTS OF IT EXTENDING TO THE AREA OF INFORMATION SECURITY INCLUDE TREATMENT OF PRIVACY AND IPR.
+and in information security its most vital application is in forecasting attacks by understanding the hackers' ethics.
+but in information security its role is negligible with the exception of hacking aspects.
+but in information security it only occurs in ethical hacking.
+
+
+Which of the following is mainly a task that can be performed using a cryptographic protocol?
+Secure storage of an encryption key.
+Converting an email message to ciphertext.
+Generating an encryption key based on good random numbers.
+AGREEING ON AN ENCRYPTION KEY.
+
+
+The term plaintext
+means ASCII-text without any formatting or markup.
+is used for human readable sequences of characters.
+refers to documents that do not contain any executable content like macros.
+IS A SYNONYM FOR CLEARTEXT AND THE CONCEPT IS USED IN CRYPTOGRAPHY.
+
+Stream ciphers are one of the two classes of symmetric cryptographic methods, the other one being
+cryptographic hashing.
+public key cryptography.
+authentication algorithms.
+BLOCK ALGORITHMS
+
+DES, the Digital Encryption Standard, was for a long time the state-of-the-art method to
+carry out the exchange of cryptographic keys.
+authenticate the owner of the secret encryption key.
+PRODUCE CONFIDENTIALITY OF COMMUNICATIONS.
+transform digital images to contain a watermark.
+
+
+Which of the following does not apply?
+IF THE RSA DECRYPTION EXPONENT IS D, THEN THE RSA DECRYPTION PROGRAM HAS TO DO D-1 MODULAR MULTIPLICATIONS.
+The RSA decryption algorithm does not need to know the two prime numbers that make up the modulus n.
+An RSA signature can be made even if you do not know the two prime numbers that make up the public modulus n.
+If you raise a number x smaller than the RSA modulus n to the public RSA exponent (e) and then to the private exponent (d) and only then reduce the result modulo n, you obtain x.
+
+
+Which of the following does not apply?
+If you raise a number x smaller than the RSA modulus n to the private RSA exponent (d) and then to the public exponent (e) and only then reduce the result modulo n, you obtain x.
+The RSA decryption algorithm does not need to know the two prime numbers that make up the modulus n.
+AN RSA SIGNATURE CANNOT BE MADE UNLESS YOU KNOW THE TWO PRIME NUMBERS THAT MAKE UP THE PUBLIC MODULUS N.
+RSA encryption can be calculated for a larger number than the public modulus, but decryption still produces a smaller number than the modulus.
+
+IPSEC
+PROVIDES MECHANISMS FOR AUTHENTICATION AND ENCRYPTION.
+only authenticates clients toward a server.
+can only be deployed with IPv6.
+provides mechanisms for nonrepudiation.
+
+What does key exchange mean in the sentence: "Key exchange is one of the most important cryptographic protocols."?
+A public key is revoked and replaced by a new one which is authenticated.
+The parties authenticate their public keys to each other.
+An old symmetric key is being updated.
+A SYMMETRIC KEY IS AGREED UPON.
+
+TLS is a very common cryptographic protocol. The T in its name comes from the word
+trusted.
+transmission.
+TRANSPORT.
+total.
+
+The tasks of a packet filter may include
+user authentication.
+anti-virus.
+spam filtering.
+WRITING LOGS
+
+One possible action of IPsec is to add to each data packet a field with
+a signature calculated from the packet with the sender's key.
+the sender's public key and its certificate.
+a certificate calculated from header fields of the packet.
+A HASH CALCULATED FROM THE PACKET AND A SYMMETRIC KEY.
+
+Which of the following is more important in a VPN that must meet the security needs of the network connection for a remote worker?
+virtuality
+ENCRYPTION
+transparent functionality of the network
+tunneling, and hiding the endpoints
+
+In the cell phone system the network authenticates the phone or actually the SIM card in it. What mechanism is in place here?
+One-time password
+CHALLENGE-RESPONSE METHOD, WITH A SYMMETRIC KEY SYSTEM.
+Fixed password
+Challenge-response method that applies a public key system.
+
+The mobile phone systems 2G, 3G, 4G, ... authenticate the subscriber
+with a PKI based protocol.
+by using an authenticated Diffie-Hellman key exchange.
+by encrypting and transmitting a shared secret from the SIM card to the network.
+BY APPLYING A CRYPTOGRAPHIC HASH FUNCTION TO A SHARED SECRET
+
+What is not used as a term for the act of a computer system making a new entry to the log file of active users?
+log in
+PASS IN
+sign in
+log on
+
+Single sign-on is characterized by the fact that
+the user has a different ID for different services, even though the password he or she must remember for them is the same.
+there is no need to store log information about the use and operation of the services elsewhere than in a centralized login service.
+the password a user must remember is different for different services, even if the username for each is the same.
+SECURITY IS IMPROVED COMPARED TO A USER HAVING THE SAME PASSWORD FOR MULTIPLE SERVICES.
+
+Password salt is
+the small variation allowed in password systems that use very long passphrases.
+the method to make fixed passwords variable by requiring to insert time dependent punctuations.
+the secret constant that a password checking procedure uses as an input together with the password.
+THE RANDOM NUMBER STORED WITHOUT ENCRYPTION TOGETHER WITH EACH HASHED PASSWORD
+

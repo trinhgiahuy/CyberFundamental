@@ -1,0 +1,14 @@
+Compter System Securty
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/
+
+
+Network and computer security
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/lecture-notes-and-readings/
+
+
+Schneier on Security blog
+https://www.schneier.com/
+
+
+Security Engineering — Third Edition (Ebook)
+file:///D:/..Cyber%20Fundamental/Security%20Engineering%20-%20A%20Guide%20to%20Building%20Dependable%20Distributed%20Systems.html

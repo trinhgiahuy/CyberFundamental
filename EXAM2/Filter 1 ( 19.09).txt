@@ -1,0 +1,1668 @@
+
+Advanced persistent threat refers to
+a vulnerability that has not been patched.
+A THREAT ACTOR WITH PLENTIFUL RESOURCES WHO HAS GAINED UNAUTHORIZED ACCESS TO AN INFORMATION SYSTEM AND STAYS UNDETECTED FOR AN EXTENDED PERIOD OF TIME.
+a Trojan horse that applies some novel method to compromise the system where it is residing.
+a zero-day vulnerability, which the finder has sold to some party other than the manufacturer or vendor who is responsible for patching it.
+
+**A root kit is
+a term referring to methods of breaking the limitations of the OS for installing programs from various sources.
+is a set of tools for breaking the DRM limitations of multimedia software with respect to viewing, copying and modifying content.
+A COLLECTION OF SOFTWARE TOOLS WHICH - AFTER GETTING TO A COMPUTER - ALLOW THE ATTACKER TO ACCESS THE MACHINE WITH ROOT PRIVILEGES.
+the common name for versions of a computer virus that attaches to one of the supervisor or kernel modules.
+
+**None of the following is a definition of a buffer overflow, but which one best describes it?
+The program counter, i.e. the address of the next instruction to be executed, is moved forward by one, even if it is already in the last instruction of the subroutine.
+It is always a security threat because an attacker can use it to cause evil - at least a program crash.
+A memory reference made by a program points to another process's memory area.
+A NUMBER LARGER THAN THE ARRAY SIZE IS USED TO INDEX THE ARRAY, AND THE OPERATING SYSTEM DOES NOT BLOCK THIS REFERENCE.
+
+**Assume a web site allows users to input data that other users retrieve later. If those data are not intended to be exec**uted by the retrieving browsers, but this still happens, the input validation has failed to prevent a
+CROSS-SITE SCRIPTING.
+cross-site request forgery.
+malicious file execution.
+database injection.
+
+**A virus can do nothing if its code is just read but not run. Why then does the MS-Word macro virus start, even if the document containing it is only read from disk to Word?
+AN INFECTED DOCUMENT CONTAINS PROGRAM CODE THAT WORD RUNS AFTER READING THE DOCUMENT.
+The virus is memory-resident and infects documents when they are opened.
+An infected document contains program code which, when read into Word, causes a buffer overflow in Word and ends up being executed after all.
+The virus has also infected Word's program code.
+
+**Threats to network communications can be summarized in five fundamental cases, one of which is the unauthorized use of a resource over the network. The other four deal with the "fate" of messages. If each of these four cases is seen as a breach of either confidentiality, integrity or availability, then there will be two cases breaching
+INTEGRITY.
+availability.
+both confidentiality and availability.
+both integrity and confidentiality.
+
+**On which layer of the TCP/IP stack does routing operate?
+Physical layer.
+NETWORK LAYER.
+Transport layer.
+Data-link layer.
+
+**Besides a physical meaning the concept of access control is defined as "The process of granting or denying specific requests to obtain and use information and related information processing services". What is the significance of the word "specific" here?
+It denotes the fact that not all requests are submitted to the granting/denying process.
+Without that word the defined scope would be overly large, covering all levels from the OS kernel to the application layer.
+Omitting the word would not change the meaning, because all requests of the defined kind are specific in some sense.
+IT LIMITS THE SCOPE OF ACCESS CONTROL TO THE MOMENT WHEN THE REQUEST HAPPENS - IN CONTRAST TO THE POLICY LEVEL THAT TELLS HOW THE GRANTING/DENYING PROCESS SHOULD WORK.
+_________________________________More examples
+
+
+**A wormhole attack happens when two colluding attackers at non-adjacent locations of a (wireless) network have a direct connection and by replaying routing information cause traffic to flow through their link. This gives good opportunity to
+money laundering.
+cryptanalysis.
+seeing confidential data.
+stopping the network.
+
+
+
+
+
+_________________________________
+**Investigate the claim: As a security goal, Availability, or Usability, means that information or services are stored and accessible sooner or later. It is false because
+the term usability should not be used in the same sense as the term availability.
+AVAILABILITY REQUIRES THAT THE DATA BE ACCESSED WITHIN A SET TIME LIMIT.
+in terms of security, availability only applies to information and usability only to services.
+usability also requires that the data have not changed uncontrollably.
+
+
+**The worst enemy of security may be a human being, but what is the second worst - often also called the worst?
+multilayerness
+single-levelness
+the weakest link in the chain
+NONE OF THESE\
+
+**An administrator grants access rights to a group of users called "HR" instead of granting rights to each member individually. This is an example of a security mechanism called
+layering.
+data hiding.
+ABSTRACTION.
+polyinstantiation.
+
+**The over 100 years old principle of Kerckhoffs
+CONCERNS THE SEPARATE NATURE OF AN ALGORITHM AND ITS PARAMETERS.
+is in current parlance known also as the onion (protection) principle.
+has been obsoleted by the invention of public key cryptography.
+says that locks are for honest people.
+
+
+**The security of a mechanism shall not be based on the secrecy of its design or implementation. This is the principle of an open model. Which of the following is an example of complying with this?
+A corporate network is defended by a two-tier system in which the structure of the outer and less important part of the network is clearly visible to the attacker and can misdirect him into focusing on it.
+The security system is assembled from so simple modules that everyone can be assured of the security of each of them.
+ALL PUBLICLY AVAILABLE URLS ON A WEBSITE ARE LINKED ON A SITEMAP OR OTHER INDEX PAGE, BUT ALL NON-PUBLIC URLS REQUIRE A LOGIN.
+The single sign-on mechanism that allows the user to access various web services works regardless of the service implementation platform.
+
+
+**Encapsulation is a general protection idea whose applicability ranges from vaults to IPsec's encapsulating security payload (ESP), but which of the following is NOT another example of it?
+INTRUSION DETECTION SYSTEM
+TCP wrapper
+sandbox in Java Virtual Machine
+a VPN tunnel
+
+The ____ describes the rules that need to be implemented to ensure that the security requirements are met in your organization.
+SECURITY POLICY
+security model
+reference monitor
+security kernel
+
+What does accountability mean in the field of information security?
+The users or their departments have to pay for the CPU and network usage, and logs are kept to enable this.
+The users or their departments have to pay the costs of resolving security incidents caused by the users.
+The userâ€™s actions in the information system are recorded in log files and they are used for evaluation of the user with respect to rewards or sanctions.
+THE USERÂ€™S ACTIONS ARE LOGGED AND IN CASE OF SECURITY INCIDENCES IT WILL BE KNOWN WHETHER THE USER IS RESPONSIBLE OR NOT.
+
+_________________________________ Access control
+
+
+**For mandatory access control to work the data owner must determine
+a sufficient level of consensus among users.
+the method of validating users' authorization.
+THE USERS' NEED TO KNOW.
+the method of verifying users' identities.
+
+**Multilevel security is
+an example of defence-in-depth.
+a security model where new parts are introduced at lower assurance levels and gradually elevated to higher levels as they are evaluated.
+the way how operating systems treat processes of users, running them with more or less restricted rights.
+A SYSTEM THAT SIMULTANEOUSLY PROCESSES INFORMATION AT DIFFERENT CLASSIFICATION LEVELS AND USERS WITH DIFFERENT CLEARANCE LEVELS.
+
+**Role-based access control
+is the strictest form of mandatory access control.
+IS IMPLEMENTED BY CONSIDERING JOB FUNCTIONS.
+can be compromised by role inheritance.
+does not depend on what the data owner declares.
+
+**Role-based access control, RBAC, means
+AN ACCESS CONTROL MODEL THAT BASES THE ACCESS DECISION ON PRE-ASSIGNED ROLES OF A USER IN RELATION TO THE REQUESTED RESOURCE.
+a method to assign roles to users or revoke them in order to fulfill the security policy.
+an access control model that uses such grouping of users and resources where the groups can change on the basis of previous accesses.
+a method to allocate roles to users for access to various parts of the organization network.
+
+_________________________________	Criteria and coordination
+
+**CERT, Computer Emergency Response Team,
+is an international company whose main task is to investigate and trace data breaches in companies.
+ORIGINATED IN THE UNITED STATES AND HAS SINCE SPREAD TO E.G. FINLAND.
+is a UN agency that also has offices in Finland.
+in accordance with the EU directive, has also been made to operate in Finland under FICORA.
+
+**The process of evaluating the security properties of software or a system against a set of security standards or policies is called
+accreditation.
+verification.
+CERTIFICATION.
+validation.
+
+**The idea of information security criteria models (e.g. Common Criteria) is mainly to
+assist in the marketing of security products.
+FACILITATE THE ASSESSMENT OF INFORMATION SECURITY.
+facilitate the installation of security mechanisms.
+enable automatic evaluation of products and systems with respect to security.
+
+One of the ISO standards 9126, 15408 and 27001 focuses on evaluation of software quality. The other two focus on information security. (i) Which is about management, and (ii) which provides evaluation criteria for IT products?
+(I) 27001, (II) 15408
+(i) 15408, (ii) 27001
+(i) 9126, (ii) 27001
+(i) 9126, (ii) 15408
+ISO Standard
+27001			: management
+15408			: evaluated criteria IT products
+
+**An X.509 certificate is used to verify
+a cryptographic key using a trusted server.
+a digital signature by submitting it to a certificate authority.
+the ownership of a website that uses TLS.
+THE BINDING BETWEEN AN IDENTITY AND A CRYPTOGRAPHIC KEY.
+
+_________________________________Operational level
+
+
+**What is the offline rule for backups?
+While making a backup, take your system offline, except for the connection to the backup site.
+ONLY CONNECT YOUR BACKUP TO YOUR PRODUCTION SYSTEMS WHEN MAKING OR RETRIEVING THE COPY.
+Transport your backup media physically to storage which is never online.
+While making a backup to a local service or media, take your system offline.
+
+**What is the '3-2-1' rule for backups?
+AT LEAST 3 COPIES, ON 2 DEVICES, AND 1 OFFSITE.
+At least 3 generations, 2 copies of each, and 1 offline.
+At least 3 copies, on 2 sites, and 1 offline.
+At least 3 generations, 2 copies of each, and a new copy once per day.
+
+Intrusion detection systems use three types of information as the basis for their analysis. Which of the following is not typically included in this information?
+program file checksums
+characteristics of previous attacks
+KNOWLEDGE FROM PREVIOUS ATTACKERS
+information about current system configuration
+
+**In the event of a security incidence, one of the primary objectives of the response is to ensure that
+the attackers are detected and stopped.
+appropriate documentation about the event is maintained as chain of evidence.
+THERE IS MINIMAL DISRUPTION TO THE ORGANIZATION'S MISSION.
+the affected systems are immeadiately shut off to limit the impact.
+
+
+**What should owners do to find vulnerabilities in their information systems?
+Use intrusion detection techniques.
+Provide a parallel version of the system for hackers to examine.
+Install a root kit.
+APPLY AUTOMATIC ATTACK TOOLS.
+
+_________________________________ Animistrative Level 
+
+
+_________________________________ Future 
+
+**A job announcement for professor in Cyber security (Oulu 2020) outlines the research problem area this way: "Traditional thinking in system development may have considered trust as an afterthought: data is processed by various devices and actors in the system, supply chain is long and complicated, _______ and trust and privacy is upheld by either attempting to anonymize the data or applying strong access controls." What belongs to the slot?
+regulations are poorly understood
+DATA PERSIST FOREVER
+cryptographic protections are frequently broken
+customers demand open-access data
+
+**A job announcement for professor in Cyber security (Oulu 2020) outlines the research field in this way: "Traditional thinking in system development may have considered trust as an afterthought: ... ... Opposite thinking would be to focus data collection, keeping data and its processing ____, simplifying and securing each step in processing and expiring collected data as swiftly as possible." What belongs to the slot?
+encrypted
+public
+LOCAL
+distributed
+
+_________________________________	Protections from bad experiences
+
+**What does it mean in terms of usability, if one of the goals in the design of a secure system is to make abuse really difficult?
+The system will not be optimal with respect to other security goals.
+The goal has very little to do with usability.
+IT IS LIKELY THAT USABILITY FOR ALLOWED USE IS NOT IMPAIRED, AND GOOD USER-EXPERIENCE IMPROVES THE OPPORTUNITY FOR SUCCESS IN THE SECURITY DESIGN.
+The system is likely to become unusable.
+
+_________________________________ Trickey questions
+**
+
+
+
+_________________________________Policy and plan
+**Information security policy is a management-approved view of the _______ of information security.
+costs, responsibilities and implementation
+status, resources and ways of implementation
+significance, responsibilities and implementation plan
+GOALS, PRINCIPLES AND IMPLEMENTATION
+
+
+**The organization's security policy should take a position on
+when the next policy update is made.
+who decides on the allocation of resources to implement the policy.
+how to organize the ownership of the information systems to be secured.
+WHO IS RESPONSIBLE FOR RESPONDING TO SECURITY BREACHES.
+
+**What is the relationship between Security Policy and Security Plan? (S. Plan is also called S. Program.)
+Policy contains Plan.
+PLAN CONTAINS POLICY.														Plan > POLICY
+Policy is an annually updated version of Plan.
+Policy is made on the basis of Plan.
+
+**A large organization can have several security policies (=p.), and a common way to categorize them is:
+standards, guidelines, and procedures
+compliance p., obligatory p., recommended p.
+PROGRAM P., ISSUE-SPECIFIC POLICY, SYSTEM-SPECIFIC P.
+internet p., data-protection p., acceptable-use p.
+
+**What is the correct order when building security?
+security mechanisms - threat survey - security policy - risk analysis
+security policy - threat survey - risk analysis - security mechanisms
+THREAT SURVEY - RISK ANALYSIS - SECURITY POLICY - SECURITY MECHANISMS
+security policy - security mechanisms - threat survey - risk analysis
+
+_________________________________Security Management
+
+**When outsourcing IT systems,
+security services cannot be outsourced with the exception of physical security, like guards.
+REGULATORY AND COMPLIANCE REQUIREMENTS MUST BE PASSED ON TO THE PROVIDER.
+the provider can take up ownership of all devices, software and data while the outsourcing organization concentrates on physical production.
+security services cannot be outsourced except auditing.
+
+
+**To deserve the attribute "effective" the security management in an enterprise must
+achieve full security at the lowest cost.
+prioritize security for new products and send prompt answers to questions concerning the security of old products.
+REDUCE RISK TO AN ACCEPTABLE LEVEL.
+install software and hardware updates and patches as soon as they become vailable.
+
+
+**The primary security goal of ____ management is to ensure that changes to the hardware, software or networking in the organization's information system do not unintentionally or unknowingly diminish security.
+document
+policy
+user
+CONFIGURATION
+
+
+**There are two main types of information system security requirements - in general, but especially according to the Common Criteria standard, namely
+emphasizing either integrity and availability, or confidentiality and privacy.
+related to intentional and unintentional security breaches.
+active and passive.
+FUNCTIONAL AND ASSURING.
+
+_________________________________How badly things can go wrong 
+
+**Which of the following is LESS USEFUL as a basis when determining the value of an asset during risk analysis?
+The asset's price in an external marketplace.
+The initial and outgoing costs of purchasing, licensing and supporting the asset.
+The asset's importance to the organization's production operations.
+THE LEVEL OF INSURANCE REQUIRED TO COVER THE ASSET.
+
+
+**Organization impact analysis
+is just a different term to describe risk analysis.
+calculates the probability of disruptions to the organization.
+ESTABLISHES THE EFFECT OF DISRUPTIONS ON THE ORGANIZATION.
+is critical to development of a business continuity plan.
+
+**Assume you have been contracted as a security consultant to a growing medium-sized firm, where there is still no full-time security staff. One of your tasks will be business impact analysis. Which of the following should you do before the others?
+Evaluate the impact of disruptive events.
+IDENTIFY ALL BUSINESS UNITS WITHIN THE ORGANIZATION.
+Estimate the criticality of business functions.
+Determine the objectives for recovery time, i.e. the allowed down-time.
+
+
+**Pick the correct combinations of the alternate phrases: An organization will conduct a risk assessment to evaluate (i) threats to its assets, (ii) vulnerabilities {present|possible}
+in the environment, (iii) the likelihood that a threat will be realized by taking advantage of an {exposure|attack}, 
+(iv) the impact that the {exposure|attack} being realized will have on the organization, (v) countermeasures {available|in use}, (vi) {total|residual} risk.
+possible - exposure - exposure - in use - residual
+PRESENT - EXPOSURE - EXPOSURE - AVAILABLE - RESIDUAL
+present - exposure - exposure - in use - total
+present - attack - attack - available - total
+
+
+**When assessing the risks associated with residual data in an information system, it is important to
+note that a careless user may replace an existing document with an older version.
+first perform overwriting on all seemingly empty space on the storage media.
+UNDERSTAND THE SECURITY REQUIREMENTS ANY DATA IN THE SYSTEM.
+evaluate vulnerabilities found in applications that handle sensitive files.
+
+
+**What is characteristic of qualitative risk assessment?
+Difficulty of implementation unless you are very experienced with the risk assessment process.
+EASE OF IMPLEMENTATION AND POSSIBILITY TO COMPLETE BY PERSONNEL THAT HAS ONLY LIMITED UNDERSTANDING OF THE RISK ASSESSMENT PROCESS.
+Ease of implementation by partly automated and reasonably detailed metrics for calculation of risk.
+Possiblity to complete by inexperienced personnel by using laborious but detailed metrics for calculation of risk.
+
+_________________________________Threat tree, escrow 
+
+
+**Escrow is a useful concept in many contexts, but what cannot be escrowed?
+money
+PUBLIC KEY CERTIFICATES
+decryption keys
+software source code
+
+
+**What is meant by threat trees?
+A specific biological metaphor for "what-if" -type scenario work in threat assessment.
+A specific method of classifying threats and vulnerabilities that progresses and branches through user feedback.
+Certain physical threats to information security or public safety.
+A CERTAIN HIERARCHICAL, COMPREHENSIVE APPROACH TO STRUCTURING THREATS.
+
+
+_________________________________Jobs aspects
+
+**When reviewing access rights of a user the security professional must be most aware of
+identity management and business continuity management.
+the organizational tenure of the user requesting rights.
+automated processes which grant users access to resources.
+BUSINESS OR ORGANIZATIONAL PROCESSES AND ACCESS AGGREGATION.
+
+
+**Consider an ongoing and important task with information systems that does not require special training. 
+If only one person is in charge of this task and the organization is not at all prepared to the situation where he or she falls sick, the operation of the organization may be severely disrupted. What is the most cost-effective way of getting prepared?
+Divide the work for two or more permanent workers who perform other tasks part-time.
+Introduce a few other employees as deputies and maintain their expertise.
+Recycle tasks from time to time, allowing employees to accumulate skills for multiple tasks.
+ACCURATELY DOCUMENT THE TASK AND ENSURE THAT THE PERSON IN QUESTION KEEPS THE DOCUMENTATION UP TO DATE AND AVAILABLE.
+
+
+**The threat of a collusion attack by employees is best mitigated by applying
+the principle of least privilege.
+data classification.
+defined job sensitivity levels.
+JOB ROTATION.
+
+
+**Personnel safety does not, by conventional definitions, cover everyone who comes into contact with an organization. Which of the following does it not cover?
+A CUSTOMER IN A DEPARTMENT STORE.
+A remote worker who does not visit any company premises.
+A subcontractor of a company who visits the company.
+A plumber making repairs in company premises.
+
+
+**Which of the following best covers the two sides of personnel security? Care must be taken to ensure that those working in the company
+do not (i) through negligence or (ii) intentionally cause damage.
+DO NOT (I) SUFFER FROM ATTACKERS OR DAMAGES AND DO NOT (II) CAUSE DAMAGE THEMSELVES.
+do not cause (i) data leakage or (ii) compromise of integrity or availability.
+do no cause harm while (i) at work or (ii) at other times (including after employment).
+
+_________________________________Awareness and duties
+
+**In an organization security awareness training should include
+security objectives that the organization has a legal obligation to comply with.
+the high-level outcome of vulnerability assessments.
+SECURITY ROLES AND RESPONSIBILITES FOR STAFF.
+specialized curriculum assignments, coursework and an accredited training institution.
+
+**Besides reducing departmental turf battles, setting clear security roles in an organization has two of the following benefits: 
+It (i) reducing requirements for cross-training (=same task to several) (ii) ENABLES CONTINUOUS IMPROVEMENT OF PERSONNEL, 
+(iii) simplifies identity and access management, (iv) ESTABLISHES PERSONAL ACCOUNTABILITY. Which two?
+
+(II) AND (IV)
+(i) and (ii)
+(i) and (iii)
+(i) and (iv)
+
+
+**By assigning key tasks and responsibilities to different people,
+the need for security training is reduced.
+the company is no longer dependent on any one person.
+THERE ARE FEWER OPPORTUNITIES FOR ABUSE THAN BEFORE.
+a social engineering attack by an outsider is no longer possible.
+
+_________________________________IAM, SIEM, AC models						
+{
+Access control model, e.g. RBAC and ABAC. Note that there is a Harpo reading exercise on AC models.
+Identity management
+SIEM
+}
+
+
+**Access control can be built in several ways that follow the general principles of one of few AC models. Which listing contains only such models.
+MAC, TCP/IP, OSI
+ABAC, DAC, RBAC					***********
+RBAC, HMAC, CBC-MAC
+HVAC, DAC, MAC
+
+
+**Identity management is a set of technologies and processes
+ENSURING THAT PEOPLE IN AN ORGANIZATION HAVE THE APPROPRIATE ACCESS TO TECHNOLOGY RESOURCES.
+focused on the provisioning and decommissioning of user credentials.
+aimed both at defending against and recovering from identity theft.
+that actually does little more than role-based access control.
+
+
+**Security information and event management (SIEM) system differs from a log management system mainly in that SIEM can be used for log collection, collation and analysis
+also for historical purposes.
+IN REAL TIME.
+to discern patterns.
+for admissibility in a court.
+
+
+_________________________________Key management 
+
+**In the context of PKI certificates the CRL is a list of certificates that
+are close to their expiry and need to be renewed before that to stay valid.
+have been put in doubt by some relying party and need to be revalidated by the owner to stay valid.
+have been revalidated until a new expiry date.
+HAVE BEEN REVOKED AND ARE NO MORE VALID.
+
+
+**Which of the following is not part of key management in a symmetric cryptosystem ?
+SETTING THE KEY TO A REVOCATION LIST
+controlling the purpose of the key usage
+forced escrow of the key
+backing up / restoring the key
+
+
+**Key management is required even if there is no communication relationship between different parties. If a key is used to encrypt the hard drive of an employee's personal computer, then which of the following key management steps is not relevant?
+update
+DISTRIBUTION
+backup
+key escrow
+
+
+**When a PKI certificate is revoked in an organization the proper procedure is to
+set up new key expiry dates.
+UPDATE THE CERTIFICATE REVOCATION LIST.
+notify all employees of the revoked keys.
+remove the private key from all directories.
+
+
+_________________________________PKI
+
+**By applying her private key, the key holder can establish a connection between the corresponding public key K and her own identity. This connection
+is the basis for others to gain trust in who holds the private key corresponding to K.
+may have the advantage that others know that the originator of the connection knows the private key corresponding to K.
+is necessary to indicate who is in possession of that private key.
+allows others to trust claims about who holds K.
+
+
+**A public key infrastructure usually has one or more CAs that guarantee that a client's public key K is associated with the identity C of that particular client. Denote by S the private key corresponding to K. The CAs accomplished the key-to-identity binding
+by marking both C and K in a public but secure database.
+by storing C publicly and S secretly in a secured database, from which the CA, when asked for the validity of K, shall certify it with a signature using S as the key.
+with a signature that the CA calculates from C and K using its own private key.
+by storing both C and K on a smart card from which they can only be read but not changed - at least without breaking the card and the usability of S.
+
+
+**Which of the following statements is false?
+The public key system can extend beyond national borders or it can be limited to a single organization.
+Digital signing of certificates is not a necessary part of a public key system.
+The public key infrastructure can be built on a single certificate authority.
+A certificate chain can also be formed by iterating the following (by different signers of course): create the first certificate by signing just a public key, then make each new one by signing the previous certificate together with its associated identity.
+
+
+_________________________________ 
+**A digital signature is not legally valid if it is technically verified, but
+a signatory declares that he has done so in error.
+a new signature subsequently revokes it.
+THE SIGNED ELECTRONIC INFORMATION HAS BEEN ALTERED.
+the signatory no longer has the instrument he used to make the signature.
+
+_________________________________
+***Two complementary viewpoints in information security are: (i) people can be protected from information or (ii) information from people. 
+Which among the following is the most common example of (ii)?
+Unprotected and unrestricted information would block telecommunication networks.
+Information that is freely available elsewhere is not wanted somewhere in the world.
+Information may become unreliable if accessed by too many.
+ONE DOES NOT WANT TO GIVE ACCESS TO THE INFORMATION FOR FREE.
+
+**Two complementary viewpoints in information security are: (i) people can be protected from information or (ii) information from people. 
+Which among the following is the most common example of (i)?
+UNSOLICITED BULK EMAIL IS EFFECTIVELY FILTERED AT SEVERAL STAGES BETWEEN THE SENDERS AND RECEIVERS.
+Information that is freely available elsewhere is not wanted somewhere in the world.
+Information may become harmfully unreliable if modified by too many.
+Big web shops like Amazon have effective recommendation mechanisms that filter out most uninteresting items.
+
+_________________________________
+**All of the following are related to ethical hacking, but which one makes it actually ethical?
+Agreement with the target.
+ADHERENCE TO ITS PURPOSE BY THE HACKER.
+Supervision by a representative of the target organization.
+Education and skill.
+
+_________________________________Policy And plan
+**Information security policy is a management-approved view of the _______ of information security.
+costs, responsibilities and implementation
+status, resources and ways of implementation
+significance, responsibilities and implementation plan
+GOALS, PRINCIPLES AND IMPLEMENTATION
+
+**The organization's security policy should take a position on
+when the next policy update is made.
+who decides on the allocation of resources to implement the policy.
+how to organize the ownership of the information systems to be secured.
+WHO IS RESPONSIBLE FOR RESPONDING TO SECURITY BREACHES.
+
+What is the relationship between Security Policy and Security Plan? (S. Plan is also called S. Program.)
+Policy contains Plan.
+PLAN CONTAINS POLICY.
+Policy is an annually updated version of Plan.
+Policy is made on the basis of Plan.
+
+
+A large organization can have several security policies (=p.), and a common way to categorize them is:
+standards, guidelines, and procedures
+compliance p., obligatory p., recommended p.
+PROGRAM P., ISSUE-SPECIFIC POLICY, SYSTEM-SPECIFIC P.
+internet p., data-protection p., acceptable-use p
+
+What is the correct order when building security?
+security mechanisms - threat survey - security policy - risk analysis
+security policy - threat survey - risk analysis - security mechanisms
+THREAT SURVEY - RISK ANALYSIS - SECURITY POLICY - SECURITY MECHANISMS
+security policy - security mechanisms - threat survey - risk analysis
+
+
+**The primary security goal of ____ management is to ensure that changes to the hardware, software or networking in the organization's information system do not unintentionally or unknowingly diminish security.
+document
+policy
+user
+CONFIGURATION
+
+**There are two main types of information system security requirements - in general, but especially according to the Common Criteria standard, namely
+FUNCTIONAL AND ASSURING.
+emphasizing either integrity and availability, or confidentiality and privacy.
+related to intentional and unintentional security breaches.
+active and passive.
+
+
+**Which of the following is less useful as a basis when determining the value of an asset during risk analysis?
+The asset's price in an external marketplace.
+The initial and outgoing costs of purchasing, licensing and supporting the asset.
+The asset's importance to the organization's production operations.
+THE LEVEL OF INSURANCE REQUIRED TO COVER THE ASSET.
+
+
+**Organization impact analysis
+is just a different term to describe risk analysis.
+calculates the probability of disruptions to the organization.
+ESTABLISHES THE EFFECT OF DISRUPTIONS ON THE ORGANIZATION.
+is critical to development of a business continuity plan.
+
+**Assume you have been contracted as a security consultant to a growing medium-sized firm, where there is still no full-time security staff. One of your tasks will be business impact analysis. Which of the following should you do before the others?
+Evaluate the impact of disruptive events.
+IDENTIFY ALL BUSINESS UNITS WITHIN THE ORGANIZATION.
+Estimate the criticality of business functions.
+Determine the objectives for recovery time, i.e. the allowed down-time.
+
+**The risk analysis as part of an information security process includes identification of what is valuable. Which of the following values is most relevant for this subtask?
+The replacement value of its production and office equipment.
+Financial assets and liabilities.
+INTANGIBLE ASSETS.
+Investments in maintaining the working capacity of staff.
+
+**Pick the correct combinations of the alternate phrases: An organization will conduct a risk assessment to evaluate (i) threats to its assets, (ii) vulnerabilities {present|possible} in the environment, (iii) the likelihood that a threat will be realized by taking advantage of an {exposure|attack}, (iv) the impact that the {exposure|attack} being realized will have on the organization, (v) countermeasures {available|in use}, (vi) {total|residual} risk.
+possible - exposure - exposure - in use - residual
+PRESENT - EXPOSURE - EXPOSURE - AVAILABLE - RESIDUAL
+present - exposure - exposure - in use - total
+present - attack - attack - available - total
+
+**When assessing the risks associated with residual data in an information system, it is important to
+note that a careless user may replace an existing document with an older version.
+first perform overwriting on all seemingly empty space on the storage media.
+UNDERSTAND THE SECURITY REQUIREMENTS ANY DATA IN THE SYSTEM.
+evaluate vulnerabilities found in applications that handle sensitive files
+
+**What is characteristic of qualitative risk assessment?
+Difficulty of implementation unless you are very experienced with the risk assessment process.
+EASE OF IMPLEMENTATION AND POSSIBILITY TO COMPLETE BY PERSONNEL THAT HAS ONLY LIMITED UNDERSTANDING OF THE RISK ASSESSMENT PROCESS.
+Ease of implementation by partly automated and reasonably detailed metrics for calculation of risk.
+Possiblity to complete by inexperienced personnel by using laborious but detailed metrics for calculation of risk
+
+**Escrow is a useful concept in many contexts, but what cannot be escrowed?
+money
+PUBLIC KEY CERTIFICATES
+decryption keys
+software source code
+
+
+**What is meant by threat trees?
+A specific biological metaphor for "what-if" -type scenario work in threat assessment.
+A specific method of classifying threats and vulnerabilities that progresses and branches through user feedback.
+Certain physical threats to information security or public safety.
+A CERTAIN HIERARCHICAL, COMPREHENSIVE APPROACH TO STRUCTURING THREATS.
+
+**When reviewing access rights of a user the security professional must be most aware of
+identity management and business continuity management.
+the organizational tenure of the user requesting rights.
+automated processes which grant users access to resources.
+BUSINESS OR ORGANIZATIONAL PROCESSES AND ACCESS AGGREGATION.
+
+
+**Consider an ongoing and important task with information systems that does not require special training. If only one person is in charge of this task and the organization is not at all prepared to the situation 
+where he or she falls sick, the operation of the organization may be severely disrupted. What is the most cost-effective way of getting prepared?
+Divide the work for two or more permanent workers who perform other tasks part-time.
+Introduce a few other employees as deputies and maintain their expertise.
+Recycle tasks from time to time, allowing employees to accumulate skills for multiple tasks.
+ACCURATELY DOCUMENT THE TASK AND ENSURE THAT THE PERSON IN QUESTION KEEPS THE DOCUMENTATION UP TO DATE AND AVAILABLE.
+
+
+**The threat of a collusion attack by employees is best mitigated by applying
+the principle of least privilege.
+data classification.
+defined job sensitivity levels.
+JOB ROTATION.
+
+
+**Personnel safety does not, by conventional definitions, cover everyone who comes into contact with an organization. Which of the following does it not cover?
+A CUSTOMER IN A DEPARTMENT STORE.
+A remote worker who does not visit any company premises.
+A subcontractor of a company who visits the company.
+A plumber making repairs in company premises.
+
+
+**Which of the following best covers the two sides of personnel security? Care must be taken to ensure that those working in the company
+do not (i) through negligence or (ii) intentionally cause damage.
+DO NOT (I) SUFFER FROM ATTACKERS OR DAMAGES AND DO NOT (II) CAUSE DAMAGE THEMSELVES.
+do not cause (i) data leakage or (ii) compromise of integrity or availability.
+do no cause harm while (i) at work or (ii) at other times (including after employment).
+
+In an organization security awareness training should include
+security objectives that the organization has a legal obligation to comply with.
+the high-level outcome of vulnerability assessments.
+SECURITY ROLES AND RESPONSIBILITES FOR STAFF.
+specialized curriculum assignments, coursework and an accredited training institution.
+
+
+Besides reducing departmental turf battles, setting clear security roles in an organization has two of the following benefits: 
+It (i) reducing requirements for cross-training (=same task to several) (ii) ENABLES CONTINUOUS IMPROVEMENT OF PERSONNEL, 
+(iii) simplifies identity and access management, (iv) ESTABLISHES PERSONAL ACCOUNTABILITY. Which two?
+
+
+(II) AND (IV)
+(i) and (ii)
+(i) and (iii)
+(i) and (iv)
+
+
+By assigning key tasks and responsibilities to different people,
+the need for security training is reduced.
+the company is no longer dependent on any one person.
+THERE ARE FEWER OPPORTUNITIES FOR ABUSE THAN BEFORE.
+a social engineering attack by an outsider is no longer possible.
+
+**Access control can be built in several ways that follow the gener**al principles of one of few AC models. Which listing contains only such models.
+MAC, TCP/IP, OSI
+ABAC, DAC, RBAC
+RBAC, HMAC, CBC-MAC
+HVAC, DAC, MAC
+
+
+Identity management is a set of technologies and processes
+ENSURING THAT PEOPLE IN AN ORGANIZATION HAVE THE APPROPRIATE ACCESS TO TECHNOLOGY RESOURCES.
+focused on the provisioning and decommissioning of user credentials.
+aimed both at defending against and recovering from identity theft.
+that actually does little more than role-based access control.
+
+
+Security information and event management (SIEM) system differs from a log management system mainly in that SIEM can be used for log collection, 
+collation and analysis
+
+also for historical purposes.
+IN REAL TIME.
+to discern patterns.
+for admissibility in a court.
+
+**In the context of PKI certificates the CRL is a list of certificates that
+are close to their expiry and need to be renewed before that to stay valid.
+have been put in doubt by some relying party and need to be revalidated by the owner to stay valid.
+have been revalidated until a new expiry date.
+HAVE BEEN REVOKED AND ARE NO MORE VALID.
+
+
+**Which of the following is not part of key management in a symmetric cryptosystem ?
+SETTING THE KEY TO A REVOCATION LIST
+controlling the purpose of the key usage
+forced escrow of the key
+backing up / restoring the key
+
+
+**Key management is required even if there is no communication relationship between different parties. If a key is used to encrypt the hard drive of an employee's personal computer, then which of the following key management steps is not relevant?
+update
+DISTRIBUTION
+backup
+key escrow
+
+
+**When a PKI certificate is revoked in an organization the proper procedure is to
+set up new key expiry dates.
+UPDATE THE CERTIFICATE REVOCATION LIST.
+notify all employees of the revoked keys.
+remove the private key from all directories.
+
+**By applying her private key, the key holder can establish a connection between the corresponding public key K and her own identity. This connection
+is the basis for others to gain trust in who holds the private key corresponding to K.
+MAY HAVE THE ADVANTAGE THAT OTHERS KNOW THAT THE ORIGINATOR OF THE CONNECTION KNOWS THE PRIVATE KEY CORRESPONDING TO K.
+is necessary to indicate who is in possession of that private key.
+allows others to trust claims about who holds K.
+
+A public key infrastructure usually has one or more CAs that guarantee that a client's public key K is associated with the identity C of that particular client. 
+Denote by S the private key corresponding to K. The CAs accomplished the key-to-identity binding
+by marking both C and K in a public but secure database.
+by storing C publicly and S secretly in a secured database, from which the CA, when asked for the validity of K, shall certify it with a signature using S as the key.
+WITH A SIGNATURE THAT THE CA CALCULATES FROM C AND K USING ITS OWN PRIVATE KEY.
+by storing both C and K on a smart card from which they can only be read but not changed - at least without breaking the card and the usability of S.
+
+
+**Which of the following statements is false?
+The public key system can extend beyond national borders or it can be limited to a single organization.
+Digital signing of certificates is not a necessary part of a public key system.
+The public key infrastructure can be built on a single certificate authority.
+A CERTIFICATE CHAIN CAN ALSO BE FORMED BY ITERATING THE FOLLOWING (BY DIFFERENT SIGNERS OF COURSE): CREATE THE FIRST CERTIFICATE BY SIGNING JUST A PUBLIC KEY, THEN MAKE EACH NEW ONE BY SIGNING THE PREVIOUS CERTIFICATE TOGETHER WITH ITS ASSOCIATED IDENTITY.
+
+_________________________________ Randomness
+**A pseudorandom number
+is a random sequence of bits taken from some physical source, transformed to a number without filtering that would balance the set of such numbers to be evenly distributed.
+is a bit sequence intended for cryptographic use but originating from a forged or accidentally false source that has destroyed its statistical properties.
+IS A BINARY NUMBER WHOSE BITS HAVE BEEN COMPUTED WITH A KNOWN ALGORITHM FROM SOME INITIAL VALUE IN SUCH A WAY THAT THE SET OF SUCH NUMBERS PASSES CERTAIN STATISTICAL TESTS.
+is a number taken from a long bit sequence, which is apparently a result of computation, but the algorithm is not known.
+
+
+**Which of the following 64-bit strings is more likely to be generated by random.org, whose bits are very genuinely random?
+______ 00001101 00000101 01000100 01011001 11101110 01011000 10001011 11111111
+11001000 11010101 01010101 01011011 01101101 10110110 01100110 01100110
+10001111 00011111 10110001 11101100 00011110 11011000 11110001 10111100
+00001101 00000101 01000100 01000010 01101010 10011000 00001010 01010100
+
+
+**Is 154585821 a random number?
+No, if the number appeared publicly somewhere else and the author of this question took it from there. Otherwise yes.
+No, because it uses only 5 different digits although it is nine digits long.
+No, because it repeats the digits 5 and 8 in such a way that is extremely improbable for this short a sequence of digits.
+THE QUESTION CANNOT BE ANSWERED, BECAUSE RANDOMNESS IS NOT A PROPERTY OF A SINGLE NUMBER WITHOUT A CONTEXT.
+
+
+**In the self-test of a random bit generator it needs to pass some statistical properties. What features are common?
+The generator is started twice and the correlation of the generated queues must be within certain limits.
+The generator is started from several specified initial states and the generated queues must be the same as the reference data.
+The generated bits are correlated with previously stored queues and the results must be within certain limits.
+THE NUMBER OF ONES MUST BE WITHIN CERTAIN LIMITS AS WELL AS THE NUMBER OF RUNS OF CERTAIN LENGTHS.
+
+
+_________________________________ Key space
+**Key escrow
+means an attacker's method of cracking encryption without cryptologic means.
+IS ALSO POSSIBLE IN THE PUBLIC KEY SYSTEM.
+is what happens if the key owner stores it encrypted with his own master key.
+improves the confidentiality of the key owner's information.
+
+
+**Only one of the following may need to be negotiated when agreeing on symmetric encryption. What?
+ALGORITHM VERSION
+key modifying salt value
+padding length
+initialization vector
+
+
+**How much bigger is the key space of AES-128 than the address space of a 64-bit operating system?
+Two times larger.
+THE KEY SPACE SIZE EQUALS THE ADDRESS SPACE SIZE SQUARED.
+64 times larger.
+It is not bigger but just 1/4 of the address space because the 64-bit memory consists of 8-bit bytes.
+
+
+**Updating encryption keys quite often is important. The main reason is
+to make a chosen-plaintext attack impossible.
+TO KEEP THE AMOUNT OF TEXT ENCRYPTED WITH THE SAME KEY REASONABLE.
+to make it more difficult for a cracker to derive a new key based on an already revealed old key.
+to prevent the updated encryption program from using the same key as the old one.
+
+
+**What is not true of a session key?
+It cannot be a public key.
+It is a symmetric key but it need not be the same to both directions, i.e. one party may use it only for encryption and the other one for decryption.
+ITS PURPOSE IS TO PROTECT THOSE KEYS THAT ARE CHANGED FOR EACH MESSAGE OF THE COMMUNICATIONS.
+A leaked session key should not expose the keys of any previous or subsequent sessions.
+
+_________________________________ Modes of encryption
+**What is a digital envelope?
+An envelope otherwise ordinary but with a paper inside written through the envelope
+A data package of a tunneled communication.
+A communication package in which the payload is encrypted.
+A SYMMETRIC KEY ENCRYPTED WITH A PUBLIC KEY AND A MESSAGE ENCRYPTED WITH THE FORMER.
+
+
+**A block cipher is usually not operated in the simple mode of an Electronic Code Book. What can NOT be achieved with the other modes in contrast to the ECB?
+message authentication
+resilience against frequency analysis
+recovery from transmission errors
+FASTER SPEED
+
+
+**Symmetric encryption mode ECB comes from the words
+ELECTRONIC CODE BOOK.
+Electronic Cipher Block.
+Encrypting Chain of Blocks.
+Encrypting Code Block.
+
+
+**Symmetric encryption mode CBC comes from the words
+Code Book Cipher.
+CIPHER BLOCK CHAINING.
+Crypto Block Cipher.
+Cook Book of Codes.
+
+
+**How do the symmetric encryption modes ECB and CBC differ?
+One uses a different key for decryption than for encryption, the other does not.
+In one the cryptotext is longer than the plaintext, in the other not.
+One can only be used for block and the other for stream algorithms.
+IN ONE, A CERTAIN BIT OF PLAINTEXT AFFECTS MORE BITS OF CRYPTOTEXT THAN IN THE OTHER.
+
+_________________________________ Encrypting or signing
+**The RSA signature is simple based on the RSA encryption formula because
+IT ONLY EXCHANGES THE ROLES OF THE DECRYPTION EXPONENT AND THE ENCRYPTION EXPONENT.
+the modulus becomes the private key and both exponents become the public key.
+it only replaces squaring with taking a square root.
+both exponents become the private key and the prime factors of the modulus become the public key.
+
+
+**Why is a typical symmetric encryption-decryption algorithm not good for signatures?
+The keys are too short for long-term use.
+Verifying the signature would be too laborious.
+It cannot be used to create a digital envelope.
+VERIFICATION WOULD BE DONE WITH THE SAME KEY AS THE SIGNATURE.
+
+_________________________________ Trapdoor
+**The concept of a trapdoor in a public key cryptosystem refers to
+the decryption key or the signature generation key.
+A STRUCTURE IN A PUBLIC KEY THAT WOULD BE EASY TO CHECK IF YOU KNEW COMPONENTS THAT ARE ONLY KNOWN BY THE CREATOR OF THE KEY.
+an algorithm for calculating discrete logarithms modulo n when n is a product of two large primes.
+a way to perform public key encryption operations without knowing the keys.
+
+
+**A common trapdoor in public key cryptosystems is
+the ability to compute a discrete logarithm with respect to a large prime number.
+the ability to calculate a discrete logarithm with respect to the product of two prime numbers.
+TO KNOW THE FACTORS OF A LARGE INTEGER, WHICH IS A PRODUCT OF TWO DIFFERENT PRIMES.
+to know the square root of a large integer, which is a square of a prime number.
+
+
+**When two very large prime numbers are multiplied, the product can be published without revealing the prime numbers,
+as long as the product is first reduced by taking its remainder with respect to a third prime number.
+but the least significant bits up to the first zero should be omitted.
+EVEN IF YOU KNOW HOW MANY BITS THERE ARE IN THOSE PRIMES.
+even if the square of the second prime number were also made public.
+
+_________________________________ Hashing and MACing
+**Which of the following hacking methods is mainly related to a keyless crypto algorithm?
+differential analysis
+BIRTHDAY ATTACK
+integer factoring
+frequency analysis
+
+
+**What is the role of condensation (squeezing a large number of bits into a small number in some way) in a digital signature?
+A one-way hash is calculated as the last step of producing a signature.
+Compression is not usually used for signing.
+THE ASYMMETRIC SIGNATURE ALGORITHM IS NOT APPLIED TO A DOCUMENT BUT TO ITS ONE-WAY HASH.
+Documents are always subjected to reversible compression before signing.
+
+
+**Which of the following is a more secure hash algorithm?
+MD-256
+SHA-256
+SHA1
+MAC-3
+
+
+**The message authentication code, MAC, is computed
+by applying symmetric encryption to a random challenge.
+by applying a hash function to a random challenge.
+BY APPLYING A KEYED HASH FUNCTION TO THE MESSAGE.
+by applying asymmetric encryption to the message.
+
+_________________________________ Inside a protocol
+**What is a property of the Diffie-Hellman key exchange protocol?
+BOTH PARTIES RAISE THE BASE G TO A POWER MODULO P, AND THE RESULT IS COMMUNICATED TO THE OTHER, BUT NEITHER ONE WILL COME TO KNOW WHAT THE EXPONENT USED BY THE OTHER PARTY WAS.
+One party invents a prime p and the other a prime q. The product n of these large numbers is the public key that acts as the key exchange modulus.
+If calculating discrete logarithms modulo a large prime number is indeed a difficult problem (as is generally believed), the DH protocol provides the protocol participants with the same key that no one else knows.
+In order to include authentication, the parties must first secretly agree on the modulus p and the base g.
+
+
+**Diffie-Hellman is the name of
+a powerful method of breaking ciphers prior to AES.
+a protocol for remotely creating a mutual digital signature on a document.
+the first public key encryption method.
+A METHOD TO CREATE KEYS FOR SYMMETRIC ENCRYPTION BETWEEN TWO REMOTE PARTIES.
+
+
+**Hiding a copyright notice on data can be done either (i) fragile or (ii) strongly. The nature of the mark can be (x) an integrity checker, (y) a "fingerprint", or (z) a watermark. Which of the following classifies these correctly?
+(I) -> X, (II) -> Y & Z
+(i) -> y, (ii) -> x & z
+(i) -> z, (ii ) -> x & y
+(i) -> x & y, (ii) -> z
+
+
+
+_________________________________ Water and fire
+**If dust and dirt need to be taken into account in any way when surveying security threats, which of the following has the least to do with it?
+Jamming of mechanical parts of computer equipment
+TRAFFIC ANALYSIS
+Overheating
+Absences due to dust allergies
+
+
+**Consider the claim: "Even an IT work environment produces dust that, when accumulated, can cause short circuits in computing devices." The claim is
+true because there are people in the work environment and therefore dust that conducts electricity.
+FALSE BECAUSE DUST IN A NORMAL WORK ENVIRONMENT DOES NOT CONDUCT ELECTRICITY.
+false because the hardware fans are built to prevent dust from accumulating in the wrong places.
+true because the static electricity of IT equipment collects dust specifically in the wrong places.
+
+
+**When developing preparedness for serious fires it is good to assign tasks to personnel. Which of the following is a more important task than others in this respect?
+Preparation of applications for compensation to an insurance company.
+Various tasks of informing customers and authorities.
+ACTIONS TO DRIVE DOWN OR MOVE COMPUTER EQUIPMENT AND MEDIA TO SAFETY.
+Clearance actions to be taken as soon as the fire department has given permission.
+
+
+**This course covers a set of natural, somewhat human-independent threats to information security. They do not deserve a very extensive treatment, at least on a basic course, because
+the control mechanisms required are remarkably complex.
+COMBATING SUCH THREATS OR THEIR EFFECTS IS USUALLY NECESSARY ALSO FOR REASONS OTHER THAN SECURITY.
+only human-dependent security threats can be handled properly.
+the risk level of such threats to security is quite low.
+
+
+**Consider the claim: "A key way to combat water hazards for computing is the water insulation of hardware rooms." The claim is
+false, because the hardware does not work properly in too dry air.
+true, because there are not even other ways to combat the effect of water.
+true, because waterproofing is the easiest way to protect equipment in a room from water.
+FALSE, BECAUSE OTHER MEANS ARE MORE EFFECTIVE AND CHEAPER.
+
+
+**Water can be thought of coming into contact with equipment from four directions: bottom, side, top and diffusely in air. How many of these should be considered in security planning and how?
+ALL BUT THE SAME CONTROL MECHANISM DOES NOT WORK FOR ALL.
+Only the most serious direction, as the probability is very small anyway.
+Three, each with a different security mechanism.
+None, as water should not get anywhere near the equipment.
+
+_________________________________ Physical DATA
+**Which of the following is least true when considering information in physical (non-electronic) form held by a user 
+and how it is protected from alteration (falsification) by the user? Protecting
+
+does not help keep copies of information intact.
+is more about safeguarding integrity than availability.
+is usually easier than if the same information were in electronic form.
+DOES NOT HELP IN MAINTAINING RELIABILITY OF AUTHENTICATION BASED ON THAT INFORMATION.
+
+
+**If a data-processing device is to be able to operate in a hostile environment, the most important data to be protected - if present -
+are access control lists.
+ARE CRYPTOGRAPHIC KEYS.
+are web addresses.
+is configuration information.
+
+**Which of the following applies?
+From the perspective of a computing device alone, power outages are not among attacks to be prevented.
+Enclosing a shared computer does not prevent spying on the user of the machine.
+It is easier to protect against breaking an IT device than against stealing it.
+TO PREVENT UNAUTHORIZED USE, IT IS SOMETIMES ADVISABLE TO USE A MECHANISM THAT MAKES THE DEVICE USELESS ALSO TO THE LEGITIMATE USE
+
+_________________________________ Tampering
+**If a data-processing device is to be able to operate in a hostile environment, the most important data to be protected - if present -
+is personal information.
+ARE CRYPTOGRAPHIC KEYS.
+are web addresses.
+is configuration information.
+
+
+**Assume that the properties of secure hardware are condensed into two requirements. If one requires that the user can be convinced of the authenticity of the hardware, then the second requirement concerns that the hardware
+is able to distinguish whether the person maintaining it remotely is authentic.
+can assure the user that it has not been affected by any action that deviates from the allowed ones.
+can assure the user that it has not been affected by any specifically prohibited activity.
+An operating system together with the underlying hardware can provide a controlled and un-intercepted interface into privileged user functions by
+IS ABLE TO DISTINGUISH WHETHER ACTIONS TOWARDS IT ARE ALLOWED OR NOT.
+
+**An operating system together with the underlying hardware can provide a controlled and un-intercepted interface into privileged user functions by
+ring protection.
+anti-malware.
+TRUSTED PATHS.
+maintenance hooks.
+
+
+**All of the following can be trusted more than most others in their categories, but which is called a trusted platform in information security?
+A social media platform where users are identified and accountable for their postings.
+A SPECIALLY DESIGNED MICROCHIP THAT HAS PASSED STANDARDIZED TESTING.
+A hardened operating system running on hardware that is used only for dedicated purposes.
+A computer that has uninterruptible power supply and is not connected to the Internet.
+
+_________________________________ Smart card generally
+**The smart card also has a file system,
+where the names of directories and files are changed from time to time to make attacks more difficult.
+THAT INCLUDES DIFFERENT PERMISSIONS.
+where all the files are in the same directory.
+where filenames were originally drawn randomly to make attacks more difficult.
+
+
+**Concerning the connection pins on a smart card,
+the card is capable of public key cryptology only if all pins are enabled.
+one of them is for transferring cryptographic keys from/to the card when a crypto operation is performed outside the card.
+if short-circuited, they can damage the processor on the card.
+A DIFFERENT PIN IS USED FOR COMMUNICATION THAN FOR THE SUPPLYING THE VOLTAGE.
+
+
+**How do smart cards relate to symmetric key cryptography? Their processors
+ARE CAPABLE OF IT, BUT DATA TRANSFER IS IMPRACTICALLY SLOW FOR A LARGE AMOUNT OF DATA TO BE ENCRYPTED.
+are usually not versatile enough for that.
+are capable of it, but cannot stand encrypting large amounts of data without becoming too hot.
+are usually not fast enough to think of sensible use for encryption.
+
+
+**How do smart card processors relate to (i) operations and (ii) key generation in a public key cryptosystem?
+They cannot do either.
+They are capable of (ii) but not of (i).
+THEY ARE CAPABLE OF BOTH.
+They are capable of (i) but not (ii).
+
+
+**If an attacker who stole a smart card also gets its PIN,
+HE MAY STILL NOT BE ABLE TO DO ALL THE SAME ACTIONS ON THE CARD AS THE REAL OWNER OF THE CARD.
+in a normal operating environment, he can read the secret keys on the card.
+he is guilty of stealing a card and (possibly) the PIN, but using the card itself is not criminal.
+he cannot test functionality of the PIN elsewehere than in the normal operating environment.
+
+**Pick the correct ones among the following four claims: The production of a smart card is governed by 
+(I) THE GENERAL SECURITY PRINCIPLE THAT MORE THAN ONE PERSON IS REQUIRED FOR A GIVEN ACTIVITY, 
+and (ii) separation of duties so that no manufacturing worker can later trace which cards he or she made. 
+(iii) In addition, burning a fuse at a certain stage prevents logical memory references, after which only a physical reference is possible. 
+(IV) IN GENERAL, ONE OF THE KEY PRINCIPLES OF SMART CARD SECURITY ARE IS THAT ITS PROPER FUNCTIONING CANNOT BE FALSIFIED FROM OUTSIDE.
+
+(ii) & (iv)
+_______ (I) & (IV)
+(ii) & (iii)
+(i) & (iii)
+
+**Pick the correct ones among the following claims: In the production of a smart card, 
+(I) SEGREGATION OF DUTIES IS APPLIED SO THAT MORE THAN ONE PERSON IS REQUIRED AT SOME STAGE IN THE WORK, AND 
+(ii) contrary to normal security principles, randomness is applied to the structure of the card. 
+(iii) In addition, burning a fuse at a certain stage prevents logical memory references, after which only a physical reference is possible. 
+(IV) IN GENERAL, ONE OF THE KEY PRINCIPLES OF SMART CARD SECURITY IS THAT ITS PROPER FUNCTIONING CANNOT BE FALSIFIED FROM OUTSIDE.
+
+(ii) & (iii)
+_______ (I) & (IV)
+(ii) & (iv)
+(i) & (iii)
+
+
+**The use of a Trojan horse to attack a smart card is most likely
+in the card's ROM as part of the operating system.
+on the hardware of the reading device.
+in the card's RAM as one of the applications.
+ON A WORKSTATION THAT USES THE READING DEVICE.
+
+_________________________________ Biometrics
+**What is the worst problem with biometric authentication that should work over an insecure network like the internet?
+IT IS NOT KNOWN WHETHER THE INPUT OF THE AUTHENTICATION DATA IS MADE BY THE SAME PERSON AS THE ONE TO WHICH IT BELONGS.
+The proportion of erroneous approvals cannot be reduced by renewals.
+The integrity or encryption of data can be broken during transmission through the network.
+Someone can get hold of the comparison data on the server.
+
+
+**What is the worst problem with biometric authentication that should work over an insecure network like the internet?
+The biometric feature must be modified each time so that it cannot be reproduced by an attacker.
+Someone can get hold of the comparison data on the server.
+The integrity or encryption of data can be broken during transmission through the network.
+IT IS DIFFICULT TO MAKE SURE THAT THE AUTHENTICATION DATA PROVIDED HAS BEEN ENTERED AS INTENDED.
+
+
+**Which is the least significant issue when considering taking biometrics into use?
+Resistance to counterfeiting.
+NOVELTY OF THE TECHNOLOGY.
+User acceptance.
+Reliability and accuracy.
+
+
+**In addition to an appropriate physical feature reliable biometric authentication requires from the person
+knowledge of something.
+PRESENCE IN THE AUTHENTICATION SITUATION.
+possession of an object.
+more than one measurement also in the authentication situation.
+
+
+**What is a fundamental property of biometrics posing challenges to any technique it will use?
+The storage of the biometric data is vulnerable.
+Weaknesses in the communications between the reader and server.
+THE CREDENTIALS CANNOT BE REVOKED BECAUSE THEY REMAIN ESSENTIALLY THE SAME.
+Degradation of the credentials while people are aging.
+
+
+_________________________________ Structure 
+
+**Which of the following is least important when the design of data network structures follows restrictions and limits as a general security principle?
+Keeping administrative and production data channels separate.
+Placing web and database servers on different subnets.
+Placing the server collecting logs on its own subnet.
+PLACING A DNS AND NTP SERVER ON DIFFERENT SUBNETS.
+
+
+**The purpose of a packet sniffer is to
+CAPTURE (COPY) NETWORK TRAFFIC FOR LATER ANALYSIS.
+remove irrelevant packets from network traffic.
+trace network connections to external destinations.
+scan network segments for cabling damage.
+
+
+**If a VPN connection has been properly configured from a teleworker's home computer to the workplace network, then which of the following is the least likely vulnerability?
+Someone in the workplace network could use the home computer without permission.
+Poor home security is a threat to some part of the workplace network.
+The workplace network could infect a virus to the home computer.
+THE SECURITY OF THE ENTIRE WORKPLACE NETWORK IS AT THE SAME LEVEL AS THAT OF THE HOME COMPUTER.
+
+_________________________________ Firewall
+**What is the most likely reason if a firewall installed between an internal and external network allows an attack from the exterior to systems on the intranet?
+THE INTRANET POLICY IS INCORRECTLY CONFIGURED IN THE FIREWALL.
+The intranet policy allows such attacks.
+An error has occurred in the manufacture of the hardware or software of the firewall.
+The integrity of the hardware or software of the firewall is broken .
+
+
+**What should a firewall most commonly do when it rejects a packet for a reason other than that it does not conform to the standard?
+Send an alert to the intrusion detection system.
+Treat the next packet with a different rule.
+WRITE PACKET TAGS TO A LOG FILE.
+Give the user a warning.
+
+
+**The "state" in a stateful packet filter is to store (instead of possibly only logging)
+ADDRESSES FOR OPENED CONNECTIONS TO ALLOW LEGITIMATE CALLBACK FROM THOSE ADDRESSES.
+source addresses of frequent connection attempts that have been blocked implicitly (i.e. not by explicit rules) - but which would not cause a DoS.
+statistics of traffic both inward and outward.
+the source IP addresses of DoS attacks to block them automatically in future.
+
+_________________________________ IP sec 
+
+**One possible action of IPsec is that it
+outputs an outgoing data packet with all IP addresses encrypted.
+sends the decryption key with the data packet in a digital envelope.
+compresses the data packet.
+ADDS A FIELD TO THE DATA PACKET WITH A KEYED HASH COMPUTED FROM THE PACKET.
+
+
+**IPsec can be installed also between routers. Which of the following can be realized in such a context: 
+(i) intrusion detection, (ii) application-level firewall, (III) VPN? Only
+
+(i) and (ii)
+(i) and (iii)
+(i)
+_______(III)
+
+
+**How do IPsec's AH and ESP protocols relate to key exchange?
+KEYS MUST BE AGREED BEFORE THESE PROTOCOLS START.
+The protocols operate using the public keys that are valid at the current time.
+It is possible to inform about the used keys afterwards.
+These protocols have built-in key exchange operations.
+
+
+**If both TLS and IPsec (either AH or ESP) are applied to the same outgoing data, then at the time when IPsec operates on the data,
+they contain fields modified by TLS for which IPsec performs its own operations but using TLS keys.
+they contain fields modified by TLS for which IPsec does nothing.
+there is no trace of modifications made by TLS yet.
+THERE ARE TLS-MODIFIED FIELDS FOR WHICH IPSEC PERFORMS ITS OWN OPERATIONS REGARDLESS OF THE CONTENTS OF THE FIELDS.
+
+
+**If the same outgoing data is encrypted with both SSH and IPsec, then at the time when IPsec operates on the data,
+they contain fields modified by SSH for which IPsec performs its own operations but using SSH keys.
+THERE ARE FIELDS MODIFIED BY SSH FOR WHICH IPSEC PERFORMS ITS OWN OPERATIONS REGARDLESS OF SSH KEYS.
+there are fields modified by SSH for which IPsec does nothing.
+there are no traces of modifications made by SSH yet.
+
+
+
+
+**IPsec encryption in tunnel mode means that the
+AH protocol cannot be applied to the same packet.
+packet is longer than it would be in transport mode.
+entire packet, which IPsec outputs, is encrypted.
+communicating parties need additional keys to dismantle the tunnel.
+
+**Which of the IPsec operating modes encrypts the entire original IP packet?
+TUNNELING MODE
+Authentication mode
+Security mode
+Transport mode
+
+_________________________________ TLS
+**Investigate the claim: "The certificate sent by a server can be installed in the browser so that
+TLS can use it to verify the private key of the same server in the future." The claim is
+
+true and does not require a browser restart.
+true, but the browser needs to be shut down and restarted.
+false, because you can install public keys but not certificates in your browser.
+FALSE, AS TLS DOES NOT VERIFY THE SERVER'S PRIVATE KEY BUT THE SIGNATURE MADE WITH THAT PRIVATE KEY.
+
+
+**Because TLS works below the application layer, it does not know what kind of data it protects. Nevertheless,
+both server and browser authentication are always part of the security services it provides.
+IT IS NOT SUITABLE FOR COMMUNICATION BETWEEN MORE THAN TWO PARTIES.
+it does not provide protection for the identity of the user of the client machine.
+it can protect a bank transfer on an e-commerce site without a new key exchange.
+
+_________________________________ DNS,SSH
+
+**The domain name system, DNS,
+is necessary for the operation of the web.
+is constantly under DoS and spoofing attacks which cause the majority of downtime for internet users.
+HAS THE SECURITY EXTENSION DNSSEC, BUT EVEN THAT DOES NOT PROVIDE CONFIDENTIALITY TO THE DNS QUERIES.
+has the shortcoming that it cannot be implemented within a single organization for internal use.
+
+**Suppose someone has installed SSH on her own machine and has already used it to log on to the target machine. 
+Which of the following is necessary in all cases to allow the next login with SSH? She or her own machine must have
+
+HER OWN PRIVATE KEY OR HER OWN PASSWORD FOR THE TARGET MACHINE.
+the private or public key of the target machine.
+her own private or public key.
+the private key of her own or of the target machine.
+
+_________________________________ Application layer
+**In Kerberos, the user's password
+need only be sent to the ticket service instead of multiple destination services.
+acts as an encryption key when the client program sends a ticket to the destination services.
+is sent to the destination services encrypted by the ticket service.
+DECRYPTS THE ENCRYPTION KEY RECEIVED FROM THE TICKET SERVICE FOR USE BY THE CLIENT PROGRAM.
+
+
+**What is the difference between the security needs of remote access to (i) a host computer and (ii) a server?
+IN ONE OF THEM THE USER HAS ACCESS TO RESOURCES ONLY THROUGH A LIMITED PROCESS, IN THE OTHER MORE BROADLY.
+In one of them, users rarely have such resources of their own that several other users would not also have access to.
+One of them seldom requires such encryption, where the key is different for different users.
+The difference in use is so small that it does not make sense to differentiate between protection needs.
+
+**Assume that one employee of a company needs to access files and programs on a mainframe computer from his home computer.
+Which of the following is a better design for this than the others?
+
+Implementing work via a TLS-secured web server instead of a terminal connection.
+The current-day PC's are powerful enough. So, set up the programs and files on the employee's home computer locally.
+A network that has been made private with virtualization.
+AUTHENTICATION AND ENCRYPTION BETWEEN ENDPOINTS.
+
+
+**Tunnels securing remote connections can be established
+only at the network or link layer, and the usual network connection protocols are not sufficient for this.
+BOTH AT THE APPLICATION LAYER WITHIN NETWORK CONNECTIONS AND AT THE NETWORK LEVEL AROUND APPLICATION LAYER MESSAGES.
+only below the application layer on the transport or network layer.
+with the same protocols as the network connections between your own machine and the service provider, i.e. with PPP, for example.
+
+_________________________________ ATTACK
+
+**The idea of a network proxy server can be applied for good in many contexts, but one type of proxy that is often abused is
+content-filtering proxy.
+OPEN PROXY.
+reverse proxy.
+caching proxy.
+
+
+**What is replayed in a replay attack, at least in such cases that have been successful?
+The content of earlier video in the monitors of a surveillance room.
+A few seconds old GPS signal toward the receivers of military vehicle or aircraft.
+EARLIER MESSAGES OF AN AUTHENTICATION PROTOCOL IN AN ATTEMPT TO GET AUTHENTICATED WITHOUT PROPER CREDENTIALS.
+An earlier successfully broken DRM signal in an attempt to get access to new media content.
+
+
+**When a user authenticates to a server, the ensuing service will use some identifiers. 
+If these are not protected well, it may happen that someone else takes them into use and drops the user out. What is this situation called?
+
+man-in-the-middle
+replay attack
+denial of service
+SESSION HIJACKING
+
+**When the cell phone network (2/3/4G) authenticates a caller outside the area of the caller's home location register (HLR), it uses the mobility management service local to the caller. Let us denote this service by VLR (visitor location register, as in 2/3G). What is then known about the key K on the SIM card?
+A hash computed from it and the timestamp is available to the VLR for a certain time.
+The VLR uses K to check the response to the challenge it sent to the caller's phone.
+A copy of the key is known to the VLR, but the key is changed for the next call.
+THE VLR CHECKS THE RESPONSE FROM THE CALLER'S PHONE TO THE AUTHENTICATION CHALLENGE BY COMPARING THE RESPONSE TO A VALUE CALCULATED IN ADVANCE USING K
+
+_________________________________ Programming Construct
+**In a software program the application programming interface, API, is
+the place attackers first test for vulnerabilities in case of new versions of widely spread programs.
+the common point to attach physical DRM dongles.
+the channel through which the program can access security services.
+THE CHANNEL THROUGH WHICH OTHER PROGRAMS CAN ACCESS THE SERVICES PROVIDED BY THE PROGRAM.
+
+
+**Device drivers that are installed by the end-user must be designed securely, because they usually
+become integrated as part of the operating system.
+OPERATE IN THE UNRESTRICTED, OR KERNEL, MODE.
+have the same access rights as the end-user.
+are configured by software without human interaction.
+
+
+**Dynamic-link library, DLL, is
+A SET OF SUBROUTINES THAT ARE SHARED BY DIFFERENT APPLICATIONS AND OS PROCESSES.
+a common name for such utilities in operating systems that malware writers most often link to their code.
+a complex software construct notorious for its tendency to get out of date and cause vulnerabilites to the applications that depend on it.
+a collection of executable codes that programmers can embed in their source code.
+
+
+**Assume you are using a multi-user computer running Unix or Linux. What happens when you issue the command 'logout'?
+A LOT MORE DATA WILL BE DELETED FROM THE SYSTEM THAN YOUR USERNAME FROM THE LIST OF ACTIVE USERS.
+You will be wiped away from the list of the active users, but other non-admin users could not find this out.
+All your processes will be terminated and you cannot run any commands on the computer before you login again.
+Other users get a notification that you have left the system.
+
+
+**Virtualization as an extension to physical reality can be good for security purposes. This is especially true when
+extending the RAM memory space of a computer to secondary storage.
+moving monetary transactions away from traditional currencies.
+CREATING A SIMULATED ENVIRONMENT TO ACT AS A HARDWARE PLATFORM.
+using virtual routers to create separate local area networks within an organization's network.
+
+_________________________________ Vulnerabilities
+**One of the most common software security flaws is "incomplete mediation", meaning inadequate flow control from one processing routine to another. 
+An example of this is
+
+writing outside the boundaries of a memory area.
+INADEQUATE ERROR HANDLING.
+information undergoing changes after being read but before being used.
+calling a subroutine without parameters.
+
+
+**A man-in-the-browser is
+the browser plug-in program that acts as the client for the TOR network.
+the term used by XSS attackers of their cross-site scripts when they are in action on an unknowing user's browser.
+IS AN ATTACK THAT CAN ALTER FOR INSTANCE BANK TRANSFER AMOUNTS AND ACCOUNT NUMBERS EVEN IF THE BANK SEES THE CONNECTION AS SECURE.
+is a useful but privacy-sensitive program that gets plugged into a browser, collects usage data and sends it to web services.
+
+
+**Which of the following has the least to do with the security threats that can result from having too long a time between verification of rights and actions that require them?
+The rights have changed and they would no longer allow such activities.
+A signature gets accepted even if it was not made by the person in whose name it was made.
+A terminal session gets used by someone other than the one who was logged in.
+THE INFORMATION IS NO LONGER RELEVANT TO THE PERSON WHO HAS ACCESS TO IT, AND INDIFFERENCE MAKES HIM OR HER CARELESS ABOUT ITS CONFIDENTIALITY.
+
+_________________________________ Low-layer software security
+**Address space layout randomization is
+one of the methods used by polymorphic viruses to evade detection.
+a method of ransomware making the victim's files useless, allowing gradual and verifiable selling back of recovery data.
+a protection of hosts in a LAN against targeted attacks.
+A PROTECTION USED BY OPERATING SYSTEMS AGAINST EXPLOITING MEMORY VULNERABILITIES, E.G. BUFFER OVERFLOW.
+
+
+**Data execution prevention, DEP, is a class of methods
+that the compiler uses to mark parts of compiled software code as non-executable and non-mutable.
+to mark parts of the binary code loaded in memory as non-executable data but still allowing its content to be modified.
+USED BY THE OPERATING SYSTEMS TO MARK SOME MEMORY SEGMENTS NON-EXECUTABLE.
+to restrict the capability of programs that render media or document files not to run any executable content from those files.
+
+
+**Which of the following statements is true?
+TESTING DOES NOT MAKE SOFTWARE UNDER CONSTRUCTION COMPLETELY SECURE BECAUSE IT IS VIRTUALLY IMPOSSIBLE TO GO THROUGH ALL THE OPTIONS.
+Good programming methods, testing, and proving have very little effect on the security of complex software.
+Testing does not help in making software under construction completely secure because some vulnerabilities do not appear in any kind of testing.
+Secure programs can be proven to be such using formal verification methods.
+
+
+**Which among the following is the best guarantee that software is secure?
+The software matches its specification accurately and fulfills its intended task.
+THE SOFTWARE HAS BEEN DESIGNED AND DEVELOPED IN ACCORDANCE WITH BEST PRACTICES AND USING ADEQUATE RESOURCES.
+The designed modes of operation of the software have all been tested, i.e. tried out and found to be safe.
+The software specification has been formally proven safe.
+
+
+_________________________________ TEsting
+**Fuzzing is a method for software
+obfuscation.
+TESTING.
+quarantining.
+licensing.
+
+
+**A new version of software can have both advantages and disadvantages in terms of information security. Which of the following is the best example or interpretation of this truth?
+Everyone should install the new version, but only after independent reports on the security of the version have been published.
+SOME USERS SHOULD INSTALL THE NEW VERSION, WHILE OTHERS SHOULD NOT.
+The manufacturer can release new versions (patches) so often that, despite improvements, availability suffers when hardware needs to be restarted frequently.
+If someone installs a new version on their machine and someone else uses the old version, the programs can interfere with each other.
+
+
+**Obfuscation means the methods
+by which a sandbox is created around untrusted software.
+THAT CODE WRITERS USE WHILE ATTEMPTING TO MAKE REVERSE ENGINEERING MORE DIFFICULT.
+that malware writers use to cause their code to modify itself in the course of replications, to evade detection.
+that malware writers use to make their code versions to look different, to evade detection.
+
+
+Software testing is important also for other reasons than security, but some basic rules are the same. Which of these are rules for software testing? 
+(i) Testers and coders use the same tools, (ii) the expected test outcome is unknown, 
+(iii) a successful test is one that finds an error, (iv) examining the most usual cases is sufficient.
+(i) and (ii)
+(ii) and (iii)
+ONLY (III)
+(iii) and (iv)
+
+_________________________________ Watching after programs
+**Bytecode, the pseudo-object code that is translated from a source code but must still be interpreted to execute,
+IS FASTER THAN INTERPRETED SOURCE CODES.
+reserves and releases memory automatically, thus blocking many attacks and programming errors.
+is less prone to reverse engineering than object code.
+has a built-in sandbox that makes it more secure to download an run than executable code.
+
+
+**The kernel mode is a status that certain processes have during their operation. It is called with several different names, but not with term
+unrestricted mode.
+SUPERUSER MODE.
+privileged mode.
+supervisor mode.
+
+
+**The role of a reference monitor in trusted computing is to
+to make a log entry for communications that violate the security policy.
+manage address tables for indirect memory references.
+set user rights to resources into access control tables.
+MEDIATE ALL INTERACTION BETWEEN USERS AND RESOURCES.
+
+
+**A Java sandbox can block many things from a Java applet. If any, which of the following is worth blocking for security reasons?
+READING FROM LOCAL DISK
+floating point operations
+writing to screen
+receiving input from user
+
+
+**Which of the following statements is true?
+Sandbox and wrapper implementations assist the operating system in access control by occasionally asking the user for a password.
+Proxy and wrapper implementations have nothing to do with access control.
+THE JAVA SANDBOX IS THE RUNTIME ENVIRONMENT OF A PROGRAM AND CAN PREVENT IT FROM WORKING PROPERLY.
+The Java sandbox is a programming method that makes Java programs reliable also in terms of security.
+
+
+**Wrapper programs (such as tcpwrapper) mainly implement
+signatures.
+FILTERING.
+encryption.
+authentication.
+
+_________________________________ Secure Programming
+**Depending on how a program is written and what it needs to do, it may require more or less access rights than its user has. How should the programmer deal with administrator privileges?
+If the program needs them, the program must be entirely based on them.
+If needed, they should be used only during the startup phase of the program.
+It is not recommended that they be required.
+FOR THOSE PARTS OF THE PROGRAM THAT NEED THEM, FORMAL VERIFICATION IS RECOMMENDABLE.
+
+**Depending on how a program is written and what it needs to do, it may require more or less access rights than its user has. How should the programmer deal with administrator privileges?
+It suffices that non-administrators are able to use the program.
+They are never needed at run-time, but they can be temporarily used in access control during the compilation and testing phase.
+If a program has components that need them, it is recommended that the other components be protected with wrapper technology.
+IT IS RECOMMENDED THAT THE PROGRAM BE BUILT TO OPERATE WITH LESSER RIGHTS.
+
+
+**Trusting user input is detrimental. This is one of the fundaments for secure programming. Among the following five rules, 
+which two are applications of it? (I) PROTECT AGAINST BUFFER OVERFLOWS. (II) DISABLE WEB SITE SCRIPTING. 
+(iii) Do not require administrator privileges. (iv) Leave the generation of the encryption code to professionals. (v) Reduce attack targets.
+
+(iv) & (v)
+(I) & (II)
+(iii) & (iv)
+(ii) & (iii)
+
+
+**One fundamental rule of secure programming is "Reduce attack targets." It mainly means that
+the program is able to operate with as few different levels of privileges as possible.
+minimal number of names and addresses of other programs, services and sites are stored in the program.
+the program receives as little input from the user as possible.
+LITTLE-USED FEATURES OF THE PROGRAM ARE INACTIVE BY DEFAULT.
+
+**Some features of downloaded software can be verified by signatures provided by Verisign, for example, but these only guarantee that the
+code manufacturer takes responsibility for any security issues.
+software corresponds to its specifications.
+code passed a virus scan, albeit by several different methods.
+CODE ORIGIN AND INTEGRITY ARE CORRECT.
+
+
+**What is the strongest method to assure users that the update of their existing program that they are downloading originates from where it should?
+TLS
+CODE SIGNING
+MAC (message authentication code)
+fingerprinting
+
+_________________________________ Trusted computing
+**A bastion host is
+a computer that has only an outbound connection to the internet.
+a workstation that has no services installed for remote use except possibly the administrative connection.
+another name for the edge router of an organization network in case it has been equipped with DoS protection.
+A HARDENED SINGLE-PURPOSE SERVER AT THE OUTER EDGE OF THE ORGANIZATION'S NETWORK.
+
+
+**TCB or Trusted Computing Base contains
+only hardware.
+only software.
+ONLY SOFTWARE AND HARDWARE.
+also trusted operating staff.
+
+
+**A trusted platform module is is important for secure programming,
+but its security depends on the environment being able to run its encrypted code.
+but it does not itself contain any code or data.
+BUT IT IS OFTEN USED TO PROVIDE TRUST FOR OTHERS AGAINST THE USER AS PART OF DRM.
+but its user can easily corrupt its trustworthiness.
+
+_________________________________ Deletion
+**Destroying a file with multiple overwrites does not necessarily guarantee that the information contained in the file could not yet be obtained by unauthorized persons. If a leak occurs, which of the following is the most likely cause?
+An attacker has inserted a Trojan horse to the overwrite program that copies and sends the data before its normal operation.
+AN ATTACKER FIRST OBTAINS A FILE NAME FROM AN ARCHIVED LIST AND THEN MANAGES TO FIND A COPY OF THE FILE ON SOME OTHER STORAGE MEDIUM.
+The overwrite program does not reach all the file storage blocks on the disk due to a malfunction of the file manager.
+Even when overwritten, the magnetic field used to store the original data is exposed by special devices.
+
+
+**There are three degrees in getting rid of a file, depending on what is needed to still access the file: a file manager, a special system program, or an electronics lab. Which of these can access information that is called residual data?
+not any
+JUST A LAB OR A SYSTEM PROGRAM
+all
+just a lab
+
+
+**The type of overwriting that is related to erasing data
+does not apply to valid data but applies to residual data.
+PREVENTS ANY DATA FROM BECOMING RESIDUAL DATA.
+uses residual data as its input.
+produces residual data.
+
+_________________________________ Nonmalicious cirruption of data
+**Bit rot
+is another name of ransomware.
+IS EXEMPLIFIED BY DEGRADATION OF ELECTRIC CHARGE ON SOLID-STATE MEMORIES LIKE FLASH-MEMORIES.
+is a special case of software decay, which is about non-updated software starting to malfunction when its environment changes.
+is a type of malware that spreads only slowly and only to computers nearby.
+
+
+**The "track changes" feature of a word processor with its change logs is good for integrity, but can produce problems, the most dangerous of which is a threat relating to
+performance.
+file size.
+CONFIDENTIALITY.
+clarity of the text and thus its correctness.
+
+_________________________________ Storage security basics
+**Which of the following is the worst answer to the question: "Do databases need more fine-grained access control than that offered by the operating system of the machine containing the database?"?
+No, if you don't need to differentiate between database users.
+NO, IF ALL DATABASE INFORMATION IS PUBLIC.
+Yes, if user separation at the file permissions level is not enough.
+Usually needed.
+
+**The purpose of the operating system is NOT to combat the integrity problem that threatens the database in the situation, where
+a user level process of a hacker attempting to write to the memory area used by the database manager.
+TWO USERS UPDATING THE DATABASE READ THE SAME INFORMATION FROM THE DATABASE AT THE SAME TIME.
+simultaneous users start the database management program in two or more separate processes.
+the data transfer gets out of sync between the main memory of the database machine and the peripheral memory.
+
+
+**Historically encryption was invented to protect data in transit, i.e. messages. To protect data in storage
+the same procedures apply by replacing the transmission channel with the storage media and equalling recipient = sender.
+stronger and faster cryptography is needed because of the high volume of data.
+VARIOUS NEW QUESTIONS ARISE, LIKE WHETHER TO ENCRYPT FILES, FILE SYSTEMS OR WHOLE STORAGE MEDIA.
+simpler algorithms with shorter key lengths suffice because there is no real-time demand and the attack surface is smaller.
+
+
+**What can go wrong more likely than the other options if your computer automatically saves your data files in a cloud service?
+If your computer breaks down, you cannot access your files any more.
+If you lose your computer, somebody else can boot it from external media and access your files.
+The service provider cracks the encryption on your files.
+YOU LOSE YOUR CREDENTIALS TO ACCESS THE FILES.
+
+_________________________________ Database attacks
+**What is injected in an injection attack?
+Fake users and their profiles into a user database.
+PROGRAM CODE TO PLACES THAT ALLOW NON-EXECUTABLE INPUT BUT END UP BY RUNNING THE CODE.
+One or more digits to monetary values, or just new digits to some existing positions in numbers.
+Malicious plug-ins into web browsers without the user being notified.
+
+
+**An injection is a generic type of attack where code is "smuggled" to a place where it shouldn't go, at least to be run. Which of the following is not a type of this attack?
+SQL injection
+Cross site scripting
+OS command injection
+MACRO RECORDING
+
+_________________________________ Database integrity
+**In database management systems, ACID is an important set of properties. Which one is to allow no partial transactions to be visible before the whole transactions is completed?
+Atomicity
+ISOLATION
+Durability
+Consistency
+
+
+**In database management systems, ACID is an important set of properties. Which one is to allow only valid transactions that do not violate any user-defined integrity constraints?
+Atomicity
+Isolation
+CONSISTENCY
+Durability
+
+
+**Rollback is analogous to users' ctrl-Z or oops facility, but the term is used in the context of
+spreadsheets.
+SCADA.
+military cyber operations.
+DATABASE MANAGEMENT SYSTEMS.
+
+
+**Updating database records not only in the active database but in a copy at a remote location is called
+archiving.
+backuping.
+SHADOWING.
+mirroring.
+
+_________________________________ Database confidentiality
+**Which of the following would be the most stringent requirement when a wide variety of summary information can be retrieved from a database of persons, but a field is sensitive at the individual level? "The search results must not reveal even
+whether the value of that field for a particular person is different from what is given in the search criteria."
+a rough range in which the value of that field is for a particular person."
+a list of those who have an entry at all in that field."
+THE AVERAGE OF THAT FIELD IF LESS THAN HALF OF THE RECORDS IN THE DATABASE ARE INCLUDED IN ITS CALCULATION."
+
+
+**Which of the following is not true, when there is sensitive information in a database? It may be that
+IT IS SUFFICIENT FOR PROTECTION THAT OUTSIDERS DO NOT KNOW HOW TO FORM QUERIES TO OBTAIN THE SENSITIVE INFORMATION.
+even the existence of that information must not be revealed.
+despite protections, some information can be obtained by inferring from allowed queries.
+various summaries of that information are not sensitive.
+

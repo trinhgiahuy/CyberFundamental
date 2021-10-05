@@ -1,0 +1,408 @@
+**Multilevel security is
+an example of defence-in-depth.
+a security model where new parts are introduced at lower assurance levels and gradually elevated to higher levels as they are evaluated.
+the way how operating systems treat processes of users, running them with more or less restricted rights.
+A SYSTEM THAT SIMULTANEOUSLY PROCESSES INFORMATION AT DIFFERENT CLASSIFICATION LEVELS AND USERS WITH DIFFERENT CLEARANCE LEVELS.
+
+**The process of evaluating the security properties of software or a system against a set of security standards or policies is called
+accreditation.
+verification.
+CERTIFICATION.
+validation.
+
+**The idea of information security criteria models (e.g. Common Criteria) is mainly to
+assist in the marketing of security products.
+FACILITATE THE ASSESSMENT OF INFORMATION SECURITY.
+facilitate the installation of security mechanisms.
+enable automatic evaluation of products and systems with respect to security.
+
+**Scanning is systematic search for something. Which of the following scans is least useful for finding targets of attack or abuse?
+wardialing
+portsweep
+wardriving
+WEBCRAWLING
+
+**Which of these properties is true about link encryption? 
+(i) It is recommended for environments with high confidentiality requirements.
+ (ii) It encrypts routing information. (iii) It provides confidentiality for traffic flow.
+(II) AND (III), BUT NOT (I)
+(i) and (ii), but not (iii)
+(i) and (iii), but not (ii)
+(i), (ii) and (iii)
+
+**When a user runs scripts - written by an attacker - on one web page and they cause damage on another page, which the user has open in the browser, what sort of attack is happening?
+OWASP
+XSS
+--CSRF
+CVE
+
+**When dealing with digital evidence, the chain of custody must
+never be altered.
+be completely reproducible in a court of law
+exist in only one location.
+BE COMPILED ACCORDING TO A DOCUMENTED PROCESS.
+
+
+**GDPR defines the concept of data subject as a person who can be identified by reference to an identifier such as a name, ..., "or to one or more factors specific to the physical, physiological, genetic, ______ , economic, cultural or social identity of that natural person."
+gender
+medical
+MENTAL
+ethnic
+
+**implementing physical access control
+There is legislation to promote information security. It is possible to violate it even if you don't do or have not done anything unauthorized actively. Whom can this affect?
+The owner of the information when the information is illegal.
+AN ORGANIZATION THAT NEGLECTS TO TAKE CARE OF INFORMATION SECURITY.
+A private person on whose computer a bot agent is sending spam.
+A government official who intends to disclose confidential material.
+
+**A digital signature is not legally valid if it is technically verified, but
+a signatory declares that he has done so in error.
+a new signature subsequently revokes it.
+THE SIGNED ELECTRONIC INFORMATION HAS BEEN ALTERED.
+the signatory no longer has the instrument he used to make the signature.
+
+**The issuer of the Citizen certificate, for instance on the Finnish identity card, must comply with the Certificate Policy,
+the details of which are trade secrets.
+WHICH IS A PUBLIC DOCUMENT DRAWN UP BY THE ISSUER.
+which is part of Finnish legislation.
+which is not part of the law but is common to all issuers of the Citizen certificates.
+
+**A job announcement for professor in Cyber security (Oulu 2020) outlines the research field in this way: 
+"Traditional thinking in system development may have considered trust as an afterthought: ... ... 
+Opposite thinking would be to focus data collection, keeping data and its processing ____, simplifying and securing each step in processing and expiring collected data as swiftly as possible." What belongs to the slot?
+encrypted
+public
+LOCAL
+distributed
+
+**A large organization can have several security policies (=p.), and a common way to categorize them is:
+standards, guidelines, and procedures
+compliance p., obligatory p., recommended p.
+PROGRAM P., ISSUE-SPECIFIC POLICY, SYSTEM-SPECIFIC P.
+internet p., data-protection p., acceptable-use p.
+
+**What is the correct order when building security?
+security mechanisms - threat survey - security policy - risk analysis
+security policy - threat survey - risk analysis - security mechanisms
+THREAT SURVEY - RISK ANALYSIS - SECURITY POLICY - SECURITY MECHANISMS
+security policy - security mechanisms - threat survey - risk analysis
+
+
+**When outsourcing IT systems,
+security services cannot be outsourced with the exception of physical security, like guards.
+REGULATORY AND COMPLIANCE REQUIREMENTS MUST BE PASSED ON TO THE PROVIDER.
+the provider can take up ownership of all devices, software and data while the outsourcing organization concentrates on physical production.
+security services cannot be outsourced except auditing.
+
+**The primary security goal of ____ management is to ensure that changes to the hardware, software or networking in the organization's information system do not unintentionally or unknowingly diminish security.
+document
+policy
+user
+CONFIGURATION
+
+**There are two main types of information system security requirements - in general, but especially according to the Common Criteria standard, namely
+FUNCTIONAL AND ASSURING.
+emphasizing either integrity and availability, or confidentiality and privacy.
+related to intentional and unintentional security breaches.
+active and passive.
+
+**When assessing the risks associated with residual data in an information system, it is important to
+note that a careless user may replace an existing document with an older version.
+first perform overwriting on all seemingly empty space on the storage media.
+UNDERSTAND THE SECURITY REQUIREMENTS ANY DATA IN THE SYSTEM.
+evaluate vulnerabilities found in applications that handle sensitive files.
+
+**Escrow is a useful concept in many contexts, but what cannot be escrowed?
+money
+PUBLIC KEY CERTIFICATES
+decryption keys
+software source code
+
+**What is meant by threat trees?
+A specific biological metaphor for "what-if" -type scenario work in threat assessment.
+A specific method of classifying threats and vulnerabilities that progresses and branches through user feedback.
+Certain physical threats to information security or public safety.
+A CERTAIN HIERARCHICAL, COMPREHENSIVE APPROACH TO STRUCTURING THREATS.
+
+**When reviewing access rights of a user the security professional must be most aware of
+identity management and business continuity management.
+the organizational tenure of the user requesting rights.
+automated processes which grant users access to resources.
+
+**The threat of a collusion attack by employees is best mitigated by applying
+the principle of least privilege.
+data classification.
+defined job sensitivity levels.
+JOB ROTATION.
+
+**Besides reducing departmental turf battles, setting clear security roles in an organization has two of the following benefits: 
+It (i) reducing requirements for cross-training (=same task to several)
+ (ii) enables continuous improvement of personnel, (iii) simplifies identity and access management, 
+ (iv) establishes personal accountability. Which two?
+(II) AND (IV)
+(i) and (ii)
+(i) and (iii)
+(i) and (iv)
+
+**When a PKI certificate is revoked in an organization the proper procedure is to
+set up new key expiry dates.
+UPDATE THE CERTIFICATE REVOCATION LIST.
+notify all employees of the revoked keys.
+remove the private key from all directories.
+
+**Which of the following statements is false?
+The public key system can extend beyond national borders or it can be limited to a single organization.
+Digital signing of certificates is not a necessary part of a public key system.
+The public key infrastructure can be built on a single certificate authority.
+
+A CERTIFICATE CHAIN CAN ALSO BE FORMED BY ITERATING THE FOLLOWING (BY DIFFERENT SIGNERS OF COURSE):
+CREATE THE FIRST CERTIFICATE BY SIGNING JUST A PUBLIC KEY, THEN MAKE EACH NEW ONE BY SIGNING THE PREVIOUS CERTIFICATE TOGETHER WITH ITS ASSOCIATED IDENTITY.11
+
+All of the following have something to do with redundancy. What has the least to do with the sort of redundancy that is used to protect integrity?
+metadata, i.e. data about data
+hash function computed from data
+backup
+ENTROPY
+
+A web beacon, or web bug, is
+malware that is hidden in HTML comments of a web page.
+an invisible image loaded within a web page that cannot be associated with the use of cookies.
+A WEB PAGE ELEMENT THAT THE USER IS NOT SUPPOSED TO NOTICE.
+a web cookie that comes from another server than the main content.
+
+
+A web bug is
+a programming error in the client-side code of a web page.
+A VULNERABILITY IN THE SERVER-SIDE CODE OF A WEB SITE.
+mobile code that is roaming web sites to gather their update status.
+an invisible element on a web page, revealing userâ€™s presence on that page to its home site.
+
+Which of the following is not a natural content for a cell in an access control matrix?
+INFORMATION ABOUT THE GROUPING OF THE SUBJECT AND THE OBJECT
+denying access
+information about several types of access
+empty
+
+If the access list of an object is a row in the table presenting the totality of access control, then a column in the table represents the
+access types.
+CAPABILITY LIST OF SUBJECTS.
+identifiers of objects.
+identifiers of subjects.
+
+The password file salt
+changes each time the password is used.
+prevents checking the correctness of password guesses.
+slows down finding a particular user's password by guessing.
+FORCES THE PASSWORD GUESSER TO WORK SEPARATELY FOR MOST USERNAMES.
+
+Each cell of the access control matrix
+has an indication of whether a particular type of access is allowed or not.
+MAY CONTAIN INFORMATION ABOUT SEVERAL TYPES OF ACCESS.
+presents a list of items to which a particular subject has a certain type of access right.
+lists the subjects entitled to access a particular object in a particular way.
+
+The avalanche effect appears in cryptography. Is it a (i) desired or (ii) non-desired property in the (x) algorithm level or the (y) implementation level?
+(i) + (y)
+(I) + (X)
+(ii) + (y)
+(ii) + (x)
+
+If a one-time key is unique like its name indicates and has not been revealed to any outsider, then one-time key encryption
+is still inferior to cryptanalytic encryption methods in both integrity and confidentiality.
+PROVIDES AS GOOD PROTECTION FOR CONFIDENTIALITY AS ANY ENCRYPTION CAN PROVIDE, BUT THE SAME IS NOT TRUE OF INTEGRITY.
+also provides the best possible protection for integrity.
+can also be implemented by "stretching the" key with some algorithm.
+
+Updating encryption keys quite often is important. The main reason is
+to make a chosen-plaintext attack impossible.
+TO KEEP THE AMOUNT OF TEXT ENCRYPTED WITH THE SAME KEY REASONABLE.
+to make it more difficult for a cracker to derive a new key based on an already revealed old key.
+to prevent the updated encryption program from using the same key as the old one.
+
+What is not true of a session key?
+It cannot be a public key.
+It is a symmetric key but it need not be the same to both directions, i.e. one party may use it only for encryption and the other one for decryption.
+ITS PURPOSE IS TO PROTECT THOSE KEYS THAT ARE CHANGED FOR EACH MESSAGE OF THE COMMUNICATIONS.
+A leaked session key should not expose the keys of any previous or subsequent sessions.
+
+A pseudorandom number
+is a random sequence of bits taken from some physical source, transformed to a number without filtering that would balance the set of such numbers to be evenly distributed.
+is a bit sequence intended for cryptographic use but originating from a forged or accidentally false source that has destroyed its statistical properties.
+is a binary number whose bits have been computed with a known algorithm from some initial value in such a way that the set of such numbers passes certain statistical tests.
+IS A NUMBER TAKEN FROM A LONG BIT SEQUENCE, WHICH IS APPARENTLY A RESULT OF COMPUTATION, BUT THE ALGORITHM IS NOT KNOWN.
+
+Is 154585821 a random number?
+No, if the number appeared publicly somewhere else and the author of this question took it from there. Otherwise yes.
+No, because it uses only 5 different digits although it is nine digits long.
+No, because it repeats the digits 5 and 8 in such a way that is extremely improbable for this short a sequence of digits.
+THE QUESTION CANNOT BE ANSWERED, BECAUSE RANDOMNESS IS NOT A PROPERTY OF A SINGLE NUMBER WITHOUT A CONTEXT.
+
+
+In the self-test of a random bit generator it needs to pass some statistical properties. What features are common?
+The generator is started twice and the correlation of the generated queues must be within certain limits.
+The generator is started from several specified initial states and the generated queues must be the same as the reference data.
+The generated bits are correlated with previously stored queues and the results must be within certain limits.
+THE NUMBER OF ONES MUST BE WITHIN CERTAIN LIMITS AS WELL AS THE NUMBER OF RUNS OF CERTAIN LENGTHS.
+
+What is the role of condensation (squeezing a large number of bits into a small number in some way) in a digital signature?
+A one-way hash is calculated as the last step of producing a signature.
+Compression is not usually used for signing.
+THE ASYMMETRIC SIGNATURE ALGORITHM IS NOT APPLIED TO A DOCUMENT BUT TO ITS ONE-WAY HASH.
+Documents are always subjected to reversible compression before signing.
+
+The message authentication code, MAC, is computed
+by applying symmetric encryption to a random challenge.
+by applying a hash function to a random challenge.
+BY APPLYING A KEYED HASH FUNCTION TO THE MESSAGE.
+by applying asymmetric encryption to the message.
+
+The "state" in a stateful packet filter is to store (instead of possibly only logging)
+ADDRESSES FOR OPENED CONNECTIONS TO ALLOW LEGITIMATE CALLBACK FROM THOSE ADDRESSES.
+source addresses of frequent connection attempts that have been blocked implicitly (i.e. not by explicit rules) - but which would not cause a DoS.
+statistics of traffic both inward and outward.
+the source IP addresses of DoS attacks to block them automatically in future.
+
+
+Escrow is a useful concept in many contexts, but what cannot be escrowed?
+decryption keys
+software source code
+money
+PUBLIC KEY CERTIFICATES
+
+
+
+Which of the following statements is true?
+Testing does not help in making software under construction completely secure because some vulnerabilities do not appear in any kind of testing.
+TESTING DOES NOT MAKE SOFTWARE UNDER CONSTRUCTION COMPLETELY SECURE BECAUSE IT IS VIRTUALLY IMPOSSIBLE TO GO THROUGH ALL THE OPTIONS.
+Secure programs can be proven to be such using formal verification methods.
+Good programming methods, testing, and proving have very little effect on the security of complex software.
+
+
+Assume you are using a multi-user computer running Unix or Linux. What happens when you issue the command 'logout'?
+You will be wiped away from the list of the active users, but other non-admin users could not find this out.
+Other users get a notification that you have left the system.
+All your processes will be terminated and you cannot run any commands on the computer before you login again.
+A LOT MORE DATA WILL BE DELETED FROM THE SYSTEM THAN YOUR USERNAME FROM THE LIST OF ACTIVE USERS.
+
+A bastion host is
+A HARDENED SINGLE-PURPOSE SERVER AT THE OUTER EDGE OF THE ORGANIZATION'S NETWORK.
+a computer that has only an outbound connection to the internet.
+another name for the edge router of an organization network in case it has been equipped with DoS protection.
+a workstation that has no services installed for remote use except possibly the administrative connection.
+
+In a software program the application programming interface, API, is
+the place attackers first test for vulnerabilities in case of new versions of widely spread programs.
+the common point to attach physical DRM dongles.
+the channel through which the program can access security services.
+THE CHANNEL THROUGH WHICH OTHER PROGRAMS CAN ACCESS THE SERVICES PROVIDED BY THE PROGRAM.
+
+Device drivers that are installed by the end-user must be designed securely, because they usually
+become integrated as part of the operating system.
+OPERATE IN THE UNRESTRICTED, OR KERNEL, MODE.
+have the same access rights as the end-user.
+are configured by software without human interactio
+
+One of the most common software security flaws is "incomplete mediation", meaning inadequate flow control from one processing routine to another. An example of this is
+writing outside the boundaries of a memory area.
+INADEQUATE ERROR HANDLING.
+information undergoing changes after being read but before being used.
+calling a subroutine without parameters.
+
+Which of the following has the least to do with the security threats that can result from having too long a time between verification of rights and actions that require them?
+The rights have changed and they would no longer allow such activities.
+A signature gets accepted even if it was not made by the person in whose name it was made.
+A terminal session gets used by someone other than the one who was logged in.
+THE INFORMATION IS NO LONGER RELEVANT TO THE PERSON WHO HAS ACCESS TO IT, AND INDIFFERENCE MAKES HIM OR HER CARELESS ABOUT ITS CONFIDENTIALITY.
+
+Bytecode, the pseudo-object code that is translated from a source code but must still be interpreted to execute,
+IS FASTER THAN INTERPRETED SOURCE CODES.
+reserves and releases memory automatically, thus blocking many attacks and programming errors.
+is less prone to reverse engineering than object code.
+has a built-in sandbox that makes it more secure to download an run than executable code.
+
+The kernel mode is a status that certain processes have during their operation. It is called with several different names, but not with term
+unrestricted mode.
+SUPERUSER MODE.
+privileged mode.
+supervisor mode.
+
+Trusting user input is detrimental. This is one of the fundaments for secure programming. Among the following five rules, which two are applications of it? 
+(i) Protect against buffer overflows. (ii) Disable web site scripting. (iii) Do not require administrator privileges. 
+(iv) Leave the generation of the encryption code to professionals. (v) Reduce attack targets.
+(iv) & (v)
+(I) & (II)
+(iii) & (iv)
+(ii) & (iii)
+
+_________ 2 topic last
+Address space layout randomization is
+one of the methods used by polymorphic viruses to evade detection.
+a method of ransomware making the victim's files useless, allowing gradual and verifiable selling back of recovery data.
+a protection of hosts in a LAN against targeted attacks.
+A PROTECTION USED BY OPERATING SYSTEMS AGAINST EXPLOITING MEMORY VULNERABILITIES, E.G. BUFFER OVERFLOW.
+
+Data execution prevention, DEP, is a class of methods
+that the compiler uses to mark parts of compiled software code as non-executable and non-mutable.
+to mark parts of the binary code loaded in memory as non-executable data but still allowing its content to be modified.
+USED BY THE OPERATING SYSTEMS TO MARK SOME MEMORY SEGMENTS NON-EXECUTABLE.
+to restrict the capability of programs that render media or document files not to run any executable content from those files.
+
+Which of the following statements is true?
+TESTING DOES NOT MAKE SOFTWARE UNDER CONSTRUCTION COMPLETELY SECURE BECAUSE IT IS VIRTUALLY IMPOSSIBLE TO GO THROUGH ALL THE OPTIONS.
+Good programming methods, testing, and proving have very little effect on the security of complex software.
+Testing does not help in making software under construction completely secure because some vulnerabilities do not appear in any kind of testing.
+Secure programs can be proven to be such using formal verification methods.
+
+
+Which among the following is the best guarantee that software is secure?
+The software matches its specification accurately and fulfills its intended task.
+THE SOFTWARE HAS BEEN DESIGNED AND DEVELOPED IN ACCORDANCE WITH BEST PRACTICES AND USING ADEQUATE RESOURCES.
+The designed modes of operation of the software have all been tested, i.e. tried out and found to be safe.
+The software specification has been formally proven safe.
+
+A trusted platform module is is important for secure programming,
+but its security depends on the environment being able to run its encrypted code.
+but it does not itself contain any code or data.
+BUT IT IS OFTEN USED TO PROVIDE TRUST FOR OTHERS AGAINST THE USER AS PART OF DRM.
+but its user can easily corrupt its trustworthiness.
+
+
+
+
+The purpose of the operating system is NOT to combat the integrity problem that threatens the database in the situation, where
+a user level process of a hacker attempting to write to the memory area used by the database manager.
+TWO USERS UPDATING THE DATABASE READ THE SAME INFORMATION FROM THE DATABASE AT THE SAME TIME.
+simultaneous users start the database management program in two or more separate processes.
+the data transfer gets out of sync between the main memory of the database machine and the peripheral memory.
+
+Historically encryption was invented to protect data in transit, i.e. messages. To protect data in storage
+the same procedures apply by replacing the transmission channel with the storage media and equalling recipient = sender.
+stronger and faster cryptography is needed because of the high volume of data.
+VARIOUS NEW QUESTIONS ARISE, LIKE WHETHER TO ENCRYPT FILES, FILE SYSTEMS OR WHOLE STORAGE MEDIA.
+simpler algorithms with shorter key lengths suffice because there is no real-time demand and the attack surface is smaller.
+
+**
+n database management systems, ACID is an important set of properties. Which one is to allow NO PARTIAL TRANSACTIONS to be visible before the whole transactions is completed?
+Atomicity
+ISOLATION
+Durability
+Consistency
+In database management systems, ACID is an important set of properties. Which one is to allow ONLY VALID TRANSACTIONS that do not violate any user-defined integrity constraints?
+Atomicity
+Isolation
+CONSISTENCY
+Durability
+
+
+Which of the following would be the most stringent requirement when a wide variety of summary information can be retrieved from a database of persons, but a field is sensitive at the individual level? "The search results must not reveal even
+whether the value of that field for a particular person is different from what is given in the search criteria."
+a rough range in which the value of that field is for a particular person."
+a list of those who have an entry at all in that field."
+THE AVERAGE OF THAT FIELD IF LESS THAN HALF OF THE RECORDS IN THE DATABASE ARE INCLUDED IN ITS CALCULATION."
+
+Which of the following is not true, when there is sensitive information in a database? It may be that
+IT IS SUFFICIENT FOR PROTECTION THAT OUTSIDERS DO NOT KNOW HOW TO FORM QUERIES TO OBTAIN THE SENSITIVE INFORMATION.
+even the existence of that information must not be revealed.
+despite protections, some information can be obtained by inferring from allowed queries.
+various summaries of that information are not sensitive.

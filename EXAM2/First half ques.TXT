@@ -1,0 +1,468 @@
+**Denial of service becomes more possible
+if the service is distributed to many sites that must occasionally synchronize their data.
+if the service can be accessed through several addresses, some of which can be administratively blocked in case of too many requests.
+IF THE SECURITY POLICY DICTATES THAT TOO MANY FAILED ATTEMPTS TO LOG IN LEAD TO A TEMPORARY LOCK-OUT.
+if the authentication of clients requires a proof-of-effort from them.
+
+**Three of these five: Ping of Death, Ping sweep, Smurf, Spyware and SYN flood, are examples of attacks directly against
+confidentiality.
+integrity.
+authentication.
+AVAILABILITY.
+
+
+**What is an example of a cyber attack?
+An insider in a technology firm doing industrial espionage for a foreign company.
+A group of script kiddies trying their skills randomly and managing to launch a distributed DoS attack against a government agency.
+USING SOCIAL ENGINEERING TO INJECT CODE TO A CITY'S CENTRAL WATER SUPPLY SYSTEM AND CAUSING IT TO CRASH.
+Terrorists causing severe damage to the infrastructure by explosives.
+
+**A web cookie is a piece of information stored at the
+web server and concerning the browser program.
+web server and concerning the browsing person.
+browser and concerning the browsing person.
+BROWSER AND CONCERNING THE VISITS TO THE SERVER.
+
+
+**There are three models of cloud services, SaaS, IaaS and PaaS, that is, 'S', 'I' and 'P' as a service, where
+S=SOFTWARE, I=INFRASTRUCTURE, P=PLATFORM
+S=security, I=integrity, P=process
+S=safety, I=internet, P=premises
+S=software, I=infrastructure, P=procedure
+
+**Data mining is
+the opposite of data hiding.
+an attack against privacy.
+a method of cryptanalysis.
+A METHOD TO HANDLE BIG DATA.
+
+
+**Advanced persistent threat refers to
+a vulnerability that has not been patched.
+A THREAT ACTOR WITH PLENTIFUL RESOURCES WHO HAS GAINED UNAUTHORIZED ACCESS TO AN INFORMATION SYSTEM AND STAYS UNDETECTED FOR AN EXTENDED PERIOD OF TIME.
+a Trojan horse that applies some novel method to compromise the system where it is residing.
+a zero-day vulnerability, which the finder has sold to some party other than the manufacturer or vendor who is responsible for patching it.
+
+
+**When an attacker combines the methods of aggregation and inference against a large collection of data, what is he is most likely attempting to do?
+EXTRACTING SENSITIVE INFORMATION FROM NON-SENSITIVE DATA ITEMS IN DATABASES.
+Abusing social media.
+A known-plaintext attack against encryption.
+Password cracking.
+
+
+**What is the term used for attacks where each successful transaction benefits the attacker only very little but the number of transactions is high?
+email spam
+phishing
+SALAMI ATTACK
+DDoS
+
+**In the physical information security the concept of baiting means
+blackmailing with something questionable that the victim has done.
+stealing a device and requesting ransom for it.
+LETTING THE VICTIM FIND A CURIOSITY-AROUSING MEDIA CONTAINER.
+causing damage to rotating memory disks by perturbing their speed.
+
+
+**Alice cannot figure out how her colleague Bob gained unauthorized access to her information system, because Bob has little computer experience. However among the following she can easily rule out all except
+a covert channel.
+social engineering.
+a dictionary attack.
+SHOULDER SURFING.
+
+**An internet troll is a type of
+fake news that is spreading unusually fast.
+anonymous communication protocol.
+AUTHOR OF DISTURBING MESSAGES.
+hacker who is trying to find and sell vulnerabilites to anyone who wants to pay.
+
+
+**The concept deepfake is related to
+steganography.
+side channels in multimedia.
+FORGED VIDEO.
+anonymous commerce on counterfeit products
+
+**Which attack is based on information gained from the implementation of a computer system, rather than weaknesses in the implemented algorithm itself (e.g. cryptanalysis and software bugs)? Timing information, power consumption, electromagnetic leaks or even sound can provide a means for this.
+A SIDE-CHANNEL ATTACK
+implicit attack
+direct-access attack
+brute-force attack
+
+
+**Meet-in-the-middle is an attack type where
+password hashes are broken by optimizing the use of rainbow tables.
+A CRYPTOGRAPHIC ALGORITHM IS BROKEN AT ABOUT A SQUARE ROOT OF EFFORT BY WORKING BOTH FROM THE START AND END TOWARD THE MIDDLE.
+the attacker or his process relays modified messages between two unknowing communication parties.
+the statistics of the birthday paradox are simultaneously applied to identity theft of many individuals.
+
+
+**A birthday attack is a way to
+make inferences on private personal data from social media posts.
+"PARADOXICALLY" FIND A HASH COLLISION MUCH FASTER THAN AN INPUT THAT GIVES A PARTICULAR HASH.
+boost social engineering, by knowing not only the birthday of the victim but also an approaching birthday of a colleague of the victim.
+crack an average person's passwords faster in case his or her birthday is known.
+
+**Rooting
+is an attack type where an outside intruder gets administrative rights to an operating system.
+IS A TERM REFERRING TO METHODS OF OVERRIDING THE LIMITATIONS OF THE OS FOR INSTALLING PROGRAMS FROM ANY SOURCES.
+involves alteration of OS access controls on a computer in such a way that all users have administrative rights.
+means that an attacker has been able to alter the initial operations that a computer does before the OS starts.
+
+
+**A root kit is
+a term referring to methods of breaking the limitations of the OS for installing programs from various sources.
+is a set of tools for breaking the DRM limitations of multimedia software with respect to viewing, copying and modifying content.
+A COLLECTION OF SOFTWARE TOOLS WHICH - AFTER GETTING TO A COMPUTER - ALLOW THE ATTACKER TO ACCESS THE MACHINE WITH ROOT PRIVILEGES.
+the common name for versions of a computer virus that attaches to one of the supervisor or kernel modules.
+
+
+**Which two of these statements are true? (i) Only about one-fifth of computer viruses come from optical disks, memory sticks, and other storage media 
+(ii) Files with .bat and .pif as name extensions can contain malware. 
+(iii) Antivirus software vendors update virus identification databases usually a few times an hour. 
+(iv) A memory-based virus scan program is constantly running and scans the programs before they start.
+
+(II) & (IV)
+(i) & (iv)
+(ii) & (iii)
+(i) & (iii)
+
+
+**Which two of these claims are true? (i) More than a quarter of computer viruses come from optical disks, memory sticks, and other removable media. (ii) Files with .scr and .pif as name extensions can contain malware. (iii) Antivirus software vendors usually have to update virus identification data twice a week. (iv) Heuristic-based antivirus software does not need to be updated as often as software that is based on traditional scanning.
+(ii) & (iii)
+(II) & (IV)
+(i) & (iii)
+(i) & (iv)
+
+
+**None of the following is a definition of a buffer overflow, but which one best describes it?
+The program counter, i.e. the address of the next instruction to be executed, is moved forward by one, even if it is already in the last instruction of the subroutine.
+It is always a security threat because an attacker can use it to cause evil - at least a program crash.
+A memory reference made by a program points to another process's memory area.
+A NUMBER LARGER THAN THE ARRAY SIZE IS USED TO INDEX THE ARRAY, AND THE OPERATING SYSTEM DOES NOT BLOCK THIS REFERENCE.
+
+
+**Only depending on their context, a sequence of bits in the memory of a computer can mean either data or instructions. This can lead to attacks of type
+impersonation.
+INJECTION.
+buffering.
+bit rot.
+
+**A covert channel
+IS A WAY OF COMMUNICATING THAT IS HIDDEN FROM THE ACCESS CONTROL MECHANISMS.
+was originally meant for transmitting inaudible signals between computer peripherals but was deprecated since attackers found a way to abuse it.
+refers to a data transfer mechanism that an attacker has enabled between computer processes even if it should have been disabled according to the security policy.
+is a performance-optimizing design that allows data flow through a common kernel process serving different users.
+
+
+**Assume that two processes compete for a shared resource. If they cooperate in such a way that the system's security policy is violated, the situation is called
+a race condition.
+object reuse.
+A COVERT CHANNEL.
+denial of service.
+
+
+**Assume a web site allows users to input data that other users retrieve later. If those data are not intended to be executed by the retrieving browsers, but this still happens, the input validation has failed to prevent a
+CROSS-SITE SCRIPTING.
+cross-site request forgery.
+malicious file execution.
+database injection.
+
+
+**Race condition is
+a low level vulnerability in program code, usually at the OS kernel level.
+the situation where a denial of service has already happened but not to all processes.
+a situation where two processes can raise their privilege wrongly to compete for more resources.
+A SITUATION WHERE TWO PROCESSES TRY TO ACCESS A SINGLE RESOURCE AT THE SAME TIME AND THE RESULTING SEQUENCE OF ACCESSES MAY BE WRONG.
+
+
+**A virus can do nothing if its code is just read but not run. Why then does the MS-Word macro virus start, even if the document containing it is only read from disk to Word?
+AN INFECTED DOCUMENT CONTAINS PROGRAM CODE THAT WORD RUNS AFTER READING THE DOCUMENT.
+The virus is memory-resident and infects documents when they are opened.
+An infected document contains program code which, when read into Word, causes a buffer overflow in Word and ends up being executed after all.
+The virus has also infected Word's program code.
+
+**Threats to network communications can be summarized in five fundamental cases, one of which is the unauthorized use of a resource over the network. The other four deal with the "fate" of messages. If each of these four cases is seen as a breach of either confidentiality, integrity or availability, then there will be two cases breaching
+INTEGRITY.
+availability.
+both confidentiality and availability.
+both integrity and confidentiality.
+
+
+**On which layer of the TCP/IP stack does routing operate?
+Physical layer.
+NETWORK LAYER.
+Transport layer.
+Data-link layer.
+
+
+**On which layer of the TCP/IP stack does Ethernet (IEEE 802.3) operate?
+Physical layer.
+Network layer.
+DATA-LINK LAYER.
+Transport layer.
+
+**A wormhole attack happens when two colluding attackers at non-adjacent locations of a (wireless) network have a direct connection and by replaying routing information cause traffic to flow through their link. This gives good opportunity to
+money laundering.
+cryptanalysis.
+SEEING CONFIDENTIAL DATA.
+stopping the network.
+
+
+**ARP poisoning
+IS A RESULT OF AN ATTACKER SENDING FAKE ARP MESSAGES WITHIN A LAN.
+is a result from an attacker randomly changing several MAC addresses of devices in a local network.
+halts the operation of a LAN because the addresses in the ARP table point to non-existent MACs.
+happens when malware corrupts the program that runs the Address Resolution Protocol.
+
+
+**Scanning is systematic search for something. Which of the following scans is least useful for finding targets of attack or abuse?
+wardialing
+portsweep
+wardriving
+WEBCRAWLING
+
+
+**Which of these properties is true about link encryption? (i) It is recommended for environments with high confidentiality requirements. (ii) It encrypts routing information. (iii) It provides confidentiality for traffic flow.
+(II) AND (III), BUT NOT (I)
+(i) and (ii), but not (iii)
+(i) and (iii), but not (ii)
+(i), (ii) and (iii)
+When a user runs scripts - written by an attacker - on one web page and they cause damage on another page, which the user has open in the browser, what sort of attack is happening?
+OWASP
+XSS
+______ CSRF
+CVE
+
+
+**Besides a physical meaning the concept of access control is defined as "The process of granting or denying specific requests to obtain and use information and related information processing services". What is the significance of the word "specific" here?
+It denotes the fact that not all requests are submitted to the granting/denying process.
+Without that word the defined scope would be overly large, covering all levels from the OS kernel to the application layer.
+Omitting the word would not change the meaning, because all requests of the defined kind are specific in some sense.
+IT LIMITS THE SCOPE OF ACCESS CONTROL TO THE MOMENT WHEN THE REQUEST HAPPENS - IN CONTRAST TO THE POLICY LEVEL THAT TELLS HOW THE GRANTING/DENYING PROCESS SHOULD WORK.
+
+
+**Investigate the claim: As a security goal, Availability, or Usability, means that information or services are stored and accessible sooner or later. It is false because
+the term usability should not be used in the same sense as the term availability.
+AVAILABILITY REQUIRES THAT THE DATA BE ACCESSED WITHIN A SET TIME LIMIT.
+in terms of security, availability only applies to information and usability only to services.
+usability also requires that the data have not changed uncontrollably.
+
+
+**Identity is a profound concept in information systems. Count how many of the following operations can be done to it: Identity can be (i) offered as a service, (ii) changed, (iii) confiscated, (iv) stolen, (v) verified (vi) spoofed.
+______ 5
+3
+4
+6
+
+**Assume Bob worked in an organization until he was terminated. Which of the following is an example of the organization's information systems to fail with the TOCTOU principle (Time of Check/Time of Use)?
+BOB CAUSES HARM IN THE INFORMATION SYSTEM, AND IT TURNS OUT FROM THE LOGS THAT THIS HAPPENED WHILE HE WAS STILL LOGGED IN AFTER HIS TERMINATION.
+Bob manages to solicit new sensitive information from the organization by using his old knowledge of the organization to masquerade as a current employee.
+Bob gradually damages the file system by a remote-access program he had installed while he was still an employee.
+A program destroys files. It turns out that Bob had installed the program while he was still an employee, and its action was triggered when it no more saw Bob logged in within the last month.
+
+
+**The worst enemy of security may be a human being, but what is the second worst - often also called the worst?
+multilayerness
+single-levelness
+the weakest link in the chain
+NONE OF THESE
+
+**An administrator grants access rights to a group of users called "HR" instead of granting rights to each member individually. This is an example of a security mechanism called
+layering.
+data hiding.
+ABSTRACTION.
+polyinstantiation.
+
+
+**The over 100 years old principle of Kerckhoffs
+CONCERNS THE SEPARATE NATURE OF AN ALGORITHM AND ITS PARAMETERS.
+is in current parlance known also as the onion (protection) principle.
+has been obsoleted by the invention of public key cryptography.
+says that locks are for honest people.
+
+
+**The security of a mechanism shall not be based on the secrecy of its design or implementation. This is the principle of an open model. Which of the following is an example of complying with this?
+A CORPORATE NETWORK IS DEFENDED BY A TWO-TIER SYSTEM IN WHICH THE STRUCTURE OF THE OUTER AND LESS IMPORTANT PART OF THE NETWORK IS CLEARLY VISIBLE TO THE ATTACKER AND CAN MISDIRECT HIM INTO FOCUSING ON IT.
+The security system is assembled from so simple modules that everyone can be assured of the security of each of them.
+All publicly available URLs on a website are linked on a sitemap or other index page, but all non-public URLs require a login.
+The single sign-on mechanism that allows the user to access various web services works regardless of the service implementation platform.
+
+**Encapsulation is a general protection idea whose applicability ranges from vaults to IPsec's encapsulating security payload (ESP), but which of the following is NOT another example of it?
+INTRUSION DETECTION SYSTEM
+TCP wrapper
+sandbox in Java Virtual Machine
+a VPN tunnel
+
+**The ____ describes the rules that need to be implemented to ensure that the security requirements are met in your organization.
+SECURITY POLICY
+security model
+reference monitor
+security kernel
+
+
+**What does accountability mean in the field of information security?
+The users or their departments have to pay for the CPU and network usage, and logs are kept to enable this.
+The users or their departments have to pay the costs of resolving security incidents caused by the users.
+The userâ€™s actions in the information system are recorded in log files and they are used for evaluation of the user with respect to rewards or sanctions.
+THE USERÂ€™S ACTIONS ARE LOGGED AND IN CASE OF SECURITY INCIDENCES IT WILL BE KNOWN WHETHER THE USER IS RESPONSIBLE OR NOT.
+
+
+**What kind of identity is a federated identity?
+The stolen identity of a victim of identity theft.
+The corrected or resumed identity of a victim of identity theft.
+AN IDENTITY THAT IS PORTABLE ACROSS BOUNDARIES OF ORGANIZATIONS.
+The shared identity of a group of individuals acting on a common task.
+
+
+**Residual risk is a concept in risk management that
+means an approximation of what is left over of risks after their treatment is done.
+corresponds to measurement error in exact sciences.
+DEFINES THOSE RISKS THAT CAN BE SAFELY ACCEPTED.
+sets the starting point for risk assessment.
+
+
+**In choosing protection mechanisms one must take into account their applicability in different stages of the general security process. Which three stages?
+policy making, threat response and remediation.
+recovery, correction, and punishment of the perpetrators.
+avoidance, intimidation and deterrence.
+PREVENTION, DETECTION AND RESPONSE.
+
+
+**What can be considered a basic model of work in information security?
+Division to the phases of prevention, detection and response.
+REPEATED IDENTIFICATION OF ASSET VALUES AND THREATS TO THEM, AND MITIGATION OF RISKS IN ORDER OF PRIORITY.
+Confidentiality, integrity and availability.
+Optimization to find the most economical alternative between good but expensive security measures and losses due to not using them.
+
+**For mandatory access control to work the data owner must determine
+a sufficient level of consensus among users.
+the method of validating users' authorization.
+THE USERS' NEED TO KNOW.
+the method of verifying users' identities.
+
+
+**Multilevel security is
+an example of defence-in-depth.
+a security model where new parts are introduced at lower assurance levels and gradually elevated to higher levels as they are evaluated.
+the way how operating systems treat processes of users, running them with more or less restricted rights.
+A SYSTEM THAT SIMULTANEOUSLY PROCESSES INFORMATION AT DIFFERENT CLASSIFICATION LEVELS AND USERS WITH DIFFERENT CLEARANCE LEVELS.
+
+
+**Role-based access control
+is the strictest form of mandatory access control.
+IS IMPLEMENTED BY CONSIDERING JOB FUNCTIONS.
+can be compromised by role inheritance.
+does not depend on what the data owner declares.
+
+
+**Role-based access control, RBAC, means
+AN ACCESS CONTROL MODEL THAT BASES THE ACCESS DECISION ON PRE-ASSIGNED ROLES OF A USER IN RELATION TO THE REQUESTED RESOURCE.
+a method to assign roles to users or revoke them in order to fulfill the security policy.
+an access control model that uses such grouping of users and resources where the groups can change on the basis of previous accesses.
+a method to allocate roles to users for access to various parts of the organization network.
+
+**CERT, Computer Emergency Response Team,
+is an international company whose main task is to investigate and trace data breaches in companies.
+originated in the United States and has since spread to e.g. Finland.
+is a UN agency that also has offices in Finland.
+in accordance with the EU directive, has also been made to operate in Finland under FICORA.
+
+
+**The process of evaluating the security properties of software or a system against a set of security standards or policies is called
+accreditation.
+verification.
+CERTIFICATION.
+validation.
+
+
+**The idea of information security criteria models (e.g. Common Criteria) is mainly to
+assist in the marketing of security products.
+FACILITATE THE ASSESSMENT OF INFORMATION SECURITY.
+facilitate the installation of security mechanisms.
+enable automatic evaluation of products and systems with respect to security.
+One of the ISO standards 9126, 15408 and 27001 focuses on evaluation of software quality. The other two focus on information security. (i) Which is about management, and (ii) which provides evaluation criteria for IT products?
+____ (I) 27001, (II) 15408
+(i) 15408, (ii) 27001
+(i) 9126, (ii) 27001
+(i) 9126, (ii) 15408
+An X.509 certificate is used to verify
+a cryptographic key using a trusted server.
+a digital signature by submitting it to a certificate authority.
+the ownership of a website that uses TLS.
+THE BINDING BETWEEN AN IDENTITY AND A CRYPTOGRAPHIC KEY.
+
+
+**What is the offline rule for backups?
+While making a backup, take your system offline, except for the connection to the backup site.
+ONLY CONNECT YOUR BACKUP TO YOUR PRODUCTION SYSTEMS WHEN MAKING OR RETRIEVING THE COPY.
+Transport your backup media physically to storage which is never online.
+While making a backup to a local service or media, take your system offline.
+
+
+**What is the '3-2-1' rule for backups?
+AT LEAST 3 COPIES, ON 2 DEVICES, AND 1 OFFSITE.
+At least 3 generations, 2 copies of each, and 1 offline.
+At least 3 copies, on 2 sites, and 1 offline.
+At least 3 generations, 2 copies of each, and a new copy once per day.
+
+
+**Intrusion detection systems use three types of information as the basis for their analysis. Which of the following is not typically included in this information?
+program file checksums
+characteristics of previous attacks
+KNOWLEDGE FROM PREVIOUS ATTACKERS
+information about current system configuration
+
+
+**In the event of a security incidence, one of the primary objectives of the response is to ensure that
+the attackers are detected and stopped.
+appropriate documentation about the event is maintained as chain of evidence.
+THERE IS MINIMAL DISRUPTION TO THE ORGANIZATION'S MISSION.
+the affected systems are immeadiately shut off to limit the impact.
+
+
+**What should owners do to find vulnerabilities in their information systems?
+Use intrusion detection techniques.
+Provide a parallel version of the system for hackers to examine.
+Install a root kit.
+APPLY AUTOMATIC ATTACK TOOLS.
+
+**Business continuity plan together with disaster recovery plan
+are a set of plans for preventing disasters.
+ARE THE SET OF ADEQUATE PREPARATIONS AND PROCEDURES FOR THE CONTINUATION OF ALL ORGANIZATION FUNCTIONS.
+are a standard set of preparations and procedures for responding to a disaster without the need of being approved.
+are a sufficient and priorly approved set of preparations and procedures for responding to a disaster.
+
+
+**When dealing with digital evidence, the chain of custody must
+never be altered.
+be completely reproducible in a court of law
+exist in only one location.
+BE COMPILED ACCORDING TO A DOCUMENTED PROCESS.
+
+
+**In an organization both disaster recovery and business continuity need a plan, and when information security is concerned the term disaster recovery commonly refers to the recovery of
+TECHNOLOGY ENVIRONMENT.
+manufacturing environment.
+personnel environments.
+organization operations.
+
+
+**Even if a Finnish company wants to be silent about a breach, it may have obligations to report it to
+CERT Coordination Center.
+anonymous police reporting service.
+FINNISH COMMUNICATIONS REGULATORY AUTHORITY.
+To the EU Information Security Agency.
+
+
+**Computer forensics can be regarded as a combination of computer science, information technology, engineering and
+hacker's mindset.
+critical thinking.
+the scientific method.
+LAW.
+
+**To ensure proper forensic action when needed, an incident response team must
+avoid conflicts of interest by ensuring that the legal council of the organization is not part of the process.
+routinely create forensic images of all desktops and servers.
+only promote closed incidents to law enforcement.
+TREAT EVERY INCIDENT AS THOUGH IT MAY BE A CRIME.
